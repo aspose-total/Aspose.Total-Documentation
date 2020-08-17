@@ -17,7 +17,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Words for Java|20.6|[Aspose.Words for Java 20.6](/words/java/aspose-words-for-java-20-6-release-notes)|
 |Aspose.Cells for Java|20.6|[A](/cells/java/aspose-cells-for-java-20-6-release-notes)[spose.Cells for Java 20.6](/cells/java/aspose-cells-for-java-20-6-release-notes)|
 |Aspose.PDF for Java|20.4|[Aspose.PDF for Java 20.4](/pdf/java/aspose-pdf-for-java-20-4-release-notes)|
-|Aspose.Slides for Java|20.6|[Aspose.Slides for Java 20.6](/slides/java/aspose-slides-for-java-20-6-release-notes)|
+|Aspose.Slides for Java|20.7|[Aspose.Slides for Java 20.7](/slides/java/aspose-slides-for-java-20-7-release-notes)|
 |Aspose.Email for Java|20.5|[Aspose.Email for Java 20.5](/email/java/aspose-email-for-java-20-5-release-notes)|
 |Aspose.BarCode for Java|20.6|[Aspose.BarCode for Java 20.6](/barcode/java/aspose-barcode-for-java-20-6-release-notes)|
 |Aspose.Imaging for Java|20.6|[Aspose.Imaging for Java 20.6](/imaging/java/aspose-imaging-for-java-20-6-release-notes)|
@@ -32,5 +32,3 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Page for Java|20.4|[Aspose.Page for Java 20.4](/page/java/aspose-page-for-java-20-4-release-notes)|
 |Aspose.PSD for Java|20.2|[Aspose.PSD for Java 20.2](/psd/java/aspose-psd-for-java-20-2-release-notes)|
 
-
-Completed
