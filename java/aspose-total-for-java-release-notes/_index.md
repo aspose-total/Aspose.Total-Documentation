@@ -24,7 +24,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Imaging for Java|20.6|[Aspose.Imaging for Java 20.6](/imaging/java/aspose-imaging-for-java-20-6-release-notes)|
 |Aspose.Tasks for Java|20.7|[Aspose.Tasks for Java 20.7](/tasks/java/aspose-tasks-for-java-20-7-release-notes)|
 |Aspose.Diagram for Java|20.4|[Aspose.Diagram for Java 20.4](/diagram/java/aspose-diagram-for-java-20-4-release-notes)|
-|Aspose.Note for Java|20.5|[Aspose.Note for Java 20.5](/note/java/aspose-note-for-java-20-5-release-notes)|
+|Aspose.Note for Java|20.7|[Aspose.Note for Java 20.7](/note/java/aspose-note-for-java-20-7-release-notes/)|
 |Aspose.3D for Java|20.4|[Aspose.3D for Java 20.4](/3d/java/aspose-3d-for-java-20-4-release-notes)|
 |Aspose.CAD for Java|20.7|[Aspose.CAD for Java 20.7](/cad/java/aspose-cad-for-java-20-7-release-notes)|
 |Aspose.HTML for Java|19.9|[Aspose.HTML for Java 19.9](/html/java/aspose-html-for-java-19-9-release-notes)|
