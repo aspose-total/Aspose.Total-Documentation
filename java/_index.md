@@ -33,7 +33,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![Aspose.Cells for Java](/attachments/5276259/66519085.png)
+![Aspose.Cells for Java](cells.png)
 
 **Welcome to Aspose.Cells for Java**
 
