@@ -1,5 +1,5 @@
 ---
-title: Aspose.Pdf for ReportingServices
+title: Aspose.PDF for ReportingServices
 type: docs
 weight: 30
 url: /reportingservices/aspose-pdf-for-reportingservices/
@@ -9,7 +9,7 @@ url: /reportingservices/aspose-pdf-for-reportingservices/
 
 ![Aspose.PDF for ReportingServices](aspose-Pdf-for-ReportingServices.png)
 
-**Welcome to Aspose.PDF for Reporting Services!** 
+**Welcome to Aspose.PDF for Reporting Services!**
 
 Microsoft SQL Server Reporting Services fulfills a need that many organizations have: the need to build business intelligence and reporting solutions. Until now, developers were required to embed reports into their applications, or organizations were required to buy expensive and sometimes problematic third-party reporting solutions. Now, Microsoft SQL Server Reporting Services offers a complete solution for distributing reports across the enterprise; enabling businesses to make decisions better and faster.
 

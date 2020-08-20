@@ -1,11 +1,11 @@
 ---
-title: Aspose.Pdf for JasperReports
+title: Aspose.PDF for JasperReports
 type: docs
 weight: 30
 url: /jasperreports/aspose-pdf-for-jasperreports/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 **![Aspose.PDF for JasperReports](aspose-Pdf-for-JasperReports.png)**
 

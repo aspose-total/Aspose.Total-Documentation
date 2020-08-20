@@ -1,11 +1,11 @@
 ---
-title: Aspose.Pdf for SharePoint
+title: Aspose.PDF for SharePoint
 type: docs
 weight: 30
 url: /sharepoint/aspose-pdf-for-sharepoint/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.PDF for SharePoint](aspose-Pdf-for-SharePoint.png)
 
