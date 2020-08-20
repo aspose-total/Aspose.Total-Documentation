@@ -51,7 +51,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Cells for Android via Java Release Notes](/cells/java/aspose-cells-for-android-via-java)
 - [Aspose.Cells for Android via Java Product Page](https://www.aspose.com/products/cells/android-java)
 - [Download Aspose.Cells for Android via Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)
-- [Install Aspose.Cells for Android via Java from Maven](/cells/java/aspose-cells-for-android-via-java-Installation#InstallAspose.CellsforAndroidviaJavafromMavenRepository)
+- [Install Aspose.Cells for Android via Java from Maven](/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository)
 - [Aspose.Cells for Android via Java API Reference Guide](https://apireference.aspose.com/java/cells) (Aspose.Cells for Android via Java is very similar to Aspose.Cells for Java. So, you can use the same API Reference Guide)
 
 {{% alert color="primary" %}} 
