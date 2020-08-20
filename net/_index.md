@@ -68,13 +68,13 @@ Aspose.Cells for .NET is a spreadsheet programming library that allows software 
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Cells for .NET Online Documentation](/cell/snet/)
+- [Aspose.Cells for .NET Online Documentation](/cells/net/)
 - [Aspose.Cells for .NET Features](/cells/net/feature-overview)
-- [Aspose.Cells for .NET Limitations](/cellsnet/what-document-features-are-supported)
-- [Aspose.Cells for .NET Release Notes](/cellsnet/release-notes/)
+- [Aspose.Cells for .NET Limitations](cells/net/what-document-features-are-supported/)
+- [Aspose.Cells for .NET Release Notes](/cells/net/release-notes/)
 - [Aspose.Cells for .NET Product Page](https://products.aspose.com/cells/net)
 - [Install Aspose.Cells for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Cells/)
-- [Aspose.Cells for .NET API Reference Guide](https://apireference.aspose.com/net/cells)
+- [Aspose.Cells for .NET API Reference Guide](https://apireference.aspose.com/cells/net)
 - [Aspose.Cells for .NET Free Support Forum](https://forum.aspose.com/c/cells)
 - [Aspose.Cells for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
@@ -251,7 +251,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.OCR for .NET Release Notes](/ocr/net/release-notes/)
 - [Aspose.OCR for .NET Product Page](https://products.aspose.com/ocr/net)
 - [Install Aspose.OCR for .NET NuGet Package](https://www.nuget.org/packages/Aspose.OCR/)
-- [Aspose.OCR for .NET API Reference Guide](https://apireference.aspose.com/net/ocr)
+- [Aspose.OCR for .NET API Reference Guide](https://apireference.aspose.com/ocr/net)
 - [Aspose.OCR for .NET Free Support Forum](https://forum.aspose.com/c/ocr)
 - [Aspose.OCR for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
@@ -299,12 +299,12 @@ Using Aspose.CAD for .NET in your project gives you the following benefits:
 Following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.CAD for .NET Online Documentation](/cad/net/)
-- [Aspose.CAD for .NET Features](/cad/net/product-overview/#AdvancedAPIFeatures)
-- [Aspose.CAD for .NET Limitations](/cad/net/product-overview/#Notyetsupported)
+- [Aspose.CAD for .NET Features](/cad/net/product-overview/#advanced-api-features)
+- [Aspose.CAD for .NET Limitations](/cad/net/product-overview/)
 - [Aspose.CAD for .NET Release Notes](/cad/net/release-notes/)
 - [Aspose.CAD for .NET Product Page](https://products.aspose.com/cad/net)
 - [Install Aspose.CAD for .NET NuGet Package](https://www.nuget.org/packages/Aspose.CAD/)
-- [Aspose.CAD for .NET API Reference Guide](https://apireference.aspose.com/net/cad)
+- [Aspose.CAD for .NET API Reference Guide](https://apireference.aspose.com/cad/net)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-.NET)
 - [Aspose.CAD for .NET Free Support Forum](https://forum.aspose.com/c/cad)
 - [Aspose.CAD for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
@@ -475,7 +475,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.OMR for .NET Features](/omr/net/features-list/)
 - [Aspose.OMR for .NET Release Notes](/omr/net/release-notes/)
 - [Install Aspose.OMR for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Omr/)
-- [Aspose.OMR for .NET API Reference Guide](https://apireference.aspose.com/net/omr)
+- [Aspose.OMR for .NET API Reference Guide](https://apireference.aspose.com/omr/net)
 - [Aspose.OMR for .NET Free Support Forum](https://forum.aspose.com/c/omr)
 - [Aspose.OMR for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
@@ -521,9 +521,9 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.SVG for .NET Release Notes](/svg/net/release-notes/)
 - [Aspose.SVG for .NET Product Page](https://products.aspose.com/svg/net)
 - [Install Aspose.SVG for .NET NuGet Package](https://www.nuget.org/packages/Aspose.SVG/)
-- [Aspose.SVG for .NET API Reference Guide](https://apireference.aspose.com/net/svg)
+- [Aspose.SVG for .NET API Reference Guide](https://apireference.aspose.com/svg/net)
 - [Download Examples at GitHub Repository](https://github.com/aspose-svg/Aspose.SVG-for-.NET)
-- [Aspose.SVG for .NET Free Support Forum](https://github.com/aspose-svg/Aspose.SVG-for-.NET)
+- [Aspose.SVG for .NET Free Support Forum](https://forum.aspose.com/c/svg)
 - [Aspose.SVG for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -540,10 +540,10 @@ The following are the links to some useful resources you may need to accomplish 
 
 - [Aspose.Finance for .NET Online Documentation](/finance/net/)
 - [Aspose.Finance for .NET Release Notes](/finance/net/release-notes/)
-- [Aspose.Finance for .NET Product Page](https://products.aspose.com/finance)
-- [Install Aspose.Finance for .NET NuGet Package](http://docs.aspose.com)
-- [Aspose.Finance for .NET API Reference Guide](http://docs.aspose.com)
-- [Aspose.Finance for .NET Free Support Forum](http://docs.aspose.com)
+- [Aspose.Finance for .NET Product Page](https://products.aspose.com/finance/net)
+- [Install Aspose.Finance for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Finance/)
+- [Aspose.Finance for .NET API Reference Guide](https://apireference.aspose.com/finance/net)
+- [Aspose.Finance for .NET Free Support Forum](https://forum.aspose.com/c/finance)
 - [Aspose.Finance for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
