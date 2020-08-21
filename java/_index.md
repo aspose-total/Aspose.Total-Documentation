@@ -47,8 +47,8 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [Aspose.Cells for Java Online Documentation](/cells/java/)
 - [Aspose.Cells for Java Features](/cells/java/feature-overview/)
-- [Aspose.Cells for Java Limitations](/cells/java/aspose-cells-features)
-- [Aspose.Cells for Java Release Notes](/cells/java/aspose-cells-for-java)
+- [Aspose.Cells for Java Limitations](/cells/java/aspose-cells-features/)
+- [Aspose.Cells for Java Release Notes](/cells/java/aspose-cells-for-java/)
 - [Aspose.Cells for Java Product Page](https://products.aspose.com/cells/java)
 - [Download Aspose.Cells for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)
 - [Install Aspose.Cells for Java from Maven Repository](/cells/java/installation/)

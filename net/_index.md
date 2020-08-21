@@ -69,8 +69,8 @@ Aspose.Cells for .NET is a spreadsheet programming library that allows software 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Cells for .NET Online Documentation](/cells/net/)
-- [Aspose.Cells for .NET Features](/cells/net/feature-overview)
-- [Aspose.Cells for .NET Limitations](cells/net/what-document-features-are-supported/)
+- [Aspose.Cells for .NET Features](/cells/net/feature-overview/)
+- [Aspose.Cells for .NET Limitations](https://docs.aspose.com/cells/net/what-document-features-are-supported/)
 - [Aspose.Cells for .NET Release Notes](/cells/net/release-notes/)
 - [Aspose.Cells for .NET Product Page](https://products.aspose.com/cells/net)
 - [Install Aspose.Cells for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Cells/)

@@ -42,7 +42,7 @@ Aspose.Cells for Reporting Services is a solution for developers who need to del
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Cells for Reporting Services Online Documentation](/cells/reportingservices)
+- [Aspose.Cells for Reporting Services Online Documentation](/cells/reportingservices/)
 - [Aspose.Cells for Reporting Services Features](/cells/reportingservices/features/)
 - [Aspose.Cells for Reporting Services Release Notes](/cells/reportingservices/release-notes/)
 - [Aspose.Cells for Reporting Services Product Page](https://products.aspose.com/cells/reporting-services)
