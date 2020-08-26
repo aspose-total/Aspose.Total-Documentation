@@ -36,5 +36,5 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Page for .NET|20.6|[Aspose.Page for .NET 20.6](/page/net/aspose-page-for-net-20-6-release-notes)|
 |Aspose.PUB for .NET|20.4|[Aspose.PUB for .NET 20.4](/pub/net/aspose-pub-for-net-20-4-release-notes)|
 |Aspose.SVG for .NET|20.7|[Aspose.SVG for .NET 20.8](/svg/net/aspose-svg-for-net-20-8-release-notes/)|
-|Aspose.Finance for .NET |20.7|[Aspose.Finance for .NET 20.7](/finance/net/aspose-finance-for-net-20-7-release-notes/)|
+|Aspose.Finance for .NET |20.8|[Aspose.Finance for .NET 20.8](/finance/net/aspose-finance-for-net-20-8-release-notes/)|
 |Aspose.Drawing for .NET|20.6|[Aspose.Drawing for .NET 20.6](/drawing/net/aspose-drawing-for-net-20-6)|
