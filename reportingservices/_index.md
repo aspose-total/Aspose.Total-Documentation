@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Words for Reporting Services](home_1)**
+**![Aspose.Words for Reporting Services](aspose-Words-for-SSRS.png)**
 
 **Welcome to Aspose.Words for Reporting Services**
 

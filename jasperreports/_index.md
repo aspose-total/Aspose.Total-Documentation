@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Words for JasperReports](home_1)**
+**![Aspose.Words for JasperReports](aspose_words-for-jasperreports.png)**
 
 **Welcome to Aspose.Words for JasperReports**
 
