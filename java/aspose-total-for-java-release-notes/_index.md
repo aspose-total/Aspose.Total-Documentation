@@ -28,7 +28,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.3D for Java|20.4|[Aspose.3D for Java 20.4](/3d/java/aspose-3d-for-java-20-4-release-notes)|
 |Aspose.CAD for Java|20.7|[Aspose.CAD for Java 20.7](/cad/java/aspose-cad-for-java-20-7-release-notes/)|
 |Aspose.HTML for Java|19.9|[Aspose.HTML for Java 19.9](/html/java/aspose-html-for-java-19-9-release-notes)|
-|Aspose.OCR for Java|20.7|[Aspose.OCR for Java 20.7](/ocr/java/aspose-ocr-for-java-20-7-release-notes/)|
+|Aspose.OCR for Java|20.8|[Aspose.OCR for Java 20.8](/ocr/java/aspose-ocr-for-java-20-8-release-notes/)|
 |Aspose.OMR for Java|19.12|[Aspose.OMR for Java 19.12](/omr/java/aspose-omr-for-java-19-12-release-notes/)|
 |Aspose.Page for Java|20.4|[Aspose.Page for Java 20.4](/page/java/aspose-page-for-java-20-4-release-notes)|
 |Aspose.PSD for Java|20.2|[Aspose.PSD for Java 20.2](/psd/java/aspose-psd-for-java-20-2-release-notes)|
