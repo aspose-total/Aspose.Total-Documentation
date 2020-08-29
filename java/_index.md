@@ -6,7 +6,7 @@ url: /java/
 is_root: true
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Words for Java](home_1)
 
@@ -14,7 +14,7 @@ is_root: true
 
 Aspose.Words for Java is a class library that enables your applications to perform a great range of document processing tasks. Aspose.Words supports DOC, DOCX, RTF, HTML, OpenDocument, PDF, XPS, EPUB and other formats. With Aspose.Words you can generate, modify, convert, render and print documents without using Microsoft Word®.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Aspose.Words for Java Resources**
 
@@ -31,7 +31,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Words for Java Free Support Forum](https://forum.aspose.com/c/words)
 - [Aspose.Words for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Cells for Java](cells.png)
 
@@ -39,7 +39,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 Aspose.Cells for Java is a class library that enables your applications to perform a great range of spreadsheet processing tasks. Aspose.Cells for Java supports the popular spreadsheet (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS) file formats your business use every day. It also allows exporting Excel® files to PDF, XPS, HTML, MHTML, Plain Text and popular image formats including TIFF, JPG, PNG, BMP and SVG.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Aspose.Cells for Java Resources**
 
@@ -56,7 +56,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Cells for Java Free Support Forum](https://forum.aspose.com/c/cells)
 - [Aspose.Cells for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.PDF for Java](home_3)
 
@@ -64,7 +64,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 Aspose.PDF is a Java component built to allow developers to create PDF documents, whether simple or complex, on the fly programmatically. Aspose.PDF for Java allows developers to insert tables, graphs, images, hyperlinks, custom fonts - and more - into PDF documents. Moreover, it is also possible to compress PDF documents. Aspose.PDF for Java provides excellent security features to develop secure PDF documents. And the most distinct feature of Aspose.PDF for Java is that it supports the creation of PDF documents through both an API and from XML templates
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Aspose.PDF for Java Resources**
 
@@ -81,7 +81,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.PDF for Java Free Support Forum](https://forum.aspose.com/c/pdf)
 - [Aspose.PDF for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Slides for Java](home_4)
 
@@ -107,13 +107,13 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Slides for Java Free Support Forum](https://forum.aspose.com/c/slides)
 - [Aspose.Slides for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Email for Java](home_5.png)
 
 Aspose.Email for Java is a Java API that enables Java applications to read and write Microsoft Outlook® documents without using Microsoft Outlook®. Aspose.Email for Java provides a number of key features such as managing recipients, subject, body, attachments in Microsoft Outlook® MSG documents and reading contacts, messages and folder information from Microsoft Outlook® PST documents. It can also be used to create, modify and convert email messages in EML, MSG and MHT formats.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Aspose.Email for Java Resources**
 
@@ -129,7 +129,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Email for Java Free Support Forum](https://forum.aspose.com/c/email)
 - [Aspose.Email for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.BarCode for Java](home_6.png)
 
@@ -141,7 +141,7 @@ Aspose.BarCode for Java supports most established barcode standards and barcode 
 
 This section introduces Aspose.BarCode for Java and its features, gives examples as case studies and lists some customers who choose to use Aspose.BarCode in their solutions. This section also includes information about Aspose.BarCode for Java [installation](/barcode/java/installation/), [evaluation](/barcode/java/installation/) and [licensing](/barcode/java/licensing/).
 
-{{% /alert %}} 
+{{% /alert %}}
 ## **Aspose.BarCode for Java Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
@@ -155,7 +155,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.BarCode for Java Free Support Forum](https://forum.aspose.com/c/barcode)
 - [Aspose.BarCode for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Imaging for Java](home_7.png)
 
@@ -165,7 +165,7 @@ Aspose.Imaging for Java is an easy-to-use, high-performance and well-documented 
 
 Aspose.Imaging for Java offers a broad spectrum of traditional image processing operations such as converting an image from one format to another, drawing native objects as well as GraphicsPaths and geometric transformations such as scaling, rotation and flipping. A demanding feature provided by Aspose.Imaging for Java is to manipulate multiple image frames or to read and write file formats which support multiple image frames.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Aspose.Imaging for Java Resources**
 
@@ -183,7 +183,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Imaging for Java Free Support Forum](https://forum.aspose.com/c/imaging)
 - [Aspose.Imaging for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 ### **Aspose.Tasks for Java**
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Tasks for Java](home_8.png)
 
@@ -207,11 +207,11 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Tasks for Java Free Support Forum](https://forum.aspose.com/c/tasks)
 - [Aspose.Tasks for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.OCR for Java](home_9.png)
 
-**Welcome to the Aspose.OCR for Java** 
+**Welcome to the Aspose.OCR for Java**
 
 Aspose.OCR for Java is an optical character API that allows developers to add OCR functionality to their Java applications without requiring any additional tool or API. Aspose.OCR for Java allows extracting text from images having different fonts and styles - saving the time and effort involved in developing an OCR solution from scratch.
 
@@ -233,7 +233,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.OCR for Java Free Support Forum](https://forum.aspose.com/c/ocr)
 - [Aspose.OCR for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Diagram for Java](home_10.png)
 
@@ -262,7 +262,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Diagram for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Note for Java](home_11.png)
 
@@ -286,7 +286,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Note for Java Free Support Forum](https://forum.aspose.com/c/note)
 - [Aspose.Note for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 **Welcome to Aspose.CAD for Java**
 
@@ -321,7 +321,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.CAD for Java Free Support Forum](https://forum.aspose.com/c/cad)
 - [Aspose.CAD for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.HTML for Java](home_12)
 
@@ -346,7 +346,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.HTML for Java Free Support Forum](https://forum.aspose.com/c/html)
 - [Aspose.HTML for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.3D for Java API](home_13)
 
@@ -356,7 +356,7 @@ Aspose.3D for Java API is built to create, edit, manipulate and save 3D formats.
 
 The API is user friendly and saves time and money than creating a similar solution from scratch.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Aspose.3D for Java Resources**
 
@@ -372,7 +372,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.3D for Java Free Support Forum](https://forum.aspose.com/c/3d)
 - [Aspose.3D for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 **![Aspose.Page for Java](home_14)**
 
@@ -394,7 +394,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Page for Java Free Support Forum](https://forum.aspose.com/c/page)
 - [Aspose.Page for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 **![Aspose.PSD for Java](home_15)**
 
@@ -420,3 +420,26 @@ Following are the links to some useful resources you may need to accomplish your
 - [Download Examples at GitHub Repository](https://github.com/aspose-psd/Aspose.PSD-for-Java)
 - [Aspose.PSD for Java Free Support Forum](https://forum.aspose.com/c/psd)
 - [Aspose.PSD for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
+
+## **Aspose.PUB for Java Resources**
+
+{{% alert color="primary" %}}
+
+![todo:image_alt_text](AsposePUBJava)
+
+**Welcome to Aspose.PUB for Java**
+
+Aspose.PUB for Java API lets you work with PUB files in your Java applications. It can read and convert .pub files to PDF file format without the need of installing any other software. You can, thus, focus on your application business logic instead of getting into the details of underlying file format. The API is light, easy to use and simplifies your application with simple lines of code in your application.
+
+{{% /alert %}}
+## **Aspose.PUB for Java Resources**
+Following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.PUB for Java Online Documentation](/pub/java/home/)
+- [Aspose.PUB for Java Features](/pub/java/features/)
+- [Aspose.PUB for Java Release Notes](/pub/java/release-notes/)
+- [Aspose.PUB for Java Product Page](https://products.aspose.com/pub/java)
+- [Download Aspose.PUB for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub)
+- [Aspose.PUB for Java API Reference Guide](https://apireference.aspose.com/java/pub)
+- [Aspose.PUB for Java Free Support Forum](https://forum.aspose.com/c/pub)
+- [Aspose.PUB for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)

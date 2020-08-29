@@ -32,3 +32,4 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.OMR for Java|19.12|[Aspose.OMR for Java 19.12](/omr/java/aspose-omr-for-java-19-12-release-notes/)|
 |Aspose.Page for Java|20.4|[Aspose.Page for Java 20.4](/page/java/aspose-page-for-java-20-4-release-notes)|
 |Aspose.PSD for Java|20.2|[Aspose.PSD for Java 20.2](/psd/java/aspose-psd-for-java-20-2-release-notes)|
+|Aspose.PUB for Java|20.8|[Aspose.PUB for Java 20.8](/pub/java/aspose-pub-for-java-20-8-release-notes)|
