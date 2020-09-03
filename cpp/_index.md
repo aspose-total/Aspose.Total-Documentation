@@ -32,7 +32,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Cells for C++](home_2)**
+**<img src="home_2" alt="Aspose.Cells for C++" style="zoom:50%;" />**
 
 **Welcome to the Aspose.Cells for C++**
 
@@ -44,7 +44,7 @@ Aspose.Cells for C++ is a native C++ library that enables C++ developers to crea
 
 ## **Aspose.Cells for C++ Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Cells for C++ Online Documentation](/cells/cpp/)
 - [Aspose.Cells for C++ Features](/cells/cpp/product-overview/)
@@ -82,7 +82,7 @@ The following links offer some useful resources you may need to accomplish your 
 
 {{% alert color="primary" %}} 
 
-![Aspose.Slides for C++](home_4)
+<img src="home_4" alt="Aspose.Slides for C++" style="zoom:50%;" />
 
 **Welcome to the Aspose.Slides for C++**
 
@@ -92,7 +92,7 @@ Aspose.Slides for C++ is a Microsoft PowerPoint® management API that enables C+
 
 ## **Aspose.Slides for C++ Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Slides for C++ Online Documentation](/slides/cpp/)
 - [Aspose.Slides for C++ Features](/slides/cpp/features-overview/)
@@ -118,7 +118,7 @@ The API can be used on Windows OS for working with emailing file formats.
 
 ## **Aspose.Email for C++ Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Email for C++ Online Documentation](/email/cpp/)
 - [Aspose.Email for C++ Features](/email/cpp/features-overview/)
@@ -142,7 +142,7 @@ Aspose.Tasks for C++ is a native class library that enables C++ applications to 
 
 ## **Aspose.Tasks for C++ Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Tasks for C++ Online Documentation](/tasks/cpp/)
 - [Aspose.Tasks for C++ Features](/tasks/cpp/product-overview/)
@@ -156,7 +156,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-**![Aspose.BarCode for C++](home_7)**
+**<img src="home_7" alt="Aspose.BarCode for C++" style="zoom:50%;" />**
 
 **Welcome to Aspose.BarCode for C++** 
 
@@ -179,7 +179,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Page for C++](home_8)**
+**<img src="home_8" alt="Aspose.Page for C++" style="zoom:50%;" />**
 
 **Welcome to the Aspose.Page for C++**
 
@@ -189,7 +189,7 @@ Aspose.Page for C++ is a reliable and standalone XPS and PostScript file manipul
 
 ## **Aspose.Page for C++ Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Page for C++ Online Documentation](/page/cpp/)
 - [Aspose.Page for C++ Features](/page/cpp/features-list/)

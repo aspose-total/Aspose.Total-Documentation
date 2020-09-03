@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}} 
 
-![Aspose.Words for SharePoint](aspose_words-for-sharepoint.png)
+<img src="aspose_words-for-sharepoint.png" alt="Aspose.Words for SharePoint" style="zoom:50%;" />
 
 **Welcome to Aspose.Words for SharePoint**
 
@@ -18,7 +18,7 @@ Aspose.Words for SharePoint makes it possible to convert and combine word docume
 
 ## **Aspose.Words for SharePoint Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Words for SharePoint Online Documentation](/words/sharepoint/)
 - [Aspose.Words for SharePoint Features](/words/sharepoint/features/)
@@ -40,7 +40,7 @@ Aspose.Cells for SharePoint is a flexible solution supporting spreadsheet conver
 
 ## **Aspose.Cells for SharePoint Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Cells for SharePoint Online Documentation](/cells/sharepoint/)
 - [Aspose.Cells for SharePoint Features](/cells/sharepoint/features/)
@@ -62,7 +62,7 @@ Aspose.PDF for SharePoint is a solution that allows the users to export lists, l
 
 ## **Aspose.PDF for SharePoint Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.PDF for SharePoint Online Documentation](/pdf/sharepoint/)
 - [Aspose.PDF for SharePoint Features](/pdf/sharepoint/features/)
@@ -74,7 +74,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}}
 
-![Aspose.Slides for SharePoint](home_2)
+<img src="home_2" alt="Aspose.Slides for SharePoint" style="zoom:50%;" />
 
 **Welcome to Aspose.Slides for SharePoint**
 
@@ -84,7 +84,7 @@ Aspose.Slides for SharePoint is a flexible solution that makes it possible to co
 
 ## **Aspose.Slides for SharePoint Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Slides for SharePoint Online Documentation](/slides/sharepoint/)
 - [Aspose.Slides for SharePoint Features](/slides/sharepoint/features/)
@@ -100,7 +100,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 **Welcome to Aspose.Email for SharePoint**
 
-Aspose.Email for SharePoint is a flexible solution for converting email files and synchronizing emails from within MicroSoft SharePoint applications.
+Aspose.Email for SharePoint is a flexible solution for converting email files and synchronizing emails from within Microsoft SharePoint applications.
 
 This manual describes Aspose.Email for SharePoint's [features](/email/sharepoint/features/), [installation](/email/sharepoint/installing-aspose-email-for-sharepoint/), [licensing](/email/sharepoint/license-aspose-email-for-sharepoint), settings and [common uses](/email/sharepoint/overview/).
 
@@ -108,7 +108,7 @@ This manual describes Aspose.Email for SharePoint's [features](/email/sharepoint
 
 ## **Aspose.Email for SharePoint Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Email for SharePoint Online Documentation](/email/sharepoint/)
 - [Aspose.Email for SharePoint Features](/email/sharepoint/features/)
@@ -132,7 +132,7 @@ Aspose.BarCode for SharePoint is designed to be used with Microsoft SharePoint S
 
 ## **Aspose.BarCode for SharePoint Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.BarCode for SharePoint Online Documentation](/barcode/sharepoint/)
 - [Aspose.BarCode for SharePoint Features](/barcode/sharepoint/features/)
@@ -144,7 +144,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}}
 
-![Aspose.Imaging for SharePoint](home_3)
+<img src="home_3" alt="Aspose.Imaging for SharePoint" style="zoom:50%;" />
 
 **Welcome to the Aspose.Imaging for SharePoint**
 
@@ -154,7 +154,7 @@ Aspose.Imaging for SharePoint is a solution that allows the users to convert ima
 
 ## **Aspose.Imaging for SharePoint Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Imaging for SharePoint Online Documentation](/imaging/sharepoint/)
 - [Aspose.Imaging for SharePoint Features](/imaging/sharepoint/features/)

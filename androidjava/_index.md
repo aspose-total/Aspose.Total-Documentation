@@ -18,7 +18,7 @@ Aspose.Words for Android via Java's ultimate goal is to bring all stunning featu
 
 ## **Aspose.Words for Android via Java Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Words for Java Online Documentation](/words/java/) (Aspose.Words for Android via Java is very similar to Aspose.Words for Java. So, you can use the same documentation)
 - [Aspose.Words for Android via Java Features](/words/java/aspose-words-for-android-via-java-features)
@@ -43,7 +43,7 @@ Aspose.Cells for Android via Java is a flexible component that enables Android a
 
 ## **Aspose.Cells for Android via Java Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Cells for Java Online Documentation](/cells/java/) (Aspose.Cells for Android via Java is very similar to Aspose.Cells for Java. So, you can use the same documentation)
 - [Aspose.Cells for Android via Java Features](/cells/java/aspose-cells-for-android-via-java-features/)
@@ -66,7 +66,7 @@ Aspose.PDF for Android via Java is a component that allows developers to create 
 
 ## **Aspose.PDF for Android via Java Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.PDF for Java Online Documentation](/pdf/java/) (Aspose.PDF for Android via Java is very similar to Aspose.PDF for Java. So, you can use the same documentation)
 - [Aspose.PDF for Android via Java Features](/pdf/javaaspose-pdf-for-android-via-java-features)
@@ -90,7 +90,7 @@ Aspose.Slides for Android via Java is a Microsoft PowerPoint® management API th
 
 ## **Aspose.Slides for Android via Java Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks:
+The following are the links to some useful resources you may need to accomplish your tasks:
 
 - [Aspose.Slides for Java Online Documentation](/slides/java/)
 - [Aspose.Slides for Android via Java Features](/slides/java/aspose-slides-for-android-via-java-features)
@@ -104,7 +104,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![Aspose.Email for Android via Java](home_4)
+<img src="home_4" alt="Aspose.Email for Android via Java" style="zoom:50%;" />
 
 **Welcome to Aspose.Email for Android via Java**
 
@@ -114,7 +114,7 @@ Aspose.Email for Android via Java API gives you the tools you need to create, re
 
 ## **Aspose.Email for Android via Java Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Email for Java Online Documentation](/email/java/) (Aspose.Email for Android via Java is very similar to Aspose.Email for Java. So, you can use the same documentation)
 - [Aspose.Email for Android via Java Features](/email/java/aspose-email-for-android-via-java-features)

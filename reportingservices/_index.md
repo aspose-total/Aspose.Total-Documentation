@@ -18,7 +18,7 @@ Have you ever wished you could export RDL and RDLC reports as OOXML, DOC, RTF an
 
 ## **Aspose.Words for Reporting Services Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Words for Reporting Services Online Documentation](/words/reportingservices/)
 - [Aspose.Words for Reporting Services Features](/words/reportingservices/feature-tour/)
@@ -84,7 +84,7 @@ Aspose.Slides for Reporting Services is the only solution on the market that mak
 
 ## **Aspose.Slides for Reporting Services Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Slides for Reporting Services Online Documentation](/slides/reportingservices/)
 - [Aspose.Slides for Reporting Services Features](/slides/reportingservices/features/)
@@ -106,7 +106,7 @@ Aspose.BarCode for Reporting Services is a unique and robust solution for making
 
 ## **Aspose.BarCode for Reporting Services Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.BarCode for Reporting Services Online Documentation](/barcode/reportingservices/)
 - [Aspose.BarCode for Reporting Services Features](/barcode/reportingservices/features/)

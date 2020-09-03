@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Words for JasperReports](aspose_words-for-jasperreports.png)**
+**<img src="aspose_words-for-jasperreports.png" alt="Aspose.Words for JasperReports" style="zoom:50%;" />**
 
 **Welcome to Aspose.Words for JasperReports**
 
@@ -28,6 +28,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Words for JasperReports Free Support Forum](https://forum.aspose.com/c/words)
 - [Aspose.Words for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)
   
+
 {{% alert color="primary" %}} 
 
 **![Aspose.Cells for JasperReports](aspose-Cells-for-JasperReports.png)**
