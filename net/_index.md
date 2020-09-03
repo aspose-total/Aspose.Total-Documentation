@@ -66,7 +66,7 @@ Aspose.Cells for .NET is a spreadsheet programming library that allows software 
 
 ## **Aspose.Cells for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Cells for .NET Online Documentation](/cells/net/)
 - [Aspose.Cells for .NET Features](/cells/net/feature-overview/)
@@ -93,7 +93,7 @@ Aspose.Email implements a number of network protocols, for example SMTP, MIME, P
 
 ## **Aspose.Email for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Email for .NET Online Documentation](/email/net/)
 - [Aspose.Email for .NET Features](/email/net/features-overview)
@@ -116,7 +116,7 @@ Aspose.Slides for .NET is a Microsoft PowerPoint® management API that enables .
 
 ## **Aspose.Slides for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Slides for .NET Online Documentation](/slides/net/)
 - [Aspose.Slides for .NET Features](/slides/net/features-overview)
@@ -137,13 +137,13 @@ Following are the links to some useful resources you may need to accomplish your
 
 Aspose.Imaging for .NET provides a number of flexible routines for creating and manipulating images within .NET applications. It functions independently of other graphics applications and does not demand that an image editor is installed on the machine. Aspose.Imaging extends the native support for image formats and image processing functions for .NET. Aspose.Imaging allows developers to manipulate images within their own programs, quickly and easily. 
 
-The component supports the most common raster file formats and offers a wide range of compression algorithms as well as numerous image processing operations. Image export and conversion is core to Aspose.Imaging's features. the component allows developers to, for example, convert images to thumbnails, or for easy sharing across an organization. Aspose.Imaging offers high speed processing through native byte access and a number of efficient algorithms. The component goes beyond conversions and lets developers draw objects using core functionality as well as more advanced functionality (based on Graphics Path). Aspose.Imaging has built-in cross platform portability. At the moment we support working in Mono as well. 
+The component supports the most common raster file formats and offers a wide range of compression algorithms as well as numerous image processing operations. Image export and conversion is core to Aspose.Imaging's features. the component allows developers to, for example, convert images to thumbnails, or for easy sharing across an organization. Aspose.Imaging offers high-speed processing through native byte access and a number of efficient algorithms. The component goes beyond conversions and lets developers draw objects using core functionality as well as more advanced functionality (based on Graphics Path). Aspose.Imaging has built-in cross-platform portability. At the moment we support working in Mono as well. 
 
 {{% /alert %}} 
 
 ## **Aspose.Imaging for .NET Resources**
 
-Following are the links to some useful resources you may need to enjoy use of Aspose.Imaging.
+The following are the links to some useful resources you may need to enjoy the use of Aspose.Imaging.
 
 - [Aspose.Imaging for .NET Online Documentation](/imaging/net/)
 - [Aspose.Imaging for .NET Features](/imaging/net/features/)
@@ -193,7 +193,7 @@ Aspose.Diagram takes advantage of advanced functionalities provided by Microsoft
 
 ## **Aspose.Diagram for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Diagram for .NET Online Documentation](/diargam/net/)
 - [Aspose.Diagram for .NET Features](/diargam/net/product-overview#RichFeatures)
@@ -244,7 +244,7 @@ The component is implemented using Managed C# and can be used with any .NET lang
 
 ## **Aspose.OCR for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.OCR for .NET Online Documentation](/ocr/net/)
 - [Aspose.OCR for .NET Features](/ocr/net/product-overview/)
@@ -268,7 +268,7 @@ With Aspose.Note for .NET, it is possible to program with Microsoft OneNote file
 
 ## **Aspose.Note for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Note for .NET Online Documentation](/note/net/)
 - [Aspose.Note for .NET Features](/note/net/product-overview/)
@@ -283,7 +283,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 **Welcome to Aspose.CAD for .NET**
 
-![Aspose.CAD for .NET](home_12)
+<img src="home_12" alt="Aspose.CAD for .NET" style="zoom:50%;" />
 
 Aspose.CAD for .NET allows developers to convert AutoCAD DWG, DWF and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any software to be installed. You can also convert the selected layers and layouts from the AutoCAD files. The conversion to PDF and Raster images is of very high quality.
 
@@ -296,7 +296,7 @@ Using Aspose.CAD for .NET in your project gives you the following benefits:
 
 {{% /alert %}} 
 ## **Aspose.CAD for .NET Resources**
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.CAD for .NET Online Documentation](/cad/net/)
 - [Aspose.CAD for .NET Features](/cad/net/product-overview/#advanced-api-features)
@@ -322,7 +322,7 @@ The API is user friendly and saves time and money than creating a similar solu
 {{% /alert %}} 
 
 ## **Aspose.3D for .NET Resources**
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.3D for .NET Online Documentation](/3d/net/)
 - [Aspose.3D for .NET Features](/3d/net/product-overview/#RichFeatures)
@@ -346,7 +346,7 @@ Aspose.HTML for .NET is a cross-platform class library that enables your applica
 
 ## **Aspose.HTML for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Getting Started](/html/net/getting-started/)
 - [Supported Features](/html/net/features-list/)
@@ -372,7 +372,7 @@ Aspose.GIS for .NET is designed specifically to make it easy for .NET developers
 
 ## **Aspose.GIS for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Install Aspose.GIS for .NET NuGet Package](https://www.nuget.org/packages/Aspose.GIS/)
 - [Aspose.GIS for .NET Product Page](https://products.aspose.com/gis/net)
@@ -396,7 +396,7 @@ Aspose.ZIP provides you the capability to password protect the ZIP archives with
 
 ## **Aspose.ZIP for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.ZIP for .NET Online Documentation](/zip/net/)
 - [Aspose.ZIP for .NET Features](/zip/net/features/)
@@ -409,7 +409,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Page for .NET](home_17)**
+**<img src="home_17" alt="Aspose.Page for .NET" style="zoom:50%;" />**
 
 **Welcome to the Aspose.Page for .NET**
 
@@ -419,7 +419,7 @@ Aspose.Page is a .NET API and is built to allow developers to work with XPS and 
 
 ## **Aspose.Page for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Page for .NET Online Documentation](/page/net/)
 - [Aspose.Page for .NET Features](/page/net/features-list)
@@ -444,7 +444,7 @@ Currently Aspose.PSD for .NET supports PSD and PSB file formats for loading and 
 
 ## **Aspose.PSD for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.PSD for .NET Online Documentation](/psd/net/)
 - [Aspose.PSD for .NET Features](/psd/net/features/)
@@ -469,7 +469,7 @@ Aspose.OMR for .NET is an API to recognize optical marks from OMR digitized shee
 
 ## **Aspose.OMR for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.OMR for .NET Online Documentation](/omr/net/)
 - [Aspose.OMR for .NET Features](/omr/net/features-list/)
@@ -491,7 +491,7 @@ Aspose.PUB for .NET is an API to read and convert PUB files to PDF file format. 
 
 ## **Aspose.PUB for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.PUB for .NET Online Documentation](/pub/net/)
 - [Aspose.PUB for .NET Features](/pub/net/features/)
@@ -514,7 +514,7 @@ Aspose.SVG for .NET API has been designed to provide a wide range of features f
 
 ## **Aspose.SVG for .NET Resources**
 
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.SVG for .NET Online Documentation](/svg/net/)
 - [Aspose.SVG for .NET Features](/svg/net/features-list/)

@@ -182,14 +182,14 @@ The following are the links to some useful resources you may need to accomplish 
 - [Download Examples at GitHub Repository](https://github.com/aspose-imaging/Aspose.Imaging-for-Java)
 - [Aspose.Imaging for Java Free Support Forum](https://forum.aspose.com/c/imaging)
 - [Aspose.Imaging for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
-### **Aspose.Tasks for Java**
+## **Aspose.Tasks for Java**
 {{% alert color="primary" %}}
 
 ![Aspose.Tasks for Java](home_8.png)
 
 **Welcome to Aspose.Tasks for Java!**
 
-Aspose.Tasks for Java is a class library that enables Java application developers to embed the functionality of processing Microsoft Project ® documents (MPP/MPT/XLS) without even using Microsoft Project®. The API, hence, eliminates the requirement of Microsoft Office Automation in such application. Ported from its equivalent .NET product, Aspose.Tasks for Java is a mature product that offers stability and flexibility. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
+Aspose.Tasks for Java is a class library that enables Java application developers to embed the functionality of processing Microsoft Project ® documents (MPP/MPT/XLS) without even using Microsoft Project®. The API, hence, eliminates the requirement of Microsoft Office Automation in such applications. Ported from its equivalent .NET product, Aspose.Tasks for Java is a mature product that offers stability and flexibility. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
 {{% /alert %}}
 
