@@ -16,14 +16,14 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |**Product**|**Latest Version**|**Release Notes**|
 | :- | :- | :- |
 |Aspose.Slides for .NET|20.8|[Aspose.Slides for .NET 20.8](/slides/net/aspose-slides-for-net-20-8-release-notes)|
-|Aspose.Words for .NET|20.8|[Aspose.Words for .NET 20.8](/words/net/aspose-words-for-net-20-8-release-notes)|
+|Aspose.Words for .NET|20.9|[Aspose.Words for .NET 20.9](/words/net/aspose-words-for-net-20-9-release-notes)|
 |Aspose.PDF for .NET|20.6|[Aspose.PDF for .NET 20.6](/pdf/net/aspose-pdf-for-net-20-6-release-notes)|
 |Aspose.Cells for .NET|20.8|[Aspose.Cells for .NET 20.8](/cells/net/aspose-cells-for-net-20-8-release-notes/)|
 |Aspose.Email for .NET|20.5|[Aspose.Email for .NET 20.5](/email/net/aspose-email-for-net-20-5-release-notes)|
 |Aspose.Imaging for .NET|20.6|[Aspose.Imaging for .NET 20.6](/imaging/net/Aspose.Imaging+for+.NET+20.6+-+Release+notes)|
 |Aspose.BarCode for .NET|20.8|[Aspose.BarCode for .NET 20.8](/barcode/net/aspose-barcode-for-net-20-8-release-notes/)|
 |Aspose.Diagram for .NET|20.6|[Aspose.Diagram for .NET 20.6](/diagram/net/Aspose.Diagram+for+.NET+20.6+Release+Notes)|
-|Aspose.Tasks for .NET|20.8|[Aspose.Tasks for .NET 20.8](tasks/net/aspose-tasks-for-net-20-8-release-notes/)|
+|Aspose.Tasks for .NET|20.8|[Aspose.Tasks for .NET 20.8](/tasks/net/aspose-tasks-for-net-20-8-release-notes/)|
 |Aspose.OCR for .NET|20.8|[Aspose.OCR for .NET 20.8](/ocr/net/aspose-ocr-for-net-20-8-release-notes/)|
 |Aspose.Note for .NET|20.7|[Aspose.Note for .NET 20.7](/note/net/aspose-note-for-net-20-7-release-notes)|
 |Aspose.CAD for .NET|20.7|[Aspose.CAD for .NET 20.7](/cad/net/aspose-cad-for-net-20-7-release-notes/)|
