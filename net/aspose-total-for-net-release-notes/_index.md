@@ -38,3 +38,4 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.SVG for .NET|20.7|[Aspose.SVG for .NET 20.8](/svg/net/aspose-svg-for-net-20-8-release-notes/)|
 |Aspose.Finance for .NET |20.8|[Aspose.Finance for .NET 20.8](/finance/net/aspose-finance-for-net-20-8-release-notes/)|
 |Aspose.Drawing for .NET|20.6|[Aspose.Drawing for .NET 20.6](/drawing/net/aspose-drawing-for-net-20-6)|
+|Aspose.Font for .NET|20.9|[Aspose.Font for .NET 20.9](/font/net/aspose-font-for-net-20-9-release-notes/)|
