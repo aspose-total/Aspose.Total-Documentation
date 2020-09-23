@@ -259,9 +259,9 @@ Aspose.Font for C++ is a font manipulation API which lets you work with several 
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Font for C++ Online Documentation](cpp)
-- [Aspose.Font for C++ Features](cpp/feature-list)
-- [Aspose.Font for C++ Release Notes](cpp/release-notes)
+- [Aspose.Font for C++ Online Documentation](/font/cpp)
+- [Aspose.Font for C++ Features](/font/cpp/feature-list)
+- [Aspose.Font for C++ Release Notes](/font/cpp/release-notes)
 - [Aspose.Font for C++ Product Page](https://products.aspose.com/font/cpp)
 - [Install Aspose.Font for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Font/)
 - [Aspose.Font for C++ API Reference Guide](https://apireference.aspose.com/font/cpp)
