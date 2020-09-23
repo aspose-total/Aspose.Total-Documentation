@@ -6,7 +6,7 @@ url: /cpp/
 is_root: true
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 **![Aspose.Words for C++](home_1)**
 
@@ -30,7 +30,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Words for C++ Free Support Forum](https://forum.aspose.com/c/words)
 - [Aspose.Words for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 **<img src="home_2" alt="Aspose.Cells for C++" style="zoom:50%;" />**
 
@@ -56,7 +56,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Cells for C++ Free Support Forum](https://forum.aspose.com/c/cells)
 - [Aspose.Cells for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.PDF for C++](home_3)
 
@@ -80,7 +80,7 @@ The following links offer some useful resources you may need to accomplish your 
 - [Aspose.PDF for C++ Free Support Forum](https://forum.aspose.com/c/pdf)
 - [Aspose.PDF for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 <img src="home_4" alt="Aspose.Slides for C++" style="zoom:50%;" />
 
@@ -104,7 +104,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Slides for C++ Free Support Forum](https://forum.aspose.com/c/slides)
 - [Aspose.Slides for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Email for C++](home_5)
 
@@ -130,7 +130,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Email for C++ Free Support Forum](https://forum.aspose.com/c/Email)
 - [Aspose.Email for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Tasks for C++](home_6)
 
@@ -138,7 +138,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 Aspose.Tasks for C++ is a native class library that enables C++ applications to read and write Microsoft Project® files without using Microsoft Project®. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Aspose.Tasks for C++ Resources**
 
@@ -154,11 +154,11 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Tasks for C++ Free Support Forum](https://forum.aspose.com/c/tasks)
 - [Aspose.Tasks for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 **<img src="home_7" alt="Aspose.BarCode for C++" style="zoom:50%;" />**
 
-**Welcome to Aspose.BarCode for C++** 
+**Welcome to Aspose.BarCode for C++**
 
 Aspose.BarCode for C++ is a set of barcode generation and recognition components built to allow developers to add barcode functionality in their C++ applications. Aspose.BarCode conforms to most of the barcode standards and specifications available nowadays. Aspose.BarCode for C++ doesn't just create barcodes but it provides a complete framework to control almost everything about them. The API is easy to use, installable on different platforms and has a rich functionality as compared to other commercially available software.
 
@@ -177,7 +177,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.BarCode for C++ Free Support Forum](https://forum.aspose.com/c/barcode)
 - [Aspose.BarCode for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 **<img src="home_8" alt="Aspose.Page for C++" style="zoom:50%;" />**
 
@@ -200,7 +200,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Page for C++ Free Support Forum](https://forum.aspose.com/c/page)
 - [Aspose.Page for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 **![Aspose.OCR for C++](OcrCppLogo.png)**
 
@@ -221,7 +221,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.OCR for C++ Free Support Forum](https://forum.aspose.com/c/ocr)
 - [Aspose.OCR for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 **![Aspose.PUB for C++](home_10)**
 
@@ -244,3 +244,26 @@ The following links offer some useful resources you may need to accomplish your 
 - [Download Examples at GitHub Repository](https://github.com/aspose-pub/Aspose.PUB-for-C)
 - [Aspose.PUB for C++ Free Support Forum](https://forum.aspose.com/c/pub)
 - [Aspose.PUB for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
+
+{{% alert color="primary" %}}
+
+![Aspose.Font for C++ Product Logo](aspose_font_cpp.png)
+
+**Welcome to the Aspose.Font for C++**
+
+Aspose.Font for C++ is a font manipulation API which lets you work with several font formats. It provides the capability to load and save fonts from files as well as stream. The API lets you work with multiple font formats such as TrueType (with TrueType collections), CFF, OpenType, and Type1. It can read encoding information for all the font types for representation of mapping between character codes and glyph identifiers. C++ application developers can use the API to render any desired glyph or text. Special glyphs can be rendered by implementing interface using simple graphics functionality (move point, draw line, curve).
+
+{{% /alert %}}
+
+## **Aspose.Font for C++ Resources**
+
+The following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.Font for C++ Online Documentation](cpp)
+- [Aspose.Font for C++ Features](cpp/feature-list)
+- [Aspose.Font for C++ Release Notes](cpp/release-notes)
+- [Aspose.Font for C++ Product Page](https://products.aspose.com/font/cpp)
+- [Install Aspose.Font for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Font/)
+- [Aspose.Font for C++ API Reference Guide](https://apireference.aspose.com/font/cpp)
+- [Aspose.Font for C++ Free Support Forum](https://forum.aspose.com/c/font)
+- [Aspose.Font for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
