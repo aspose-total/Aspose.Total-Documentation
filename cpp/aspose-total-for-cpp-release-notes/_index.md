@@ -24,6 +24,6 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.BarCode for C++|19.10|[Aspose.BarCode for C++ 19.10](/barcode/cpp/aspose-barcode-for-cpp-19-10-release-notes)|
 |Aspose.Tasks for C++|20.9|[Aspose.Tasks for C++ 20.9](/tasks/cpp/aspose-tasks-for-cpp-20-9-release-notes)|
 |Aspose.Page for C++|20.9|[Aspose.Page for C++ 20.9](/page/cpp/aspose-page-for-cpp-20-9-release-notes)|
-|Aspose.OCR for C++|20.8|[Aspose.OCR for C++ 20.8](/ocr/cpp/aspose-ocr-for-cpp-20-8-release-notes/)|
+|Aspose.OCR for C++|20.9|[Aspose.OCR for C++ 20.9](/ocr/cpp/aspose-ocr-for-cpp-20-9-release-notes/)|
 |Aspose.PUB for C++|20.9|[Aspose.PUB for C++ 20.9](/pub/cpp/aspose-pub-for-cpp-20-9-release-notes)|
 |Aspose.Font for C++|20.9|[Aspose.Font for C++ 20.9](/font/cpp/aspose-font-for-cpp-20-9-release-notes)|
