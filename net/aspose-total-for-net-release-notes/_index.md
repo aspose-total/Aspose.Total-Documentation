@@ -24,7 +24,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.BarCode for .NET|20.10|[Aspose.BarCode for .NET 20.10](/barcode/net/aspose-barcode-for-net-20-10-release-notes/)|
 |Aspose.Diagram for .NET|20.9|[Aspose.Diagram for .NET 20.9](/diagram/net/Aspose.Diagram+for+.NET+20.9+Release+Notes)|
 |Aspose.Tasks for .NET|20.9.1|[Aspose.Tasks for .NET 20.9.1](/tasks/net/aspose-tasks-for-net-20-9-1-release-notes/)|
-|Aspose.OCR for .NET|20.9|[Aspose.OCR for .NET 20.9](/ocr/net/aspose-ocr-for-net-20-9-release-notes/)|
+|Aspose.OCR for .NET|20.10|[Aspose.OCR for .NET 20.10](/ocr/net/aspose-ocr-for-net-20-10-release-notes/)|
 |Aspose.Note for .NET|20.9|[Aspose.Note for .NET 20.9](/note/net/aspose-note-for-net-20-9-release-notes)|
 |Aspose.CAD for .NET|20.7|[Aspose.CAD for .NET 20.7](/cad/net/aspose-cad-for-net-20-7-release-notes/)|
 |Aspose.3D for .NET|20.9|[Aspose.3D for .NET 20.9](/3d/net/aspose-3d-for-net-20-9-release-notes)|
