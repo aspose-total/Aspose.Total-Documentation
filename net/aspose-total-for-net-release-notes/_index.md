@@ -15,11 +15,10 @@ This page contains the links to release notes for all APIs included in Aspose.To
 
 |**Product**|**Latest Version**|**Release Notes**|
 | :- | :- | :- |
-|Aspose.Cells for .NET|20.11|[Aspose.Cells for .NET 20.11](/cells/net/aspose-cells-for-net-20-11-release-notes/)|
 |Aspose.Slides for .NET|20.10|[Aspose.Slides for .NET 20.10](/slides/net/aspose-slides-for-net-20-10-release-notes)|
 |Aspose.Words for .NET|20.9|[Aspose.Words for .NET 20.9](/words/net/aspose-words-for-net-20-9-release-notes)|
 |Aspose.PDF for .NET|20.9|[Aspose.PDF for .NET 20.9](/pdf/net/aspose-pdf-for-net-20-9-release-notes)|
-|Aspose.Cells for .NET|20.10|[Aspose.Cells for .NET 20.10](/cells/net/aspose-cells-for-net-20-10-release-notes/)|
+|Aspose.Cells for .NET|20.11|[Aspose.Cells for .NET 20.11](/cells/net/aspose-cells-for-net-20-11-release-notes/)|
 |Aspose.Email for .NET|20.5|[Aspose.Email for .NET 20.5](/email/net/aspose-email-for-net-20-5-release-notes)|
 |Aspose.Imaging for .NET|20.6|[Aspose.Imaging for .NET 20.6](/imaging/net/Aspose.Imaging+for+.NET+20.6+-+Release+notes)|
 |Aspose.BarCode for .NET|20.10|[Aspose.BarCode for .NET 20.10](/barcode/net/aspose-barcode-for-net-20-10-release-notes/)|
@@ -36,7 +35,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.OMR for .NET|20.6|[Aspose.OMR for .NET 20.6](/omr/net/aspose-omr-for-net-20-6-release-notes/)|
 |Aspose.Page for .NET|20.9|[Aspose.Page for .NET 20.9](/page/net/aspose-page-for-net-20-9-release-notes)|
 |Aspose.PUB for .NET|20.4|[Aspose.PUB for .NET 20.4](/pub/net/aspose-pub-for-net-20-4-release-notes)|
-|Aspose.SVG for .NET|20.10|[Aspose.SVG for .NET 20.10](/svg/net/aspose-svg-for-net-20-10-release-notes/)|
+|Aspose.SVG for .NET|20.11|[Aspose.SVG for .NET 20.11](/svg/net/aspose-svg-for-net-20-11-release-notes/)|
 |Aspose.Finance for .NET |20.8|[Aspose.Finance for .NET 20.8](/finance/net/aspose-finance-for-net-20-8-release-notes/)|
 |Aspose.Drawing for .NET|20.8|[Aspose.Drawing for .NET 20.8](/drawing/net/aspose-drawing-for-net-20-8)|
 |Aspose.Font for .NET|20.9|[Aspose.Font for .NET 20.9](/font/net/aspose-font-for-net-20-9-release-notes/)|
