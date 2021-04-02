@@ -39,3 +39,4 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Finance for .NET |20.8|[Aspose.Finance for .NET 20.8](/finance/net/aspose-finance-for-net-20-8-release-notes/)|
 |Aspose.Drawing for .NET|20.8|[Aspose.Drawing for .NET 20.8](/drawing/net/aspose-drawing-for-net-20-8)|
 |Aspose.Font for .NET|20.9|[Aspose.Font for .NET 20.9](/font/net/aspose-font-for-net-20-9-release-notes/)|
+|Aspose.TeX for .NET|21.3|[Aspose.TeX for .NET 21.3](/tex/net/aspose-tex-for-net-21-3-release-notes/)|
