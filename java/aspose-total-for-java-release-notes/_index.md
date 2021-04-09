@@ -34,3 +34,4 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.PSD for Java|20.2|[Aspose.PSD for Java 20.2](/psd/java/aspose-psd-for-java-20-2-release-notes)|
 |Aspose.PUB for Java|20.8|[Aspose.PUB for Java 20.8](/pub/java/aspose-pub-for-java-20-8-release-notes)|
 |Aspose.Font for Java|20.10|[Aspose.Font for Java 20.10](/font/java/aspose-font-for-java-20-10-release-notes)|
+|Aspose.TeX for Java|21.4|[Aspose.TeX for Java 21.4](/tex/java/aspose-tex-for-java-21-4-release-notes/)|
