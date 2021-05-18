@@ -26,4 +26,5 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Page for C++|20.9|[Aspose.Page for C++ 20.9](/page/cpp/aspose-page-for-cpp-20-9-release-notes)|
 |Aspose.OCR for C++|20.10|[Aspose.OCR for C++ 20.10](/ocr/cpp/aspose-ocr-for-cpp-20-10-release-notes/)|
 |Aspose.PUB for C++|20.9|[Aspose.PUB for C++ 20.9](/pub/cpp/aspose-pub-for-cpp-20-9-release-notes)|
-|Aspose.Font for C++|20.9|[Aspose.Font for C++ 20.9](/font/cpp/aspose-font-for-cpp-20-9-release-notes)|
+|Aspose.Font for C++|20.9|[Aspose.Font for C++ 21.5](/font/cpp/aspose-font-for-cpp-21-5-release-notes)|
+|Aspose.TeX for C++|21.5|[Aspose.TeX for C++ 21.5](/tex/cpp/aspose-tex-for-cpp-21-5-release-notes)|
