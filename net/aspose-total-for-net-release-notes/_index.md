@@ -22,7 +22,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Email for .NET|20.5|[Aspose.Email for .NET 20.5](/email/net/aspose-email-for-net-20-5-release-notes)|
 |Aspose.Imaging for .NET|20.6|[Aspose.Imaging for .NET 20.6](/imaging/net/Aspose.Imaging+for+.NET+20.6+-+Release+notes)|
 |Aspose.BarCode for .NET|20.10|[Aspose.BarCode for .NET 20.10](/barcode/net/aspose-barcode-for-net-20-10-release-notes/)|
-|Aspose.Diagram for .NET|21.5|[Aspose.Diagram for .NET 21.5](/diagram/net/aspose-diagram-for-net-21-5-release-notes/)|
+|Aspose.Diagram for .NET|21.6|[Aspose.Diagram for .NET 21.6](/diagram/net/aspose-diagram-for-net-21-6-release-notes/)|
 |Aspose.Tasks for .NET|20.11|[Aspose.Tasks for .NET 20.11](/tasks/net/aspose-tasks-for-net-20-11-release-notes/)|
 |Aspose.OCR for .NET|20.10|[Aspose.OCR for .NET 20.10](/ocr/net/aspose-ocr-for-net-20-10-release-notes/)|
 |Aspose.Note for .NET|20.11|[Aspose.Note for .NET 20.11](/note/net/aspose-note-for-net-20-11-release-notes)|
