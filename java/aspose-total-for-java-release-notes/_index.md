@@ -16,14 +16,14 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |**Product**|**Latest Version**|**Release Notes**|
 | :- | :- | :- |
 |Aspose.Words for Java|20.11|[Aspose.Words for Java 20.11](/words/java/aspose-words-for-java-20-11-release-notes)|
-|Aspose.Cells for Java|21.7|[Aspose.Cells for Java 21.7](/cells/java/aspose-cells-for-java-21-7-release-notes)|
+|Aspose.Cells for Java|21.8|[Aspose.Cells for Java 21.8](/cells/java/aspose-cells-for-java-21-8-release-notes)|
 |Aspose.PDF for Java|20.9|[Aspose.PDF for Java 20.9](/pdf/java/aspose-pdf-for-java-20-9-release-notes)|
 |Aspose.Slides for Java|21.7|[Aspose.Slides for Java 21.7](/slides/java/aspose-slides-for-java-21-7-release-notes)|
 |Aspose.Email for Java|20.5|[Aspose.Email for Java 20.5](/email/java/aspose-email-for-java-20-5-release-notes)|
 |Aspose.BarCode for Java|20.10|[Aspose.BarCode for Java 20.10](/barcode/java/aspose-barcode-for-java-20-10-release-notes)|
 |Aspose.Imaging for Java|20.6|[Aspose.Imaging for Java 20.6](/imaging/java/aspose-imaging-for-java-20-6-release-notes)|
 |Aspose.Tasks for Java|20.10|[Aspose.Tasks for Java 20.10](/tasks/java/aspose-tasks-for-java-20-10-release-notes)|
-|Aspose.Diagram for Java|21.7|[Aspose.Diagram for Java 21.7](/diagram/java/aspose-diagram-for-java-21-7-release-notes)|
+|Aspose.Diagram for Java|21.8|[Aspose.Diagram for Java 21.8](/diagram/java/aspose-diagram-for-java-21-8-release-notes)|
 |Aspose.Note for Java|20.9|[Aspose.Note for Java 20.9](/note/java/aspose-note-for-java-20-9-release-notes/)|
 |Aspose.3D for Java|20.9|[Aspose.3D for Java 20.9](/3d/java/aspose-3d-for-java-20-9-release-notes)|
 |Aspose.CAD for Java|20.10|[Aspose.CAD for Java 20.10](/cad/java/aspose-cad-for-java-20-10-release-notes/)|
