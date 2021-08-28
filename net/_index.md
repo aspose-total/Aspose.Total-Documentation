@@ -195,10 +195,10 @@ Aspose.Diagram takes advantage of advanced functionalities provided by Microsoft
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Diagram for .NET Online Documentation](/diargam/net/)
-- [Aspose.Diagram for .NET Features](/diargam/net/product-overview#RichFeatures)
-- [Aspose.Diagram for .NET Limitations](/diargam/net/why-not-automation)
-- [Aspose.Diagram for .NET Release Notes](/diargam/net/release-notes/)
+- [Aspose.Diagram for .NET Online Documentation](/diagram/net/)
+- [Aspose.Diagram for .NET Features](/diagram/net/feature-list/)
+- [Aspose.Diagram for .NET Limitations](/diagram/net/why-not-automation/)
+- [Aspose.Diagram for .NET Release Notes](/diagram/net/release-notes/)
 - [Aspose.Diagram for .NET Product Page](https://products.aspose.com/diagram/net)
 - [Install Aspose.Diagram for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Diagram/)
 - [Aspose.Diagram for .NET API Reference Guide](https://apireference.aspose.com/net/diagram)
@@ -565,7 +565,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Drawing for .NET Release Notes](/drawing/net/release-notes/)
 - [Aspose.Drawing for .NET Product Page](https://products.aspose.com/drawing/net)
 - [Install Aspose.Drawing for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Drawing/)
-- [Aspose.Drawing for .NET API Reference Guide](https://apireference.aspose.com/net/drawing)
+- [Aspose.Drawing for .NET API Reference Guide](https://apireference.aspose.com/drawing/net)
 - [Aspose.Drawing for .NET Free Support Forum](https://forum.aspose.com/c/drawing)
 - [Aspose.Drawing for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
