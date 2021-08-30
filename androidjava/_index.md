@@ -69,11 +69,11 @@ Aspose.PDF for Android via Java is a component that allows developers to create 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.PDF for Java Online Documentation](/pdf/java/) (Aspose.PDF for Android via Java is very similar to Aspose.PDF for Java. So, you can use the same documentation)
-- [Aspose.PDF for Android via Java Features](/pdf/javaaspose-pdf-for-android-via-java-features)
-- [Aspose.PDF for Android via Java Release Notes](/pdf/javaaspose-pdf-for-android-via-java)
+- [Aspose.PDF for Android via Java Features](/pdf/java/key-features/)
+- [Aspose.PDF for Android via Java Release Notes](/pdf/java/aspose-pdf-for-android-via-java/)
 - [Aspose.PDF for Android via Java Product Page](https://products.aspose.com/pdf/android-java)
 - [Download Aspose.PDF for Android via Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pdf-android-via-java)
-- [Install Aspose.PDF for Android via Java](/pdf/java/install-aspose-pdf-for-android-via-java/)
+- [Install Aspose.PDF for Android via Java](/pdf/java/installation/)
 - [Aspose.PDF for Android via Java API Reference Guide](https://apireference.aspose.com/java/pdf) (Aspose.PDF for Android via Java is very similar to Aspose.PDF for Java. So, you can use the same API Reference Guide)
 - [Aspose.PDF for Android via Java Free Support Forum](https://forum.aspose.com/c/pdf)
 - [Aspose.PDF for Android via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
@@ -93,11 +93,11 @@ Aspose.Slides for Android via Java is a Microsoft PowerPoint® management API th
 The following are the links to some useful resources you may need to accomplish your tasks:
 
 - [Aspose.Slides for Java Online Documentation](/slides/java/)
-- [Aspose.Slides for Android via Java Features](/slides/java/aspose-slides-for-android-via-java-features)
-- [Aspose.Slides for Android via Java Release Notes](/slides/java/aspose-slides-for-android-via-java)
+- [Aspose.Slides for Android via Java Features](/slides/androidjava/aspose-slides-for-android-via-java-features/)
+- [Aspose.Slides for Android via Java Release Notes](/slides/androidjava/aspose-slides-for-android-via-java/)
 - [Aspose.Slides for Android via Java Product Page](https://products.aspose.com/slides/android-java)
 - [Download Aspose.Slides for Android via Java](http://maven.aspose.com/repository/simple/ext-release-local/com/aspose/aspose-slides/)
-- [Install Aspose.Slides for Android via Java](/slides/java/install-aspose-slides-for-android-via-java) 
+- [Install Aspose.Slides for Android via Java](/slides/androidjava/install-aspose-slides-for-android-via-java/) 
 - [Aspose.Slides for Android via Java API Reference Guide](https://apireference.aspose.com/java/slides)
 - [Aspose.Slides for Android via Java Free Support Forum](https://forum.aspose.com/c/slides)
 - [Aspose.Slides for Android via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
@@ -117,8 +117,8 @@ Aspose.Email for Android via Java API gives you the tools you need to create, re
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Email for Java Online Documentation](/email/java/) (Aspose.Email for Android via Java is very similar to Aspose.Email for Java. So, you can use the same documentation)
-- [Aspose.Email for Android via Java Features](/email/java/aspose-email-for-android-via-java-features)
-- [Aspose.Email for Android via Java Limitations and API Differences](/email/java/aspose-email-for-android-via-java-limitations-andapi-differences)
-- [Aspose.Email for Android via Java Release Notes](/email/java/android-via-java-release-notes)
+- [Aspose.Email for Android via Java Features](/email/androidjava/features-overview/)
+- [Aspose.Email for Android via Java Limitations and API Differences](/email/androidjava/limitations-and-api-differences/)
+- [Aspose.Email for Android via Java Release Notes](/email/java/android-via-java-release-notes/)
 - [Aspose.Email for Android via Java Product Page](https://products.aspose.com/email/android-java)
 - [Aspose.Email for Android via Java API Reference Guide](https://apireference.aspose.com/java/email) 
