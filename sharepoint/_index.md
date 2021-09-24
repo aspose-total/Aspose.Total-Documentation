@@ -112,7 +112,6 @@ The following are the links to some useful resources you may need to accomplish 
 
 - [Aspose.Email for SharePoint Online Documentation](/email/sharepoint/)
 - [Aspose.Email for SharePoint Features](/email/sharepoint/features/)
-- [Aspose.Email for SharePoint Release Notes](/email/sharepoint/release-notes/)
 - [Aspose.Email for SharePoint Product Page](https://products.aspose.com/email/sharepoint)
 - [Download Aspose.Email for SharePoint](https://downloads.aspose.com/email/sharepoint)
 - [Aspose.Email for SharePoint Free Support Forum](https://forum.aspose.com/c/email)
@@ -136,7 +135,6 @@ The following are the links to some useful resources you may need to accomplish 
 
 - [Aspose.BarCode for SharePoint Online Documentation](/barcode/sharepoint/)
 - [Aspose.BarCode for SharePoint Features](/barcode/sharepoint/features/)
-- [Aspose.BarCode for SharePoint Release Notes](/barcode/sharepoint/release-notes/)
 - [Aspose.BarCode for SharePoint Product Page](https://products.aspose.com/barcode/sharepoint)
 - [Download Aspose.BarCode for SharePoint](https://downloads.aspose.com/barcode/sharepoint)
 - [Aspose.BarCode for SharePoint Free Support Forum](https://forum.aspose.com/c/barcode)
