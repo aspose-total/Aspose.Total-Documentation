@@ -127,9 +127,9 @@ To use Aspose.Total Java for Maven (Aspose.Total for Java - Maven Artifacts) in 
   - [Aspose Maven for Eclipse](http://www.aspose.com/docs/display/totaljava/Aspose.Total+Project+Wizard+for+Eclipse+-+Maven)
 - You can use [Aspose Maven ArcheType (hosted on Aspose Cloud Maven Repository)](http://goo.gl/XPyp5n) for creating Aspose Maven based java projects.
   Detailed information on Aspose Maven ArcheType can be found on the following Aspose blogs: 
-  - [Aspose Maven Dependencies Integrates with JetBrains IDE](http://goo.gl/9nrWX7)
-  - [Aspose Maven Dependencies Integrate with Eclipse IDE](http://goo.gl/6Fglfo)
-  - [Aspose Maven Dependencies Integrate with NetBeans IDE](http://goo.gl/sV5XFO)
+  - [Aspose Maven Dependencies Integrates with JetBrains IDE](https://blog.aspose.com/2014/10/03/aspose-maven-dependencies-integrates-with-jetbrains-ide/)
+  - [Aspose Maven Dependencies Integrate with Eclipse IDE](https://blog.aspose.com/2015/01/07/aspose-maven-dependencies-integrates-with-eclipse-ide/)
+  - [Aspose Maven Dependencies Integrate with NetBeans IDE](https://blog.aspose.com/2015/01/08/aspose-maven-dependencies-integrate-with-netbeans-ide/)
 
 After you created / configured Aspose Maven project. You can untap the power of  "Aspose.Total for Java" APIs  in Maven based java project for your development needs.
 ### **Browsing Aspose.Total Java for Maven / Aspose Cloud Maven Repository**
