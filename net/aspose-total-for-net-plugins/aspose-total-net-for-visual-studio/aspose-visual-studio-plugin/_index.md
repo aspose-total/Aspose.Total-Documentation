@@ -48,7 +48,7 @@ You can download Aspose Visual Studio Plugin from one of the following locations
 
 - [CodePlex ](https://asposetotalvs.codeplex.com/releases)
 - [Code.MSDN ](https://code.msdn.microsoft.com/Aspose3D-for-NET-API-2177d869)
-- [Visual Studio Gallery ](https://visualstudiogallery.msdn.microsoft.com/bf238f5a-093a-4f1f-8eb3-349fff1eb78d)
+- [Visual Studio Gallery ](https://marketplace.visualstudio.com/)
 - [Github ](https://github.com/aspose-total/Aspose.Total-for-.NET/releases)
 ## **Installing**
 It is very simple and easy to install Aspose Visual Studio Plugin, please follow these simple steps
