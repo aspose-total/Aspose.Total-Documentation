@@ -41,9 +41,6 @@ Following are three recommended methods for the successful downloading and insta
 
 - Drag and drop installation from [Eclipse Marketplace](https://marketplace.eclipse.org/) to your Eclipse workspace.
 - Or download the plugin jar from [Downloads ](https://asposemaveneclipse.codeplex.com/releases/view/612948)and copy it into /**dropins** folder of Eclipse installation and restart the IDE.
-- Or goto **Help** > **Install New Software...** > Enter following update site url in **Work with**:
-  <http://cdn.aspose.com/marketplace/maven>
-  Then select "Aspose Maven Project Wizard" and **Finish**. Accept License Agreement and Install the plugin.
 ## **Installing**
 [Installing Aspose Maven Project Wizard for Eclipse](https://docs.aspose.com/total/java/installing-and-using-aspose-project-wizard-for-eclipse/)
 ## **Using**
