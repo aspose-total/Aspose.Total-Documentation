@@ -119,7 +119,7 @@ To use Aspose.Total Java for Maven (Aspose.Total for Java - Maven Artifacts) in 
 
 `       `For this,
 
-- You may like to manually configure / create your Maven project as explained in [Configuring Aspose.Total Java for Maven](http://www.aspose.com/docs/pages/editpage.action?pageId=434474767#ConfigurationandUsingAspose.TotalJavaforMaven-ConfiguringAspose.TotalJavaforMaven%28AsposeCloudMavenReposiory%29foraMavenProject)
+- You may like to manually configure / create your Maven project as explained in [Configuring Aspose.Total Java for Maven](#configuring-asposetotal-java-for-maven-aspose-cloud-maven-reposiory-for-a-maven-project)
 - Another thing you can do is to download the example Maven project that is hosted on [GitHib Repository](http://goo.gl/hlFT1Z) for this purpose.
 - You can download and use any of Aspose Maven Plugins for Major IDEs to create Aspose Maven based project using the new project wizard feature in the plugin: 
   - [Aspose Maven for NetBeans](http://www.aspose.com/docs/display/totaljava/Aspose.Total+Project+Wizard+for+NetBeans+-+Maven)
