@@ -39,15 +39,15 @@ To download Eclipse IDE
 ### **Downloading and Installing Aspose.Total Java for Eclipse (Maven)**
 Following are three recommended methods for the successful downloading and installation of Aspose.Total Java for Eclipse (Maven) plugin:
 
-- Drag and drop installation from [Eclipse Marketplace](http://marketplace.eclipse.org/content/aspose-maven-project-wizard) to your Eclipse workspace.
+- Drag and drop installation from [Eclipse Marketplace](https://marketplace.eclipse.org/) to your Eclipse workspace.
 - Or download the plugin jar from [Downloads ](https://asposemaveneclipse.codeplex.com/releases/view/612948)and copy it into /**dropins** folder of Eclipse installation and restart the IDE.
 - Or goto **Help** > **Install New Software...** > Enter following update site url in **Work with**:
   <http://cdn.aspose.com/marketplace/maven>
   Then select "Aspose Maven Project Wizard" and **Finish**. Accept License Agreement and Install the plugin.
 ## **Installing**
-[Installing Aspose Maven Project Wizard for Eclipse](http://www.aspose.com/docs/display/totaljava/Installing+and+Using+Aspose+Maven+Project+Wizard+for+Eclipse#InstallingandUsingAsposeMavenProjectWizardforEclipse-InstallingAsposeMavenProjectWizardforEclipse)
+[Installing Aspose Maven Project Wizard for Eclipse](https://docs.aspose.com/total/java/installing-and-using-aspose-project-wizard-for-eclipse/)
 ## **Using**
-[Using Aspose Maven Project Wizard for Eclipse](http://www.aspose.com/docs/display/totaljava/Installing+and+Using+Aspose+Maven+Project+Wizard+for+Eclipse#InstallingandUsingAsposeMavenProjectWizardforEclipse-UsingAsposeMavenProjectWizardforEclipse)
+[Using Aspose Maven Project Wizard for Eclipse](https://docs.aspose.com/total/java/aspose-total-project-wizard-for-eclipse/)
 ## **Video Demo**
 Please check [the video](https://youtu.be/qQqHOEhRTUM) below to see the plugin's - Aspose Maven Project Wizard in action.
 ## **Support, Extend and Contribute**
