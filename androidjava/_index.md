@@ -69,8 +69,8 @@ Aspose.PDF for Android via Java is a component that allows developers to create 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.PDF for Java Online Documentation](/pdf/java/) (Aspose.PDF for Android via Java is very similar to Aspose.PDF for Java. So, you can use the same documentation)
-- [Aspose.PDF for Android via Java Features](/pdf/java/key-features/)
-- [Aspose.PDF for Android via Java Release Notes](/pdf/java/aspose-pdf-for-android-via-java/)
+- [Aspose.PDF for Android via Java Features](/pdf/androidjava/key-features/)
+- [Aspose.PDF for Android via Java Release Notes](/pdf/androidjava/release-notes/)
 - [Aspose.PDF for Android via Java Product Page](https://products.aspose.com/pdf/android-java)
 - [Download Aspose.PDF for Android via Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pdf-android-via-java)
 - [Install Aspose.PDF for Android via Java](/pdf/java/installation/)
