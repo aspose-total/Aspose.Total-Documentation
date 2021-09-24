@@ -23,7 +23,7 @@ There are strictly only two types of repositories: **local** and **remote**. The
 
 **Remote repositories** refer to any other type of repository, accessed by a variety of protocols such as file:// and http://.
 
-These repositories might be a truly remote repository set up by a third party to provide their artifacts for downloading (for example, [repo.maven.apache.org](http://repo.maven.apache.org/maven2/) / [uk.maven.org](http://uk.maven.org/maven2/) house Maven's central repository and [maven.aspose.com](http://maven.aspose.com/artifactory/webapp/home.html) for holding **Aspose.Total for Java APIs artifacts**). Other "remote" repositories may be internal repositories set up on a file or HTTP server within your company, used to share private artifacts between development teams and for releases.
+These repositories might be a truly remote repository set up by a third party to provide their artifacts for downloading (for example, [repo.maven.apache.org](http://repo.maven.apache.org/maven2/) / [uk.maven.org](https://repo1.maven.org/maven2/uk/) house Maven's central repository and [maven.aspose.com](http://maven.aspose.com/artifactory/webapp/home.html) for holding **Aspose.Total for Java APIs artifacts**). Other "remote" repositories may be internal repositories set up on a file or HTTP server within your company, used to share private artifacts between development teams and for releases.
 
 The local and remote repositories are structured the same way so that scripts can easily be run on either side, or they can be synced for offline used. In general use, the layout of the repositories is completely transparent to the Maven user, however.
 ### **Aspose.Total for Java**
@@ -37,7 +37,6 @@ Artifacts for new APIs releases become available immediately,  facilitating the
 
 And as a feature to Maven project model, there is no manual downloadings are needed for Aspose.Total for Java APIs which is taken care by the Maven project dependency management. Developer will just use the dependency directive in pom.xml for creating any [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) API dependency.
 
-For more detail on how to use Aspose Maven dependencies in a maven project please check the [Blog post](http://goo.gl/bbij4U).
 ## **System Requirements and Supported Platforms**
 ### **System Requirements**
 - **System Memory:** 2 GB or more (Recommended)
