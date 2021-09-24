@@ -40,7 +40,7 @@ Aspose.Total Java for NetBeans (Maven) plugin supports NetBeans IDE version 8.0 
 
 To download NetBeans IDE,
 
-1. Navigate to: <https://netbeans.org/downloads>
+1. Navigate to: <https://netbeans.apache.org/download/index.html>
 1. Click Download to download NetBeans IDE appropriate bundle. 
 
 Download only Java EE / SE supported NetBeans download bundle of the latest release (at the time of writing this wiki 8.0.2 is the latest NetBeans IDE version).
