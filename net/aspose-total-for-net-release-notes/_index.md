@@ -19,8 +19,8 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Words for .NET|20.11|[Aspose.Words for .NET 20.11](/words/net/aspose-words-for-net-20-11-release-notes)|
 |Aspose.PDF for .NET|20.9|[Aspose.PDF for .NET 20.9](/pdf/net/aspose-pdf-for-net-20-9-release-notes)|
 |Aspose.Cells for .NET|21.9|[Aspose.Cells for .NET 21.9](/cells/net/aspose-cells-for-net-21-9-release-notes/)|
-|Aspose.Email for .NET|21.8|[Aspose.Email for .NET 21.8](email/net/aspose-email-for-net-21-8-1-release-notes)|
-|Aspose.Imaging for .NET|20.6|[Aspose.Imaging for .NET 20.6](/imaging/net/Aspose.Imaging+for+.NET+20.6+-+Release+notes)|
+|Aspose.Email for .NET|21.8|[Aspose.Email for .NET 21.8.1](/email/net/aspose-email-for-net-21-8-1-release-notes)|
+|Aspose.Imaging for .NET|20.6|[Aspose.Imaging for .NET 20.9](/imaging/net/aspose-imaging-for-net-21-9-release-notes/)|
 |Aspose.BarCode for .NET|20.10|[Aspose.BarCode for .NET 20.10](/barcode/net/aspose-barcode-for-net-20-10-release-notes/)|
 |Aspose.Diagram for .NET|21.9|[Aspose.Diagram for .NET 21.9](/diagram/net/aspose-diagram-for-net-21-9-release-notes/)|
 |Aspose.Tasks for .NET|20.11|[Aspose.Tasks for .NET 20.11](/tasks/net/aspose-tasks-for-net-20-11-release-notes/)|
@@ -37,6 +37,6 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.PUB for .NET|20.4|[Aspose.PUB for .NET 20.4](/pub/net/aspose-pub-for-net-20-4-release-notes)|
 |Aspose.SVG for .NET|21.7|[Aspose.SVG for .NET 21.7](/svg/net/aspose-svg-for-net-21-7-release-notes/)|
 |Aspose.Finance for .NET |20.8|[Aspose.Finance for .NET 20.8](/finance/net/aspose-finance-for-net-20-8-release-notes/)|
-|Aspose.Drawing for .NET|20.8|[Aspose.Drawing for .NET 20.8](/drawing/net/aspose-drawing-for-net-20-8)|
+|Aspose.Drawing for .NET|20.8|[Aspose.Drawing for .NET 20.9](/drawing/net/aspose-drawing-for-net-21-9-release-notes/)|
 |Aspose.Font for .NET|20.9|[Aspose.Font for .NET 20.9](/font/net/aspose-font-for-net-20-9-release-notes/)|
 |Aspose.TeX for .NET|21.3|[Aspose.TeX for .NET 21.3](/tex/net/aspose-tex-for-net-21-3-release-notes/)|
