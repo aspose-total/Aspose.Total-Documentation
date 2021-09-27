@@ -13,13 +13,13 @@ In a 2010 **Infoworld** report, IntelliJ received the highest test center score 
 ### **Aspose.Total for Java**
 [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the spose.Total for Java suite.
 ### **Aspose.Total Project Wizard for IntelliJ IDEA - Maven**
-Aspose.Total Project Wizard for IntelliJ IDEA - Maven / Aspose Maven for JetBrains is an IntelliJ IDEA Maven Plugin  which allows developers to create Aspose's Maven based projects for using [Aspose.Total Java for Maven](http://docs.aspose.com:8082/docs/display/totaljava/4.+Aspose.Total+Java+for+Maven) within IntelliJ IDEA.
+Aspose.Total Project Wizard for IntelliJ IDEA - Maven / Aspose Maven for JetBrains is an IntelliJ IDEA Maven Plugin  which allows developers to create Aspose's Maven based projects for using [Aspose.Total Java for Maven](https://docs.aspose.com/total/java/aspose-total-java-for-maven/n) within IntelliJ IDEA.
 
-This plugin helps you to explore [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) APIs inside your favorite IntelliJ IDEA.
+This plugin helps you to explore [Aspose.Total for Java](https://products.aspose.com/total/java) APIs inside your favorite IntelliJ IDEA.
 
 - Plugin's **Aspose Maven Project Wizard** let developer to create Aspose Maven based project by selecting API(s) from Aspose Java product lines like Aspose.Cells for Java and Aspose.Words for Java etc.
 - Once specific API is selected, its Maven Dependency reference is automatically fetched from Aspose Cloud Maven Repository and added in pom.xml of the maven project.
-- With this plugin, you never need to check for new releases of [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) APIs. Whenever a new release is available and its maven dependency is published, the latest maven dependency will be referenced while creating the new maven project.
+- With this plugin, you never need to check for new releases of [Aspose.Total for Java](https://products.aspose.com/total/java) APIs. Whenever a new release is available and its maven dependency is published, the latest maven dependency will be referenced while creating the new maven project.
 ## **System Requirements and Supported Platforms**
 ### **System Requirements**
 - Microsoft Windows 8/7/Vista/2003/XP (incl.64-bit)  / Linux GNOME or KDE desktop / Mac OS X 10.5 or higher
@@ -55,9 +55,9 @@ To download IntellliJ IDEA
   - In Search Box type: "Aspose"
   - Select "**Aspose Maven Project Wizard**" plugin to install.
 ## **Installing**
-[Installing Aspose.Total Project Wizard for IntelliJ IDEA - Maven](http://www.aspose.com/docs/display/totaljava/Installing+and+Using+Aspose.Total+Project+Wizard+for+IntelliJ+IDEA+-+Maven#InstallingandUsingAspose.TotalProjectWizardforIntelliJIDEA-Maven-Installing)
+[Installing Aspose.Total Project Wizard for IntelliJ IDEA - Maven](https://docs.aspose.com/total/java/installing-and-using-aspose-total-project-wizard-for-intellij-idea-maven/)
 ## **Using**
-[Using Aspose.Total Project Wizard for IntelliJ IDEA - Maven](http://www.aspose.com/docs/display/totaljava/Installing+and+Using+Aspose.Total+Project+Wizard+for+IntelliJ+IDEA+-+Maven#InstallingandUsingAspose.TotalProjectWizardforIntelliJIDEA-Maven-Using)
+[Using Aspose.Total Project Wizard for IntelliJ IDEA - Maven](https://docs.aspose.com/total/java/using-aspose-total-for-apache-poi-in-intellij-idea/)
 ## **Video Demo**
 Please check [the video](http://youtu.be/ChlojcMrWRY) below to see the plugin's - Aspose Maven Wizard in action.
 ## **Support, Extend and Contribute**
