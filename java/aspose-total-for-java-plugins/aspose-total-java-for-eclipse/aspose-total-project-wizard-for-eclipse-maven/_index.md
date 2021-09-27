@@ -13,7 +13,7 @@ The Eclipse IDE can be extended with additional software components. Eclipse cal
 ### **Aspose.Total for Java**
 [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the Aspose.Total for Java suite.
 ### **Aspose.Total Java for Eclipse IDE (Maven)**
-Aspose.Total Java for Eclipse (Maven) / **Aspose Maven for Eclipse** is a new Eclipse IDE Plugin released by Aspose Pty Ltd. which allows developers to create Aspose's Maven based projects for using [Aspose.Total Java for Maven](http://docs.aspose.com:8082/docs/display/totaljava/4.+Aspose.Total+Java+for+Maven) within Eclipse IDE.
+Aspose.Total Java for Eclipse (Maven) / **Aspose Maven for Eclipse** is a new Eclipse IDE Plugin released by Aspose Pty Ltd. which allows developers to create Aspose's Maven based projects for using [Aspose.Total Java for Maven](https://docs.aspose.com/total/java/aspose-total-java-for-maven/) within Eclipse IDE.
 
 This plugin helps you to explore [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) APIs inside your favorite Eclipse IDE.
 
