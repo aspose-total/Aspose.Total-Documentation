@@ -93,9 +93,9 @@ This is why we offer free support. Anyone who uses our product, whether they hav
 You can log any issues or suggestions related to Aspose Visual Studio Plugin using any of the following platforms
 
 - [CodePlex ](https://asposetotalvs.codeplex.com/workitem/list/basic)
-- [Visual Studio Gallery - Q and A](https://visualstudiogallery.msdn.microsoft.com/bf238f5a-093a-4f1f-8eb3-349fff1eb78d)
+- [Visual Studio Gallery - Q and A](https://aka.ms/vsmfaq)
 - [Github ](https://github.com/aspose-total/Aspose.Total-for-.NET/issues)
-- [Microsoft Developer Network - Q and A ](https://code.msdn.microsoft.com/Aspose3D-for-NET-API-2177d869/view/Discussions#content)
+
 ### **Extend and Contribute**
 Aspose.Total .NET for Visual Studio is open source and its source code is available on the major social coding websites listed below. Developers are encouraged to download the source code and extend the functionality as per their own requirements.
 #### **Source Code**
@@ -103,7 +103,7 @@ You can get the latest source code from one of the following locations
 
 - [CodePlex ](https://asposetotalvs.codeplex.com/SourceControl/latest)
 - [Github ](https://github.com/aspose-total/Aspose.Total-for-.NET)
-- [Microsoft Developer Network ](https://code.msdn.microsoft.com/Aspose3D-for-NET-API-2177d869)
+
 #### **How to configure the source code**
 You need to have the following installed in order to open and extend the source code
 
