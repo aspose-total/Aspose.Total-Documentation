@@ -15,7 +15,7 @@ The following are the key features of Maven in a nutshell:
 - Consistent usage across all projects means no ramp up time for new developers coming onto a project
 - Superior dependency management including automatic updating, dependency closures (also known as transitive dependencies)
 - A large and growing repository of libraries and metadata to use out of the box, and arrangements in place with the largest Open Source projects for real-time availability of their latest releases
-- Dependency management: Maven encourages the use of a central repository of JARs and other dependencies. Maven comes with a mechanism that your project's clients can use to download any JARs required for building your project from a central JAR repository / Third party repository like [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html) (provides Aspose.Total for Java APIs Maven Dependencies). This allows users of Maven to reuse JARs across projects and encourages communication between projects.
+- Dependency management: Maven encourages the use of a central repository of JARs and other dependencies. Maven comes with a mechanism that your project's clients can use to download any JARs required for building your project from a central JAR repository / Third party repository like [Aspose Cloud Maven Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo) (provides Aspose.Total for Java APIs Maven Dependencies). This allows users of Maven to reuse JARs across projects and encourages communication between projects.
 ### **Introduction to Maven Repositories**
 A repository in Maven is used to hold build artifacts and dependencies of varying types.
 
@@ -23,13 +23,13 @@ There are strictly only two types of repositories: **local** and **remote**. The
 
 **Remote repositories** refer to any other type of repository, accessed by a variety of protocols such as file:// and http://.
 
-These repositories might be a truly remote repository set up by a third party to provide their artifacts for downloading (for example, [repo.maven.apache.org](http://repo.maven.apache.org/maven2/) / [uk.maven.org](https://repo1.maven.org/maven2/uk/) house Maven's central repository and [maven.aspose.com](http://maven.aspose.com/artifactory/webapp/home.html) for holding **Aspose.Total for Java APIs artifacts**). Other "remote" repositories may be internal repositories set up on a file or HTTP server within your company, used to share private artifacts between development teams and for releases.
+These repositories might be a truly remote repository set up by a third party to provide their artifacts for downloading (for example, [repo.maven.apache.org](http://repo.maven.apache.org/maven2/) / [uk.maven.org](https://repo1.maven.org/maven2/uk/) house Maven's central repository and **maven.aspose.com** for holding **Aspose.Total for Java APIs artifacts**). Other "remote" repositories may be internal repositories set up on a file or HTTP server within your company, used to share private artifacts between development teams and for releases.
 
 The local and remote repositories are structured the same way so that scripts can easily be run on either side, or they can be synced for offline used. In general use, the layout of the repositories is completely transparent to the Maven user, however.
 ### **Aspose.Total for Java**
 [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the Aspose.Total for Java suite.
 ## **Aspose.Total Java for Maven**
-**Aspose.Total Java for Maven** are Aspose's Maven artifacts (for [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx)) provided by Aspose's maintained private maven repository, which is also known as [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html).
+**Aspose.Total Java for Maven** are Aspose's Maven artifacts (for [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx)) provided by Aspose's maintained private maven repository, which is also known as **Aspose Cloud Maven Repository**.
 
 Aspose Cloud Maven Repository was launched on August 12, 2014 to provide maven artifacts for [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) since then it is housing Aspose artifacts none-stop.
 

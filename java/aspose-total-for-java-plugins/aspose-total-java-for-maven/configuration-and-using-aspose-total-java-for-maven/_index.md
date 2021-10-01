@@ -135,6 +135,6 @@ After you created / configured Aspose Maven project. You can untap the power ofÂ
 ### **Browsing Aspose.Total Java for Maven / Aspose Cloud Maven Repository**
 The Aspose Cloud Maven Repository is located at the following URL.
 
-<http://maven.aspose.com/artifactory/webapp/home.html>
+<https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo>
 
 You can browse the repository to find out the Artifacts it is currently serving, along with configuration required in pom.xml to use them in Maven based projects.

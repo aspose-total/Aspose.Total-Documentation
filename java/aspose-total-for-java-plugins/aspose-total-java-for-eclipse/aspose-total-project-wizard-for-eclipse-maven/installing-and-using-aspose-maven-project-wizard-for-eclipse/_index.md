@@ -44,10 +44,10 @@ After Installation of the plugin and restarting Eclipse IDE. Plugin will introdu
 ![todo:image_alt_text](http://i.imgur.com/5suRi7w.jpg)
 
 1. Click **Finish** 
-   This will retrieve the selected Aspose APIs latest maven dependencies references from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0).
+   This will retrieve the selected Aspose APIs latest maven dependencies references from [Aspose Cloud Maven Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo).
 
 Congratulations! you have successfully created Aspose maven based project by using **Aspose Maven Project wizard** inside the Eclipse IDE.
 
-One cool thing, every time you create Maven project using this wizard you never need to worry about the latest versions of Aspose APIs as the creating maven project will always contain latest maven dependencies along with the [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0) configuration in the pom.xml.
+One cool thing, every time you create Maven project using this wizard you never need to worry about the latest versions of Aspose APIs as the creating maven project will always contain latest maven dependencies along with the **Aspose Cloud Maven Repository** configuration in the pom.xml.
 
 ![todo:image_alt_text](http://i.imgur.com/EvmrOYM.png)

@@ -41,11 +41,11 @@ The Wizard allows developers to create Maven based project for using Aspose.Tota
 ![todo:image_alt_text](http://i.imgur.com/v74ld9R.png)
 
 1. Click **Finish**.
-   This will retrieve the selected Aspose APIs latest maven dependencies references from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0). 
+   This will retrieve the selected Aspose APIs latest maven dependencies references from [Aspose Cloud Maven Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo). 
 
 Congratulations! you have successfully created Aspose maven based project for your selected Aspose APIs using Aspose Maven Project wizard inside the NetBeans IDE.
 
-One cool thing, every time you create Maven project using the wizard will create maven project containing latest maven dependencies for the selected Aspose APIs along with the [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0) configuration in the pom.xml. See the snapshot below:
+One cool thing, every time you create Maven project using the wizard will create maven project containing latest maven dependencies for the selected Aspose APIs along with the **Aspose Cloud Maven Repository** configuration in the pom.xml. See the snapshot below:
 
 ![todo:image_alt_text](http://i.imgur.com/ji1NDF0.png)
 
