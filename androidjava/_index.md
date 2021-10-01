@@ -27,7 +27,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Words for Android via Java Product Page](https://products.aspose.com/words/android-java)
 - [Download Aspose.Words for Android via Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words)
 - [Install Aspose.Words for Android via Java from Maven](/words/java/install-aspose-words-for-android-via-java#InstallAspose.WordsforAndroidviaJavafromMavenRepository)
-- [Aspose.Words for Android via Java API Reference Guide](https://apireference.aspose.com/java/words) (Aspose.Words for Android via Java is very similar to Aspose.Words for Java. So, you can use the same API Reference Guide)
+- [Aspose.Words for Android via Java API Reference Guide](https://apireference.aspose.com/words/java) (Aspose.Words for Android via Java is very similar to Aspose.Words for Java. So, you can use the same API Reference Guide)
 - [Aspose.Words for Android via Java Free Support Forum](https://forum.aspose.com/c/words)
 - [Aspose.Words for Android via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
@@ -74,7 +74,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.PDF for Android via Java Product Page](https://products.aspose.com/pdf/android-java)
 - [Download Aspose.PDF for Android via Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pdf-android-via-java)
 - [Install Aspose.PDF for Android via Java](/pdf/java/installation/)
-- [Aspose.PDF for Android via Java API Reference Guide](https://apireference.aspose.com/java/pdf) (Aspose.PDF for Android via Java is very similar to Aspose.PDF for Java. So, you can use the same API Reference Guide)
+- [Aspose.PDF for Android via Java API Reference Guide](https://apireference.aspose.com/pdf/java) (Aspose.PDF for Android via Java is very similar to Aspose.PDF for Java. So, you can use the same API Reference Guide)
 - [Aspose.PDF for Android via Java Free Support Forum](https://forum.aspose.com/c/pdf)
 - [Aspose.PDF for Android via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
@@ -98,7 +98,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Slides for Android via Java Product Page](https://products.aspose.com/slides/android-java)
 - [Download Aspose.Slides for Android via Java](http://maven.aspose.com/repository/simple/ext-release-local/com/aspose/aspose-slides/)
 - [Install Aspose.Slides for Android via Java](/slides/androidjava/install-aspose-slides-for-android-via-java/) 
-- [Aspose.Slides for Android via Java API Reference Guide](https://apireference.aspose.com/java/slides)
+- [Aspose.Slides for Android via Java API Reference Guide](https://apireference.aspose.com/slides/java)
 - [Aspose.Slides for Android via Java Free Support Forum](https://forum.aspose.com/c/slides)
 - [Aspose.Slides for Android via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
@@ -121,4 +121,4 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Email for Android via Java Limitations and API Differences](/email/androidjava/limitations-and-api-differences/)
 - [Aspose.Email for Android via Java Release Notes](/email/java/android-via-java-release-notes/)
 - [Aspose.Email for Android via Java Product Page](https://products.aspose.com/email/android-java)
-- [Aspose.Email for Android via Java API Reference Guide](https://apireference.aspose.com/java/email) 
+- [Aspose.Email for Android via Java API Reference Guide](https://apireference.aspose.com/email/java) 
