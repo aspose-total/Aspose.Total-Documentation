@@ -141,3 +141,27 @@ Following are the links to some useful resources you may need to accomplish your
 - [Download Aspose.BarCode for JasperReports](https://downloads.aspose.com/barcode/jasperreports)
 - [Aspose.BarCode for JasperReports Free Support Forum](https://forum.aspose.com/c/barcode)
 - [Aspose.BarCode for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)
+
+{{% alert color="primary" %}}
+
+![Aspose.CAD for JasperReports](aspose_cad-for-jasperreports-128.png)
+
+**Welcome to Aspose.CAD for JasperReports**
+
+Aspose.CAD for JasperReports is the unique solution on the market that makes possible exporting reports from JasperReports to various CAD, BIM and other vector file formats.
+
+The export formats currently include: DXF, DWF, DWFX, OBJ, FBX, PLT, PDF, SVG, WMF, DICOM, JP2, PSD
+
+{{% /alert %}}
+
+## **Aspose.CAD for JasperReports Resources**
+
+The following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.CAD for JasperReports Online Documentation](/cad/jasperreports/)
+- [Aspose.CAD for JasperReports Features](/cad/jasperreports/features-overview/)
+- [Aspose.CAD for JasperReports Release Notes](/cad/jasperreports/release-notes/)
+- [Aspose.CAD for JasperReports Product Page](https://products.aspose.com/cad/jasperreports)
+- [Download Aspose.CAD for JasperReports](https://downloads.aspose.com/cad/jasperreports)
+- [Aspose.CAD for JasperReports Free Support Forum](https://forum.aspose.com/c/cad)
+- [Aspose.CAD for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)
