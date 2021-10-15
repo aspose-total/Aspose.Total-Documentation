@@ -14,18 +14,18 @@ Using Aspose.Total for .NET developers can create a wide range of applications, 
 
 Aspose.Total for .NET includes the following components.
 
-- [Aspose.Cells for .NET ](http://www.aspose.com/.net/excel-component.aspx)
-- [Aspose.Words for .NET ](http://www.aspose.com/.net/word-component.aspx)
-- [Aspose.Pdf for .NET ](http://www.aspose.com/.net/pdf-component.aspx)
-- [Aspose.Slides for .NET ](http://www.aspose.com/.net/powerpoint-component.aspx)
-- [Aspose.BarCode for .NET ](http://www.aspose.com/.net/barcode-component.aspx)
-- [Aspose.Tasks for .NET ](http://www.aspose.com/.net/project-management-component.aspx)
-- [Aspose.Email for .NET ](http://www.aspose.com/.net/email-component.aspx)
-- [Aspose.Diagram for .NET ](http://www.aspose.com/.net/diagram-component.aspx)
-- [Aspose.OCR for .NET ](http://www.aspose.com/.net/ocr-component.aspx)
-- [Aspose.Imaging for .NET ](http://www.aspose.com/.net/imaging-component.aspx)
-- [Aspose.Note for .NET ](http://www.aspose.com/.net/onenote-component.aspx)
-- [Aspose.3D for .NET ](http://www.aspose.com/.net/3d-component.aspx)
+- [Aspose.Cells for .NET ](https://products.aspose.com/cells/net/)
+- [Aspose.Words for .NET ]https://products.aspose.com/words/net/)
+- [Aspose.Pdf for .NET ](https://products.aspose.com/pdf/net/)
+- [Aspose.Slides for .NET ](https://products.aspose.com/slides/net/)
+- [Aspose.BarCode for .NET ](https://products.aspose.com/barcode/net/)
+- [Aspose.Tasks for .NET ](https://products.aspose.com/tasks/net/)
+- [Aspose.Email for .NET ](https://products.aspose.com/total/net/)
+- [Aspose.Diagram for .NET ](https://products.aspose.com/diagram/net/)
+- [Aspose.OCR for .NET ](https://products.aspose.com/ocr/net/)
+- [Aspose.Imaging for .NET ](https://products.aspose.com/imaging/net/)
+- [Aspose.Note for .NET ](https://products.aspose.com/note/net/)
+- [Aspose.3D for .NET ](https://products.aspose.com/3d/net/)
 ### **Module Features**
 Aspose for .NET DNN Module Development Template provides a quick and easy way to use module development template for DNN 7+. This module development template can automatically download Aspose components and seamlessly add them to your DNN module project during project creation.
 

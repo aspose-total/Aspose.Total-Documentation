@@ -56,8 +56,8 @@ set MAVEN_OPTS=-Xmx512m -XX:MaxPermSize=128m
 
 ![todo:image_alt_text](http://i.imgur.com/iYcyGwP.png)
 ## **Tutorials:**
-- [Aspose.Words API Demonstration for Spring Java](/total/java/aspose-words-api-demonstration-for-spring-java-html/)
-- [Aspose.Cells API Demonstration for Spring Java](/total/java/aspose-cells-api-demonstration-for-spring-java-html/)
-- [Aspose.Pdf API Demonstration for Spring Java](/total/java/aspose-pdf-api-demonstration-for-spring-java-html/)
-- [Aspose.BarCode API Demonstration for Spring Java](/total/java/aspose-barcode-api-demonstration-for-spring-java-html/)
-- [Aspose.Email API Demonstration for Spring Java](/total/java/aspose-email-api-demonstration-for-spring-java-html/)
+- [Aspose.Words API Demonstration for Spring Java](/total/java/aspose-words-api-demonstration-for-spring-java/)
+- [Aspose.Cells API Demonstration for Spring Java](/total/java/aspose-cells-api-demonstration-for-spring-java/)
+- [Aspose.Pdf API Demonstration for Spring Java](/total/java/aspose-pdf-api-demonstration-for-spring-java/)
+- [Aspose.BarCode API Demonstration for Spring Java](/total/java/aspose-barcode-api-demonstration-for-spring-java/)
+- [Aspose.Email API Demonstration for Spring Java](/total/java/aspose-email-api-demonstration-for-spring-java/)

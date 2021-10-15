@@ -57,7 +57,7 @@ Download Aspose.Total Java Project Wizard for Eclipse from any of the following 
 ## **Video Demo**
 Please check [the video](https://www.youtube.com/watch?v=FKLqdKU-Z_0) below to see the Aspose Project Wizard plugin in action.
 
-- [Installing and Using Aspose Project Wizard for Eclipse](/total/java/installing-and-using-aspose-project-wizard-for-eclipse-html/)
+- [Installing and Using Aspose Project Wizard for Eclipse](/total/java/installing-and-using-aspose-project-wizard-for-eclipse/)
 ## **Support, Extend and Contribute**
 ### **Support**
 - If you like to see known / reported issues (by the users or Q.A team) in the plugin.

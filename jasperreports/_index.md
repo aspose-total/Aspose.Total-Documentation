@@ -25,7 +25,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Words for JasperReports Release Notes](/words/jasperreports/release-notes/)
 - [Aspose.Words for JasperReports Product Page](https://products.aspose.com/words/jasperreports/)
 - [Download Aspose.Words for JasperReports](https://downloads.aspose.com/words/jasperreports)
-- [Aspose.Words for JasperReports Free Support Forum](https://forum.aspose.com/c/words)
+- [Aspose.Words for JasperReports Free Support Forum](https://forum.aspose.com/c/words/8)
 - [Aspose.Words for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)
   
 
@@ -48,7 +48,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Cells for JasperReports Release Notes](/cells/jasperreports/release-notes/)
 - [Aspose.Cells for JasperReports Product Page](https://products.aspose.com/cells/jasperreports/)
 - [Download Aspose.Cells for JasperReports](https://downloads.aspose.com/cells/jasperreports)
-- [Aspose.Cells for JasperReports Free Support Forum](https://forum.aspose.com/c/cells)
+- [Aspose.Cells for JasperReports Free Support Forum](https://forum.aspose.com/c/cells/9)
 - [Aspose.Cells for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -70,7 +70,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.PDF for JasperReports Release Notes](/pdf/jasperreports/release-notes/)
 - [Aspose.PDF for JasperReports Product Page](https://products.aspose.com/pdf/jasperreports/)
 - [Download Aspose.PDF for JasperReports](https://downloads.aspose.com/pdf/jasperreports)
-- [Aspose.PDF for JasperReports Free Support Forum](https://forum.aspose.com/c/pdf)
+- [Aspose.PDF for JasperReports Free Support Forum](https://forum.aspose.com/c/pdf/10)
 - [Aspose.PDF for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -92,7 +92,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Slides for JasperReports Release Notes](/slides/jasperreports/release-notes/)
 - [Aspose.Slides for JasperReports Product Page](https://products.aspose.com/slides/jasperreports/)
 - [Download Aspose.Slides for JasperReports](https://downloads.aspose.com/slides/jasperreports)
-- [Aspose.Slides for JasperReports Free Support Forum](https://forum.aspose.com/c/slides)
+- [Aspose.Slides for JasperReports Free Support Forum](https://forum.aspose.com/c/slides/11)
 - [Aspose.Slides for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -116,7 +116,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Imaging for JasperReports Release Notes](/imaging/jasperreports/release-notes/)
 - [Aspose.Imaging for JasperReports Product Page](https://products.aspose.com/imaging/jasperreports/)
 - [Download Aspose.Imaging for JasperReports](https://downloads.aspose.com/imaging/jasperreports)
-- [Aspose.Imaging for JasperReports Free Support Forum](https://forum.aspose.com/c/imaging)
+- [Aspose.Imaging for JasperReports Free Support Forum](https://forum.aspose.com/c/imaging/14)
 - [Aspose.Imaging for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 
@@ -139,7 +139,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.BarCode for JasperReports Release Notes](/barcode/jasperreports/release-notes/)
 - [Aspose.BarCode for JasperReports Product Page](https://products.aspose.com/barcode/jasperreports/)
 - [Download Aspose.BarCode for JasperReports](https://downloads.aspose.com/barcode/jasperreports)
-- [Aspose.BarCode for JasperReports Free Support Forum](https://forum.aspose.com/c/barcode)
+- [Aspose.BarCode for JasperReports Free Support Forum](https://forum.aspose.com/c/barcode/13)
 - [Aspose.BarCode for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -163,5 +163,5 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.CAD for JasperReports Release Notes](/cad/jasperreports/release-notes/)
 - [Aspose.CAD for JasperReports Product Page](https://products.aspose.com/cad/jasperreports/)
 - [Download Aspose.CAD for JasperReports](https://downloads.aspose.com/cad/jasperreports)
-- [Aspose.CAD for JasperReports Free Support Forum](https://forum.aspose.com/c/cad)
+- [Aspose.CAD for JasperReports Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)

@@ -27,7 +27,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Words for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Words.Cpp/)
 - [Aspose.Words for C++ API Reference Guide](https://apireference.aspose.com/words/cpp)
 - [Download Examples at GitHub Repository](https://github.com/aspose-words/Aspose.words-for-C)
-- [Aspose.Words for C++ Free Support Forum](https://forum.aspose.com/c/words)
+- [Aspose.Words for C++ Free Support Forum](https://forum.aspose.com/c/words/8)
 - [Aspose.Words for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -53,7 +53,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Cells for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Cells.CPP/)
 - [Aspose.Cells for C++ API Reference Guide](https://apireference.aspose.com/cells/cpp)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cells/Aspose.Cells-for-C)
-- [Aspose.Cells for C++ Free Support Forum](https://forum.aspose.com/c/cells)
+- [Aspose.Cells for C++ Free Support Forum](https://forum.aspose.com/c/cells/9)
 - [Aspose.Cells for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -77,7 +77,7 @@ The following links offer some useful resources you may need to accomplish your 
 - [Install Aspose.PDF for C++ NuGet Package](https://www.nuget.org/packages/Aspose.PDF.CPP/)
 - [Aspose.PDF for C++ API Reference Guide](https://apireference.aspose.com/pdf/cpp)
 - [Download Examples at GitHub Repository](https://github.com/aspose-pdf/Aspose.PDF-for-C)
-- [Aspose.PDF for C++ Free Support Forum](https://forum.aspose.com/c/pdf)
+- [Aspose.PDF for C++ Free Support Forum](https://forum.aspose.com/c/pdf/10)
 - [Aspose.PDF for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -101,7 +101,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Slides for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Slides.CPP/)
 - [Aspose.Slides for C++ API Reference Guide](https://apireference.aspose.com/slides/cpp)
 - [Download Examples at GitHub Repository](https://github.com/aspose-slides/Aspose.Slides-for-C)
-- [Aspose.Slides for C++ Free Support Forum](https://forum.aspose.com/c/slides)
+- [Aspose.Slides for C++ Free Support Forum](https://forum.aspose.com/c/slides/11)
 - [Aspose.Slides for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -151,7 +151,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Tasks for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Tasks/)
 - [Download Examples at GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-C)
 - [Aspose.Tasks for C++ API Reference Guide](https://apireference.aspose.com/tasks/cpp)
-- [Aspose.Tasks for C++ Free Support Forum](https://forum.aspose.com/c/tasks)
+- [Aspose.Tasks for C++ Free Support Forum](https://forum.aspose.com/c/tasks/15)
 - [Aspose.Tasks for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -174,7 +174,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.BarCode for C++ Product Page](https://products.aspose.com/barcode/cpp/)
 - [Install Aspose.BarCode for C++ NuGet Package](https://www.nuget.org/packages/Aspose.barcode.Cpp/)
 - [Aspose.BarCode for C++ API Reference Guide](https://apireference.aspose.com/barcode/cpp)
-- [Aspose.BarCode for C++ Free Support Forum](https://forum.aspose.com/c/barcode)
+- [Aspose.BarCode for C++ Free Support Forum](https://forum.aspose.com/c/barcode/13)
 - [Aspose.BarCode for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -197,7 +197,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Page for C++ Product Page](https://products.aspose.com/page/cpp/)
 - [Install Aspose.Page for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Page.Cpp/)
 - [Aspose.Page for C++ API Reference Guide](https://apireference.aspose.com/page/cpp)
-- [Aspose.Page for C++ Free Support Forum](https://forum.aspose.com/c/page)
+- [Aspose.Page for C++ Free Support Forum](https://forum.aspose.com/c/page/39)
 - [Aspose.Page for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -218,7 +218,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.OCR for C++ Features](/ocr/cpp/features/)
 - [Aspose.OCR for C++ Release Notes](/ocr/cpp/release-notes/)
 - [Aspose.OCR for C++ Product Page](https://products.aspose.com/ocr/cpp/)
-- [Aspose.OCR for C++ Free Support Forum](https://forum.aspose.com/c/ocr)
+- [Aspose.OCR for C++ Free Support Forum](https://forum.aspose.com/c/ocr/16)
 - [Aspose.OCR for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -242,7 +242,7 @@ The following links offer some useful resources you may need to accomplish your 
 - [Install Aspose.PUB for C++ NuGet Package](https://www.nuget.org/packages/Aspose.PUB.CPP/)
 - [Aspose.PUB for C++ API Reference Guide](https://apireference.aspose.com/pub/cpp)
 - [Download Examples at GitHub Repository](https://github.com/aspose-pub/Aspose.PUB-for-C)
-- [Aspose.PUB for C++ Free Support Forum](https://forum.aspose.com/c/pub)
+- [Aspose.PUB for C++ Free Support Forum](https://forum.aspose.com/c/pub/40)
 - [Aspose.PUB for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -260,7 +260,7 @@ Aspose.Font for C++ is a font manipulation API which lets you work with several 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Font for C++ Online Documentation](/font/cpp/)
-- [Aspose.Font for C++ Features](/font/cpp/feature-list)
+- [Aspose.Font for C++ Features](/font/cpp/feature-list/)
 - [Aspose.Font for C++ Release Notes](/font/cpp/release-notes)
 - [Aspose.Font for C++ Product Page](https://products.aspose.com/font/cpp/)
 - [Install Aspose.Font for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Font/)
@@ -283,10 +283,10 @@ Aspose.TeX is a C++ library for TeX files typesetting. It can present TeX input 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.TeX for C++ Online Documentation](/tex/cpp/)
-- [Aspose.TeX for C++ Features](/tex/cpp/feature-list)
-- [Aspose.TeX for C++ Release Notes](/tex/cpp/release-notes)
+- [Aspose.TeX for C++ Features](/tex/cpp/feature-list/)
+- [Aspose.TeX for C++ Release Notes](/tex/cpp/release-notes/)
 - [Aspose.TeX for C++ Product Page](https://products.aspose.com/tex/cpp/)
 - [Install Aspose.TeX for C++ NuGet Package](https://www.nuget.org/packages/Aspose.TeX.Cpp/)
 - [Aspose.TeX for C++ API Reference Guide](https://apireference.aspose.com/tex/cpp)
-- [Aspose.TeX for C++ Free Support Forum](https://forum.aspose.com/c/tex)
+- [Aspose.TeX for C++ Free Support Forum](https://forum.aspose.com/c/tex/47)
 - [Aspose.TeX for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)

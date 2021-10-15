@@ -20,15 +20,14 @@ Aspose.Words for Java is a class library that enables your applications to perfo
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Words for Java Features](/words/java/feature-overview/)
-- [Aspose.Words for Java Limitations](/words/java/What+Document+Features+are+Supported)
-- [Aspose.Words for Java Release Notes](/words/java/aspose-words-for-java)
+- [Aspose.Words for Java Features](/words/java/features/)
+- [Aspose.Words for Java Release Notes](/words/java/aspose-words-for-java/)
 - [Aspose.Words for Java Product Page](https://products.aspose.com/words/java/)
 - [Download Aspose.Words for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words)
 - [Install Aspose.Words for Java from Maven Repository](/words/java/installation/)
 - [Aspose.Words for Java API Reference Guide](https://apireference.aspose.com/words/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-words/Aspose.Words-for-Java)
-- [Aspose.Words for Java Free Support Forum](https://forum.aspose.com/c/words)
+- [Aspose.Words for Java Free Support Forum](https://forum.aspose.com/c/words/8)
 - [Aspose.Words for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -53,7 +52,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Download Aspose.Cells for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)
 - [Install Aspose.Cells for Java from Maven Repository](/cells/java/installation/)
 - [Aspose.Cells for Java API Reference Guide](https://apireference.aspose.com/cells/java)
-- [Aspose.Cells for Java Free Support Forum](https://forum.aspose.com/c/cells)
+- [Aspose.Cells for Java Free Support Forum](https://forum.aspose.com/c/cells/9)
 - [Aspose.Cells for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -78,7 +77,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.PDF for Java from Aspose Repository](/pdf/java/installation/)
 - [Aspose.PDF for Java API Reference Guide](https://apireference.aspose.com/pdf/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-pdf/Aspose.PDF-for-Java)
-- [Aspose.PDF for Java Free Support Forum](https://forum.aspose.com/c/pdf)
+- [Aspose.PDF for Java Free Support Forum](https://forum.aspose.com/c/pdf/10)
 - [Aspose.PDF for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -104,7 +103,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Slides for Java from Maven Repository](/slides/java/installation/)
 - [Aspose.Slides for Java API Reference Guide](https://apireference.aspose.com/slides/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-slides/Aspose.Slides-for-Java)
-- [Aspose.Slides for Java Free Support Forum](https://forum.aspose.com/c/slides)
+- [Aspose.Slides for Java Free Support Forum](https://forum.aspose.com/c/slides/11)
 - [Aspose.Slides for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -126,7 +125,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Email for Java from Maven Repository](/email/java/installation/)
 - [Aspose.Email for Java API Reference Guide](https://apireference.aspose.com/email/java)
 - [Download Aspose.Email for Java from GitHub Repository](https://github.com/aspose-email/Aspose.Email-for-Java)
-- [Aspose.Email for Java Free Support Forum](https://forum.aspose.com/c/email)
+- [Aspose.Email for Java Free Support Forum](https://forum.aspose.com/c/email/12)
 - [Aspose.Email for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -152,7 +151,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.BarCode for Java from Maven Repository](/barcode/java/installation/)
 - [Aspose.BarCode for Java API Reference Guide](https://apireference.aspose.com/barcode/java)
 - [Download Aspose.BarCode for Java from GitHub Repository](https://github.com/aspose-barcode/Aspose.Barcode-for-Java)
-- [Aspose.BarCode for Java Free Support Forum](https://forum.aspose.com/c/barcode)
+- [Aspose.BarCode for Java Free Support Forum](https://forum.aspose.com/c/barcode/13)
 - [Aspose.BarCode for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -180,7 +179,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Imaging for Java from Maven Repository](/imaging/java/installation/)
 - [Aspose.Imaging for Java API Reference Guide](https://apireference.aspose.com/imaging/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-imaging/Aspose.Imaging-for-Java)
-- [Aspose.Imaging for Java Free Support Forum](https://forum.aspose.com/c/imaging)
+- [Aspose.Imaging for Java Free Support Forum](https://forum.aspose.com/c/imaging/14)
 - [Aspose.Imaging for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 ## **Aspose.Tasks for Java**
 {{% alert color="primary" %}}
@@ -204,7 +203,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Tasks for Java from Maven Repository](/tasks/java/installation/)
 - [Aspose.Tasks for Java API Reference Guide](https://apireference.aspose.com/tasks/java)
 - [Download Aspose.Tasks for Java from GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-Java)
-- [Aspose.Tasks for Java Free Support Forum](https://forum.aspose.com/c/tasks)
+- [Aspose.Tasks for Java Free Support Forum](https://forum.aspose.com/c/tasks/15)
 - [Aspose.Tasks for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -230,7 +229,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.OCR for Java from Maven Repository](/ocr/java/installation/)
 - [Aspose.OCR for Java API Reference Guide](https://apireference.aspose.com/ocr/java)
 - [Download Aspose.OCR for Java from GitHub Repository](https://github.com/aspose-ocr/Aspose.OCR-for-Java)
-- [Aspose.OCR for Java Free Support Forum](https://forum.aspose.com/c/ocr)
+- [Aspose.OCR for Java Free Support Forum](https://forum.aspose.com/c/ocr/16)
 - [Aspose.OCR for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -258,7 +257,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Diagram for Java from Aspose Repository](/diagram/java/installation/)
 - [Aspose.Diagram for Java API Reference Guide](https://apireference.aspose.com/diagram/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-diagram/Aspose.Diagram-for-Java)
-- [Aspose.Diagram for Java Free Support Forum](https://forum.aspose.com/c/diagram)
+- [Aspose.Diagram for Java Free Support Forum](https://forum.aspose.com/c/diagram/17)
 - [Aspose.Diagram for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 
@@ -283,7 +282,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Note for Java from Maven Repository](/note/java/installation/)
 - [Aspose.Note for Java API Reference Guide](https://apireference.aspose.com/note/java)
 - [Download Aspose.Note for Java from GitHub Repository](https://github.com/aspose-note/Aspose.Note-for-Java)
-- [Aspose.Note for Java Free Support Forum](https://forum.aspose.com/c/note)
+- [Aspose.Note for Java Free Support Forum](https://forum.aspose.com/c/note/28)
 - [Aspose.Note for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -318,7 +317,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.CAD for Java from Maven Repository](/cad/java/installation/)
 - [Aspose.CAD for Java API Reference Guide](https://apireference.aspose.com/cad/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-Java)
-- [Aspose.CAD for Java Free Support Forum](https://forum.aspose.com/c/cad)
+- [Aspose.CAD for Java Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -340,10 +339,10 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.HTML for Java Release Notes](/html/java/release-notes/)
 - [Aspose.HTML for Java Product Page](https://products.aspose.com/html/java/)
 - [Download Aspose.HTML for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-html)
-- [Install Aspose.HTML for Java from Aspose Repository](/html/java/installation/)
+- [Install Aspose.HTML for Java from Aspose Repository](/html/java/getting-started/installation/)
 - [Aspose.HTML for Java API Reference Guide](https://apireference.aspose.com/html/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-html/Aspose.HTML-for-Java)
-- [Aspose.HTML for Java Free Support Forum](https://forum.aspose.com/c/html)
+- [Aspose.HTML for Java Free Support Forum](https://forum.aspose.com/c/html/29)
 - [Aspose.HTML for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -369,7 +368,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.3D for Java Product Page](https://products.aspose.com/3d/java/)
 - [Install Aspose.3D for Java from Aspose Artifactory](/3d/java/installation/)
 - [Aspose.3D for Java API Reference Guide](https://apireference.aspose.com/3d/java)
-- [Aspose.3D for Java Free Support Forum](https://forum.aspose.com/c/3d)
+- [Aspose.3D for Java Free Support Forum](https://forum.aspose.com/c/3d/18)
 - [Aspose.3D for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -391,7 +390,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Page for Java Release Notes](/page/java/release-notes/)
 - [Aspose.Page for Java Product Page](https://products.aspose.com/page/java/)
 - [Install Aspose.Page for Java from Aspose Repository](/page/java/installation/)
-- [Aspose.Page for Java Free Support Forum](https://forum.aspose.com/c/page)
+- [Aspose.Page for Java Free Support Forum](https://forum.aspose.com/c/page/39)
 - [Aspose.Page for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -418,7 +417,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.PSD for Java from Maven Repository](/psd/java/installation/)
 - [Aspose.PSD for Java API Reference Guide](https://apireference.aspose.com/psd/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-psd/Aspose.PSD-for-Java)
-- [Aspose.PSD for Java Free Support Forum](https://forum.aspose.com/c/psd)
+- [Aspose.PSD for Java Free Support Forum](https://forum.aspose.com/c/psd/34)
 - [Aspose.PSD for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 
@@ -440,7 +439,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.PUB for Java Product Page](https://products.aspose.com/pub/java/)
 - [Download Aspose.PUB for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub)
 - [Aspose.PUB for Java API Reference Guide](https://apireference.aspose.com/pub/java)
-- [Aspose.PUB for Java Free Support Forum](https://forum.aspose.com/c/pub)
+- [Aspose.PUB for Java Free Support Forum](https://forum.aspose.com/c/pub/40)
 - [Aspose.PUB for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -461,7 +460,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Font for Java Release Notes](/font/java/release-notes/)
 - [Aspose.Font for Java Product Page](https://products.aspose.com/font/java/)
 - [Aspose.Font for Java API Reference Guide](https://apireference.aspose.com/font/java)
-- [Aspose.Font for Java Free Support Forum](https://forum.aspose.com/c/font/)
+- [Aspose.Font for Java Free Support Forum](https://forum.aspose.com/c/font/41)
 - [Aspose.Font for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -482,5 +481,5 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.TeX for Java Release Notes](/tex/java/release-notes/)
 - [Aspose.TeX for Java Product Page](https://products.aspose.com/tex/java/)
 - [Aspose.TeX for Java API Reference Guide](https://apireference.aspose.com/tex/java)
-- [Aspose.TeX for Java Free Support Forum](https://forum.aspose.com/c/tex)
+- [Aspose.TeX for Java Free Support Forum](https://forum.aspose.com/c/tex/47)
 - [Aspose.TeX for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)

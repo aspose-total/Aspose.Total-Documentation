@@ -25,7 +25,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Words for SharePoint Release Notes](/words/sharepoint/release-notes/)
 - [Aspose.Words for SharePoint Product Page](https://products.aspose.com/words/sharepoint/)
 - [Download Aspose.Words for SharePoint](https://downloads.aspose.com/words/sharepoint)
-- [Aspose.Words for SharePoint Free Support Forum](https://forum.aspose.com/c/words)
+- [Aspose.Words for SharePoint Free Support Forum](https://forum.aspose.com/c/words/8)
 - [Aspose.Words for SharePoint Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -47,7 +47,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Cells for SharePoint Release Notes](/cells/sharepoint/release-notes/)
 - [Aspose.Cells for SharePoint Product Page](https://products.aspose.com/cells/sharepoint/)
 - [Download Aspose.Cells for SharePoint](https://downloads.aspose.com/cells/sharepoint)
-- [Aspose.Cells for SharePoint Free Support Forum](https://forum.aspose.com/c/cells)
+- [Aspose.Cells for SharePoint Free Support Forum](https://forum.aspose.com/c/cells/9)
 - [Aspose.Cells for SharePoint Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -69,7 +69,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.PDF for SharePoint Release Notes](/pdf/sharepoint/release-notes/)
 - [Aspose.PDF for SharePoint Product Page](https://products.aspose.com/pdf/sharepoint/)
 - [Download Aspose.PDF for SharePoint](https://downloads.aspose.com/pdf/sharepoint)
-- [Aspose.PDF for SharePoint Free Support Forum](https://forum.aspose.com/c/pdf)
+- [Aspose.PDF for SharePoint Free Support Forum](https://forum.aspose.com/c/pdf/10)
 - [Aspose.PDF for SharePoint Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -91,7 +91,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Slides for SharePoint Release Notes](/slides/sharepoint/release-notes/)
 - [Aspose.Slides for SharePoint Product Page](https://products.aspose.com/slides/sharepoint/)
 - [Download Aspose.Slides for SharePoint](https://downloads.aspose.com/slides/sharepoint)
-- [Aspose.Slides for SharePoint Free Support Forum](https://forum.aspose.com/c/slides)
+- [Aspose.Slides for SharePoint Free Support Forum](https://forum.aspose.com/c/slides/11)
 - [Aspose.Slides for SharePoint Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -114,7 +114,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Email for SharePoint Features](/email/sharepoint/features/)
 - [Aspose.Email for SharePoint Product Page](https://products.aspose.com/email/sharepoint/)
 - [Download Aspose.Email for SharePoint](https://downloads.aspose.com/email/sharepoint)
-- [Aspose.Email for SharePoint Free Support Forum](https://forum.aspose.com/c/email)
+- [Aspose.Email for SharePoint Free Support Forum](https://forum.aspose.com/c/email/12)
 - [Aspose.Email for SharePoint Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -137,7 +137,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.BarCode for SharePoint Features](/barcode/sharepoint/features/)
 - [Aspose.BarCode for SharePoint Product Page](https://products.aspose.com/barcode/sharepoint/)
 - [Download Aspose.BarCode for SharePoint](https://downloads.aspose.com/barcode/sharepoint)
-- [Aspose.BarCode for SharePoint Free Support Forum](https://forum.aspose.com/c/barcode)
+- [Aspose.BarCode for SharePoint Free Support Forum](https://forum.aspose.com/c/barcode/13)
 - [Aspose.BarCode for SharePoint Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -159,5 +159,5 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Imaging for SharePoint Release Notes](/imaging/sharepoint/release-notes/)
 - [Aspose.Imaging for SharePoint Product Page](https://products.aspose.com/imaging/sharepoint/)
 - [Download Aspose.Imaging for SharePoint](https://downloads.aspose.com/imaging/sharepoint)
-- [Aspose.Imaging for SharePoint Free Support Forum](https://forum.aspose.com/c/imaging)
+- [Aspose.Imaging for SharePoint Free Support Forum](https://forum.aspose.com/c/imaging/14)
 - [Aspose.Imaging for SharePoint Paid Support Helpdesk](https://helpdesk.aspose.com/)

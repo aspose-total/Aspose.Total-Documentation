@@ -67,6 +67,6 @@ Below simple steps will smoothly lead to successful configuration of **Aspose.T
 1. Browse to the latest project source that you have downloaded and open the project.
 1. **Aspose.Total Java for Spring** code is now ready to enhance.
 ## **Downloading, Installing & Using**
-﻿[Downloading, Installing and Using Aspose Java for Spring](/total/java/downloading-2c-installing-and-using-aspose-java-for-spring-html/)
+﻿[Downloading, Installing and Using Aspose Java for Spring](/total/java/downloading-2c-installing-and-using-aspose-java-for-spring/)
 ## **Video Demo**
 Please check [the video](https://www.youtube.com/watch?v=GLujBd6gq_Y&feature=youtu.be) below to see the Aspose Java for Spring - Web app in action.

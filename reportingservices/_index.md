@@ -25,7 +25,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Words for Reporting Services Release Notes](/words/reportingservices/release-notes/)
 - [Aspose.Words for Reporting Services Product Page](https://products.aspose.com/words/reporting-services)
 - [Download Aspose.Words for Reporting Services](https://downloads.aspose.com/words/reportingservices)
-- [Aspose.Words for Reporting Services Free Support Forum](https://forum.aspose.com/c/words)
+- [Aspose.Words for Reporting Services Free Support Forum](https://forum.aspose.com/c/words/8)
 - [Aspose.Words for Reporting Services Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -47,7 +47,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Cells for Reporting Services Release Notes](/cells/reportingservices/release-notes/)
 - [Aspose.Cells for Reporting Services Product Page](https://products.aspose.com/cells/reporting-services)
 - [Download Aspose.Cells for Reporting Services](https://downloads.aspose.com/cells/reportingservices)
-- [Aspose.Cells for Reporting Services Free Support Forum](https://forum.aspose.com/c/cells)
+- [Aspose.Cells for Reporting Services Free Support Forum](https://forum.aspose.com/c/cells/9)
 - [Aspose.Cells for Reporting Services Paid Support Helpdesk](https://helpdesk.aspose.com/)
  
 {{% alert color="primary" %}}
@@ -69,7 +69,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.PDF for Reporting Services Release Notes](/pdf/reportingservices/release-notes/)
 - [Aspose.PDF for Reporting Services Product Page](https://products.aspose.com/pdf/reporting-services)
 - [Download Aspose.PDF for Reporting Services](https://downloads.aspose.com/pdf/reportingservices)
-- [Aspose.PDF for Reporting Services Free Support Forum](https://forum.aspose.com/c/pdf)
+- [Aspose.PDF for Reporting Services Free Support Forum](https://forum.aspose.com/c/pdf/10)
 - [Aspose.PDF for Reporting Services Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -91,7 +91,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Slides for Reporting Services Release Notes](/slides/reportingservices/release-notes/)
 - [Aspose.Slides for Reporting Services Product Page](https://products.aspose.com/slides/reporting-services)
 - [Download Aspose.Slides for Reporting Services](https://downloads.aspose.com/slides/reportingservices)
-- [Aspose.Slides for Reporting Services Free Support Forum](https://forum.aspose.com/c/slides)
+- [Aspose.Slides for Reporting Services Free Support Forum](https://forum.aspose.com/c/slides/11)
 - [Aspose.Slides for Reporting Services Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -112,5 +112,5 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.BarCode for Reporting Services Release Notes](/barcode/reportingservices/release-notes/)
 - [Aspose.BarCode for Reporting Services Product Page](https://products.aspose.com/barcode/reporting-services)
 - [Download Aspose.BarCode for Reporting Services](https://downloads.aspose.com/barcode/reportingservices)
-- [Aspose.BarCode for Reporting Services Free Support Forum](https://forum.aspose.com/c/barcode)
+- [Aspose.BarCode for Reporting Services Free Support Forum](https://forum.aspose.com/c/barcode/13)
 - [Aspose.BarCode for Reporting Services Paid Support Helpdesk](https://helpdesk.aspose.com/)

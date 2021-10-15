@@ -20,15 +20,14 @@ Aspose.Words for .NET is a class library that enables your applications to perfo
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Words for .NET Features](/words/net/feature-overview)
-- [Aspose.Words for .NET Limitations](/words/net/what-document-features-are-supported)
+- [Aspose.Words for .NET Features](/words/net/features/)
 - [Aspose.Words for .NET Release Notes](/words/net/release-notes/)
-- [Aspose.Words for .NET Product Page](https://products.aspose.com/words/net)
+- [Aspose.Words for .NET Product Page](https://products.aspose.com/words/net/)
 - [Download Aspose.Words for .NET](https://downloads.aspose.com/words/net)
 - [Install Aspose.Words for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Words/)
 - [Aspose.Words for .NET API Reference Guide](https://apireference.aspose.com/words/net)
 - [Download Examples at GitHub Repository](https://github.com/aspose-words/Aspose.Words-for-.NET)
-- [Aspose.Words for .NET Free Support Forum](https://forum.aspose.com/c/words)
+- [Aspose.Words for .NET Free Support Forum](https://forum.aspose.com/c/words/8)
 - [Aspose.Words for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -46,12 +45,12 @@ Aspose.PDF is a .NET component built to allow developers to create PDF documents
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.PDF for .NET Online Documentation](/pdf/net/)
-- [Aspose.PDF for .NET Features](/pdf/net/feature-list)
+- [Aspose.PDF for .NET Features](/pdf/net/key-features/)
 - [Aspose.PDF for .NET Release Notes](/pdf/net/release-notes/)
-- [Aspose.PDF for .NET Product Page](https://products.aspose.com/pdf/net)
+- [Aspose.PDF for .NET Product Page](https://products.aspose.com/pdf/net/)
 - [Install Aspose.PDF for .NET NuGet Package](https://www.nuget.org/packages/Aspose.PDF/)
 - [Aspose.PDF for .NET API Reference Guide](https://apireference.aspose.com/pdf/net)
-- [Aspose.PDF for .NET Free Support Forum](https://forum.aspose.com/c/pdf)
+- [Aspose.PDF for .NET Free Support Forum](https://forum.aspose.com/c/pdf/10)
 - [Aspose.PDF for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -72,10 +71,10 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Cells for .NET Features](/cells/net/feature-overview/)
 - [Aspose.Cells for .NET Limitations](https://docs.aspose.com/cells/net/what-document-features-are-supported/)
 - [Aspose.Cells for .NET Release Notes](/cells/net/release-notes/)
-- [Aspose.Cells for .NET Product Page](https://products.aspose.com/cells/net)
+- [Aspose.Cells for .NET Product Page](https://products.aspose.com/cells/net/)
 - [Install Aspose.Cells for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Cells/)
 - [Aspose.Cells for .NET API Reference Guide](https://apireference.aspose.com/cells/net)
-- [Aspose.Cells for .NET Free Support Forum](https://forum.aspose.com/c/cells)
+- [Aspose.Cells for .NET Free Support Forum](https://forum.aspose.com/c/cells/9)
 - [Aspose.Cells for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 ## **Aspose.Email for .NET**
@@ -96,12 +95,12 @@ Aspose.Email implements a number of network protocols, for example SMTP, MIME, P
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Email for .NET Online Documentation](/email/net/)
-- [Aspose.Email for .NET Features](/email/net/features-overview)
+- [Aspose.Email for .NET Features](/email/net/features-overview/)
 - [Aspose.Email for .NET Release Notes](/email/net/release-notes/)
-- [Aspose.Email for .NET Product Page](https://products.aspose.com/email/net)
+- [Aspose.Email for .NET Product Page](https://products.aspose.com/email/net/)
 - [Install Aspose.Email for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Email/)
 - [Aspose.Email for .NET API Reference Guide](https://apireference.aspose.com/email/net)
-- [Aspose.Email for .NET Free Support Forum](https://forum.aspose.com/c/email)
+- [Aspose.Email for .NET Free Support Forum](https://forum.aspose.com/c/email/12)
 - [Aspose.Email for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -119,14 +118,14 @@ Aspose.Slides for .NET is a Microsoft PowerPoint® management API that enables .
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Slides for .NET Online Documentation](/slides/net/)
-- [Aspose.Slides for .NET Features](/slides/net/features-overview)
-- [Aspose.Slides for .NET Limitations](/slides/net/known-issues)
+- [Aspose.Slides for .NET Features](/slides/net/features-overview/)
+- [Aspose.Slides for .NET Limitations](/slides/net/known-issues/)
 - [Aspose.Slides for .NET Release Notes](/slides/net/release-notes/)
-- [Aspose.Slides for .NET Product Page](https://products.aspose.com/slides/net)
+- [Aspose.Slides for .NET Product Page](https://products.aspose.com/slides/net/)
 - [Install Aspose.Slides for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Slides.NET/)
 - [Aspose.Slides for .NET API Reference Guide](https://apireference.aspose.com/slides/net)
 - [Download Examples at GitHub Repository](https://github.com/aspose-slides/Aspose.Slides-for-.NET)
-- [Aspose.Slides for .NET Free Support Forum](https://forum.aspose.com/c/slides)
+- [Aspose.Slides for .NET Free Support Forum](https://forum.aspose.com/c/slides/11)
 - [Aspose.Slides for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -147,13 +146,13 @@ The following are the links to some useful resources you may need to enjoy the u
 
 - [Aspose.Imaging for .NET Online Documentation](/imaging/net/)
 - [Aspose.Imaging for .NET Features](/imaging/net/features/)
-- [Aspose.Imaging for .NET Limitations](/imaging/net/known-issues)
+- [Aspose.Imaging for .NET Limitations](/imaging/net/known-issues/)
 - [Aspose.Imaging for .NET Release Notes](/imaging/net/release-notes/)
-- [Aspose.Imaging for .NET Product Page](https://products.aspose.com/imaging/net)
+- [Aspose.Imaging for .NET Product Page](https://products.aspose.com/imaging/net/)
 - [Install Aspose.Imaging for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Imaging/)
 - [Aspose.Imaging for .NET API Reference Guide](https://apireference.aspose.com/imaging/net)
 - [Download Examples at GitHub Repository](https://github.com/aspose-imaging/Aspose.Imaging-for-.NET)
-- [Aspose.Imaging for .NET Free Support Forum](https://forum.aspose.com/c/imaging)
+- [Aspose.Imaging for .NET Free Support Forum](https://forum.aspose.com/c/imaging/14)
 - [Aspose.Imaging for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -173,10 +172,10 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.BarCode for .NET Online Documentation](/barcode/net/)
 - [Aspose.BarCode for .NET Features](/barcode/net/product-overview/)
 - [Aspose.BarCode for .NET Release Notes](/barcode/net/release-notes/)
-- [Aspose.BarCode for .NET Product Page](https://products.aspose.com/barcode/net)
+- [Aspose.BarCode for .NET Product Page](https://products.aspose.com/barcode/net/)
 - [Install Aspose.BarCode for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Barcode/)
 - [Aspose.BarCode for .NET API Reference Guide](https://apireference.aspose.com/barcode/net)
-- [Aspose.BarCode for .NET Free Support Forum](https://forum.aspose.com/c/barcode)
+- [Aspose.BarCode for .NET Free Support Forum](https://forum.aspose.com/c/barcode/13)
 - [Aspose.BarCode for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -199,10 +198,10 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Diagram for .NET Features](/diagram/net/feature-list/)
 - [Aspose.Diagram for .NET Limitations](/diagram/net/why-not-automation/)
 - [Aspose.Diagram for .NET Release Notes](/diagram/net/release-notes/)
-- [Aspose.Diagram for .NET Product Page](https://products.aspose.com/diagram/net)
+- [Aspose.Diagram for .NET Product Page](https://products.aspose.com/diagram/net/)
 - [Install Aspose.Diagram for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Diagram/)
 - [Aspose.Diagram for .NET API Reference Guide](https://apireference.aspose.com/diagram/net)
-- [Aspose.Diagram for .NET Free Support Forum](https://forum.aspose.com/c/diagram)
+- [Aspose.Diagram for .NET Free Support Forum](https://forum.aspose.com/c/diagram/17)
 - [Aspose.Diagram for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -220,14 +219,14 @@ With Aspose.Tasks for .NET, it is possible to program with Microsoft Project fil
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Tasks for .NET Features](/tasks/net/product-overview/)
-- [Aspose.Tasks for .NET Developer Guide](/tasks/net/developer-guide)
+- [Aspose.Tasks for .NET Developer Guide](/tasks/net/developer-guide/)
 - [Aspose.Tasks for .NET Release Notes](/tasks/net/release-notes/)
-- [Aspose.Tasks for .NET Product Page](https://products.aspose.com/tasks/net)
+- [Aspose.Tasks for .NET Product Page](https://products.aspose.com/tasks/net/)
 - [Download Aspose.Tasks for .NET](https://downloads.aspose.com/tasks/net)
 - [Install Aspose.Tasks for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Tasks/)
 - [Download Examples at GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET)
 - [Aspose.Tasks for .NET API Reference Guide](https://apireference.aspose.com/tasks/net)
-- [Aspose.Tasks for .NET Free Support Forum](https://forum.aspose.com/c/tasks)
+- [Aspose.Tasks for .NET Free Support Forum](https://forum.aspose.com/c/tasks/15)
 - [Aspose.Tasks for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -247,12 +246,12 @@ The component is implemented using Managed C# and can be used with any .NET lang
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.OCR for .NET Online Documentation](/ocr/net/)
-- [Aspose.OCR for .NET Features](/ocr/net/product-overview/)
+- [Aspose.OCR for .NET Features](/ocr/net/product-overview/#asposeocr-features)
 - [Aspose.OCR for .NET Release Notes](/ocr/net/release-notes/)
-- [Aspose.OCR for .NET Product Page](https://products.aspose.com/ocr/net)
+- [Aspose.OCR for .NET Product Page](https://products.aspose.com/ocr/net/)
 - [Install Aspose.OCR for .NET NuGet Package](https://www.nuget.org/packages/Aspose.OCR/)
 - [Aspose.OCR for .NET API Reference Guide](https://apireference.aspose.com/ocr/net)
-- [Aspose.OCR for .NET Free Support Forum](https://forum.aspose.com/c/ocr)
+- [Aspose.OCR for .NET Free Support Forum](https://forum.aspose.com/c/ocr/16)
 - [Aspose.OCR for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 
@@ -260,7 +259,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 ![Aspose.Note for .NET](home_11.png)
 
-[Aspose.Note for .NET](https://products.aspose.com/note/net) is a class library that enables .NET applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
+Aspose.Note for .NET is a class library that enables .NET applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
 
 With Aspose.Note for .NET, it is possible to program with Microsoft OneNote files without Microsoft Office Automation. The API is easy to use and saves time and money compared to developing similar solutions from scratch.
 
@@ -273,10 +272,10 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Note for .NET Online Documentation](/note/net/)
 - [Aspose.Note for .NET Features](/note/net/product-overview/)
 - [Aspose.Note for .NET Release Notes](/note/net/release-notes/)
-- [Aspose.Note for .NET Product Page](https://products.aspose.com/note/net)
+- [Aspose.Note for .NET Product Page](https://products.aspose.com/note/net/)
 - [Install Aspose.Note for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Note/)
 - [Aspose.Note for .NET API Reference Guide](https://apireference.aspose.com/note/net)
-- [Aspose.Note for .NET Free Support Forum](https://forum.aspose.com/c/note)
+- [Aspose.Note for .NET Free Support Forum](https://forum.aspose.com/c/note/28)
 - [Aspose.Note for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -302,11 +301,11 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.CAD for .NET Features](/cad/net/product-overview/#advanced-api-features)
 - [Aspose.CAD for .NET Limitations](/cad/net/product-overview/)
 - [Aspose.CAD for .NET Release Notes](/cad/net/release-notes/)
-- [Aspose.CAD for .NET Product Page](https://products.aspose.com/cad/net)
+- [Aspose.CAD for .NET Product Page](https://products.aspose.com/cad/net/)
 - [Install Aspose.CAD for .NET NuGet Package](https://www.nuget.org/packages/Aspose.CAD/)
 - [Aspose.CAD for .NET API Reference Guide](https://apireference.aspose.com/cad/net)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-.NET)
-- [Aspose.CAD for .NET Free Support Forum](https://forum.aspose.com/c/cad)
+- [Aspose.CAD for .NET Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -328,10 +327,10 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.3D for .NET Features](/3d/net/product-overview/#RichFeatures)
 - [Aspose.3D for .NET Limitations](/3d/net/installation/#SystemRequirements)
 - [Aspose.3D for .NET Release Notes](/3d/net/release-notes/)
-- [Aspose.3D for .NET Product Page](https://products.aspose.com/3d/net)
+- [Aspose.3D for .NET Product Page](https://products.aspose.com/3d/net/)
 - [Install Aspose.3D for .NET NuGet Package](https://www.nuget.org/packages/Aspose.3D/)
 - [Aspose.3D for .NET API Reference Guide](https://apireference.aspose.com/3d/net)
-- [Aspose.3D for .NET Free Support Forum](https://forum.aspose.com/c/3d)
+- [Aspose.3D for .NET Free Support Forum](https://forum.aspose.com/c/3d/18)
 - [Aspose.3D for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -349,11 +348,11 @@ Aspose.HTML for .NET is a cross-platform class library that enables your applica
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Getting Started](/html/net/getting-started/)
-- [Supported Features](/html/net/features-list/)
-- [Product Page](https://products.aspose.com/html/net)
+- [Supported Features](/html/net/getting-started/features-list/)
+- [Product Page](https://products.aspose.com/html/net/)
 - [Installing Product](/html/net/installation/)
 - [API Reference](https://apireference.aspose.com/html/net)
-- [Free Support Forum](https://forum.aspose.com/c/html)
+- [Free Support Forum](https://forum.aspose.com/c/html/29)
 - [Paid Support Helpdesk](https://helpdesk.aspose.com/)
 - [Usage Examples GitHub](https://github.com/aspose-html/Aspose.HTML-for-.NET)
 - [Try Online](https://products.aspose.app/html/family)
@@ -375,11 +374,11 @@ Aspose.GIS for .NET is designed specifically to make it easy for .NET developers
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Install Aspose.GIS for .NET NuGet Package](https://www.nuget.org/packages/Aspose.GIS/)
-- [Aspose.GIS for .NET Product Page](https://products.aspose.com/gis/net)
+- [Aspose.GIS for .NET Product Page](https://products.aspose.com/gis/net/)
 - [Aspose.GIS for .NET Features](/gis/net/features/)
 - [Aspose.GIS for .NET Release Notes](/gis/net/release-notes/)
 - [Aspose.GIS for .NET API Reference Guide](https://apireference.aspose.com/gis/net)
-- [Aspose.GIS for .NET Free Support Forum](https://forum.aspose.com/c/gis)
+- [Aspose.GIS for .NET Free Support Forum](https://forum.aspose.com/c/gis/33)
 - [Aspose.GIS for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -401,10 +400,10 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.ZIP for .NET Online Documentation](/zip/net/)
 - [Aspose.ZIP for .NET Features](/zip/net/features/)
 - [Aspose.ZIP for .NET Release Notes](/zip/net/release-notes/)
-- [Aspose.ZIP for .NET Product Page](https://products.aspose.com/zip/net)
+- [Aspose.ZIP for .NET Product Page](https://products.aspose.com/zip/net/)
 - [Install Aspose.ZIP for .NET NuGet Package](https://www.nuget.org/packages/Aspose.ZIP/)
 - [Aspose.ZIP for .NET API Reference Guide](https://apireference.aspose.com/zip/net)
-- [Aspose.ZIP for .NET Free Support Forum](https://forum.aspose.com/c/zip)
+- [Aspose.ZIP for .NET Free Support Forum](https://forum.aspose.com/c/zip/37)
 - [Aspose.ZIP for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -424,10 +423,10 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Page for .NET Online Documentation](/page/net/)
 - [Aspose.Page for .NET Features](/page/net/feature-list/)
 - [Aspose.Page for .NET Release Notes](/page/net/release-notes/)
-- [Aspose.Page for .NET Product Page](https://products.aspose.com/page/net)
+- [Aspose.Page for .NET Product Page](https://products.aspose.com/page/net/)
 - [Install Aspose.Page for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Page/)
 - [Aspose.Page for .NET API Reference Guide](https://apireference.aspose.com/page/net)
-- [Aspose.Page for .NET Free Support Forum](https://forum.aspose.com/c/page)
+- [Aspose.Page for .NET Free Support Forum](https://forum.aspose.com/c/page/39)
 - [Aspose.Page for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -449,11 +448,11 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.PSD for .NET Online Documentation](/psd/net/)
 - [Aspose.PSD for .NET Features](/psd/net/features/)
 - [Aspose.PSD for .NET Release Notes](/psd/net/release-notes/)
-- [Aspose.PSD for .NET Product Page](https://products.aspose.com/psd/net)
+- [Aspose.PSD for .NET Product Page](https://products.aspose.com/psd/net/)
 - [Install Aspose.PSD for .NET NuGet Package](https://www.nuget.org/packages/Aspose.PSD/)
 - [Aspose.PSD for .NET API Reference Guide](https://apireference.aspose.com/psd/net)
 - [Download Examples at GitHub Repository](https://github.com/aspose-psd/Aspose.PSD-for-.NET)
-- [Aspose.PSD for .NET Free Support Forum](https://forum.aspose.com/c/psd)
+- [Aspose.PSD for .NET Free Support Forum](https://forum.aspose.com/c/psd/34)
 - [Aspose.PSD for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 
@@ -476,7 +475,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.OMR for .NET Release Notes](/omr/net/release-notes/)
 - [Install Aspose.OMR for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Omr/)
 - [Aspose.OMR for .NET API Reference Guide](https://apireference.aspose.com/omr/net)
-- [Aspose.OMR for .NET Free Support Forum](https://forum.aspose.com/c/omr)
+- [Aspose.OMR for .NET Free Support Forum](https://forum.aspose.com/c/omr/38)
 - [Aspose.OMR for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -496,10 +495,10 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.PUB for .NET Online Documentation](/pub/net/)
 - [Aspose.PUB for .NET Features](/pub/net/features/)
 - [Aspose.PUB for .NET Release Notes](/pub/net/release-notes/)
-- [Aspose.PUB for .NET Product Page](https://products.aspose.com/pub/net)
+- [Aspose.PUB for .NET Product Page](https://products.aspose.com/pub/net/)
 - [Install Aspose.PUB for .NET NuGet Package](https://www.nuget.org/packages/Aspose.PUB/)
 - [Aspose.PUB for .NET API Reference Guide](https://apireference.aspose.com/pub/net)
-- [Aspose.PUB for .NET Free Support Forum](https://forum.aspose.com/c/pub)
+- [Aspose.PUB for .NET Free Support Forum](https://forum.aspose.com/c/pub/40)
 - [Aspose.PUB for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -517,13 +516,13 @@ Aspose.SVG for .NET API has been designed to provide a wide range of features f
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.SVG for .NET Online Documentation](/svg/net/)
-- [Aspose.SVG for .NET Features](/svg/net/features-list/)
+- [Aspose.SVG for .NET Features](/svg/net/getting-started/features-list/)
 - [Aspose.SVG for .NET Release Notes](/svg/net/release-notes/)
-- [Aspose.SVG for .NET Product Page](https://products.aspose.com/svg/net)
+- [Aspose.SVG for .NET Product Page](https://products.aspose.com/svg/net/)
 - [Install Aspose.SVG for .NET NuGet Package](https://www.nuget.org/packages/Aspose.SVG/)
 - [Aspose.SVG for .NET API Reference Guide](https://apireference.aspose.com/svg/net)
 - [Download Examples at GitHub Repository](https://github.com/aspose-svg/Aspose.SVG-for-.NET)
-- [Aspose.SVG for .NET Free Support Forum](https://forum.aspose.com/c/svg)
+- [Aspose.SVG for .NET Free Support Forum](https://forum.aspose.com/c/svg/42)
 - [Aspose.SVG for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -540,10 +539,10 @@ The following are the links to some useful resources you may need to accomplish 
 
 - [Aspose.Finance for .NET Online Documentation](/finance/net/)
 - [Aspose.Finance for .NET Release Notes](/finance/net/release-notes/)
-- [Aspose.Finance for .NET Product Page](https://products.aspose.com/finance/net)
+- [Aspose.Finance for .NET Product Page](https://products.aspose.com/finance/net/)
 - [Install Aspose.Finance for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Finance/)
 - [Aspose.Finance for .NET API Reference Guide](https://apireference.aspose.com/finance/net)
-- [Aspose.Finance for .NET Free Support Forum](https://forum.aspose.com/c/finance)
+- [Aspose.Finance for .NET Free Support Forum](https://forum.aspose.com/c/finance/43)
 - [Aspose.Finance for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -563,10 +562,10 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Drawing for .NET Online Documentation](/drawing/net/)
 - [Aspose.Drawing for .NET Features](/drawing/net/feature-list/)
 - [Aspose.Drawing for .NET Release Notes](/drawing/net/release-notes/)
-- [Aspose.Drawing for .NET Product Page](https://products.aspose.com/drawing/net)
+- [Aspose.Drawing for .NET Product Page](https://products.aspose.com/drawing/net/)
 - [Install Aspose.Drawing for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Drawing/)
 - [Aspose.Drawing for .NET API Reference Guide](https://apireference.aspose.com/drawing/net)
-- [Aspose.Drawing for .NET Free Support Forum](https://forum.aspose.com/c/drawing)
+- [Aspose.Drawing for .NET Free Support Forum](https://forum.aspose.com/c/drawing/44)
 - [Aspose.Drawing for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
@@ -586,11 +585,11 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Font for .NET Online Documentation](/font/net/)
 - [Aspose.Font for .NET Features](/font/net/feature-list/)
 - [Aspose.Font for .NET Release Notes](/font/net/release-notes/)
-- [Aspose.Font for .NET Product Page](https://products.aspose.com/font/net)
+- [Aspose.Font for .NET Product Page](https://products.aspose.com/font/net/)
 - [Install Aspose.Font for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Font/)
 - [Aspose.Font for .NET API Reference Guide](https://apireference.aspose.com/font/net)
-- [Aspose.Drawing for .NET Free Support Forum](https://forum.aspose.com/c/drawing)
-- [Aspose.Drawing for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
+- [Aspose.Font for .NET Free Support Forum](https://forum.aspose.com/c/font/41)
+- [Aspose.Font for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
 
@@ -608,8 +607,8 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.TeX for .NET Online Documentation](/tex/net/)
 - [Aspose.TeX for .NET Features](/tex/net/feature-list/)
 - [Aspose.TeX for .NET Release Notes](/tex/net/release-notes/)
-- [Aspose.TeX for .NET Product Page](https://products.aspose.com/tex/net)
+- [Aspose.TeX for .NET Product Page](https://products.aspose.com/tex/net/)
 - [Install Aspose.TeX for .NET NuGet Package](https://www.nuget.org/packages/Aspose.TeX/)
 - [Aspose.TeX for .NET API Reference Guide](https://apireference.aspose.com/tex/net)
-- [Aspose.TeX for .NET Free Support Forum](https://forum.aspose.com/c/tex)
+- [Aspose.TeX for .NET Free Support Forum](https://forum.aspose.com/c/tex/47)
 - [Aspose.TeX for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
