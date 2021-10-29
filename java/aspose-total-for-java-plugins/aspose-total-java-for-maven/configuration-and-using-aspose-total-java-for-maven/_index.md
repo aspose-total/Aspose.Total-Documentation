@@ -76,7 +76,7 @@ For example:
 
 {{% /alert %}} 
 ### **Example Maven Projects for using Aspose.Total Java for Maven**
-1. An example maven project with the above configuration included is being hosted on [GitHub Repository](http://goo.gl/hlFT1Z)
+1. An example maven project with the above configuration included is being hosted on [GitHub Repository](https://github.com/asposemarketplace/Aspose_Java_for_Maven)
 1. Another example project which is Spring web maven based project, demonstrate various Aspose.Total for Java APIs usage is also located on [GitHub Repository](https://github.com/asposemarketplace/Aspose_for_Spring.Java).
 ## **Configuring Aspose.Total Java for Maven Javadocs**
 Aspose Cloud Maven Repository also supports the JavaDocs for all supported Aspose.Total for Java Product Line.
@@ -92,7 +92,7 @@ This can be achieved by following steps mentioned below on Eclipse IDE:
 1. Go into **Window** > **Preferences** > **Maven,** and
 1. Check the **"Download Artifact JavaDoc"** option, as shown in below snapshot: 
 
-![todo:image_alt_text](http://i.imgur.com/mRvzWGh.png)
+![todo:image_alt_text](https://i.imgur.com/mRvzWGh.png)
 ### **Fetching Maven JavaDocs in Eclipse IDE**
 Just hover the mouse cursor on class name or method name in Eclipse IDE source code editor to fetch the related javadocs.
 ### **Configure NetBeans IDE for JavaDocs**
@@ -102,7 +102,7 @@ For configuring NetBeans IDE to auto fetch javadoc jars for Aspose Java APIs Mav
 1. **Java > Dependencies,** and
 1. Select the **Check Javadoc** to **"Every Project Open"** option under Dependency Download Strategy like shown in below snapshot: 
 
-![todo:image_alt_text](http://i.imgur.com/KAJZwTj.png)
+![todo:image_alt_text](https://i.imgur.com/KAJZwTj.png)
 ### **Fetching Maven JavaDocs in NetBeans IDE**
 Hold the **CTRL** key and just hover mouse cursor on class name or method name in NetBeans IDE source code editor to fetch the related javadocs.
 ### **Configure IntelliJ IDEA for JavaDocs**
@@ -120,12 +120,12 @@ To use Aspose.Total Java for Maven (Aspose.Total for Java - Maven Artifacts) in 
 `       `For this,
 
 - You may like to manually configure / create your Maven project as explained in [Configuring Aspose.Total Java for Maven](#configuring-asposetotal-java-for-maven-aspose-cloud-maven-reposiory-for-a-maven-project)
-- Another thing you can do is to download the example Maven project that is hosted on [GitHib Repository](http://goo.gl/hlFT1Z) for this purpose.
+- Another thing you can do is to download the example Maven project that is hosted on GitHib Repository for this purpose.
 - You can download and use any of Aspose Maven Plugins for Major IDEs to create Aspose Maven based project using the new project wizard feature in the plugin: 
-  - [Aspose Maven for NetBeans](http://www.aspose.com/docs/display/totaljava/Aspose.Total+Project+Wizard+for+NetBeans+-+Maven)
-  - [Aspose Maven for IntelliJ IDEA](http://www.aspose.com/docs/display/totaljava/Aspose.Total+Project+Wizard+for+IntelliJ+IDEA+-+Maven)
-  - [Aspose Maven for Eclipse](http://www.aspose.com/docs/display/totaljava/Aspose.Total+Project+Wizard+for+Eclipse+-+Maven)
-- You can use [Aspose Maven ArcheType (hosted on Aspose Cloud Maven Repository)](http://goo.gl/XPyp5n) for creating Aspose Maven based java projects.
+  - [Aspose Maven for NetBeans](https://docs.aspose.com/total/java/aspose-total-project-wizard-for-netbeans-maven/)
+  - [Aspose Maven for IntelliJ IDEA](https://docs.aspose.com/total/java/aspose-total-project-wizard-for-intellij-idea-maven/)
+  - [Aspose Maven for Eclipse](https://docs.aspose.com/total/java/aspose-total-project-wizard-for-eclipse-maven/)
+- You can use [Aspose Maven ArcheType (hosted on Aspose Cloud Maven Repository)](https://repository.aspose.com/webapp/) for creating Aspose Maven based java projects.
   Detailed information on Aspose Maven ArcheType can be found on the following Aspose blogs: 
   - [Aspose Maven Dependencies Integrates with JetBrains IDE](https://blog.aspose.com/2014/10/03/aspose-maven-dependencies-integrates-with-jetbrains-ide/)
   - [Aspose Maven Dependencies Integrate with Eclipse IDE](https://blog.aspose.com/2015/01/07/aspose-maven-dependencies-integrates-with-eclipse-ide/)

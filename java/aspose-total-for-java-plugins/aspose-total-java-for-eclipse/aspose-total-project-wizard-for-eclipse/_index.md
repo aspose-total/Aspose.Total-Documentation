@@ -11,7 +11,7 @@ Eclipse IDE is a famous Java Integrated Development Environment (IDE). The IDE i
 
 The Eclipse IDE can be extended with additional software components. Eclipse calls these software components Plug-ins. Several Open Source projects and companies have extended the Eclipse IDE or created standalone applications (Eclipse RCP) on top of the Eclipse framework.
 ### **Aspose.Total for Java**
-[Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the Aspose.Total for Java suite.
+[Aspose.Total for Java](https://products.aspose.com/total/java/) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the Aspose.Total for Java suite.
 ### **Aspose.Total Java Project Wizard for Eclipse**
 Aspose.Total Java Project Wizard for Eclipse is an Eclipse plugin, developed by Aspose to facilitate the usage of Aspose.Total for Java APIs in java project within Eclipse IDE.
 
@@ -51,9 +51,9 @@ Download Aspose.Total Java Project Wizard for Eclipse from any of the following 
 - [Github](https://github.com/aspose-total/Aspose.Total-for-Java/releases)
 - [CodePlex](https://asposeeclipse.codeplex.com/releases)
 ## **Installing**
-- [Installing Aspose Project Wizard for Eclipse](http://www.aspose.com/docs/display/totaljava/Installing+and+Using+Aspose+Project+Wizard+for+Eclipse#InstallingandUsingAsposeProjectWizardforEclipse-InstallingAsposeProjectWizardforEclipse)
+- [Installing Aspose Project Wizard for Eclipse](/total/java/installing-and-using-aspose-project-wizard-for-eclipse/#installing-aspose-project-wizard-for-eclipse)
 ## **Using**
-- [Using Aspose Project Wizard for NetBeans](http://www.aspose.com/docs/display/totaljava/Installing+and+Using+Aspose+Project+Wizard+for+Eclipse#InstallingandUsingAsposeProjectWizardforEclipse-Using)
+- [Using Aspose Project Wizard for NetBeans](/total/java/installing-and-using-aspose-project-wizard-for-eclipse/#aspose-project-wizard)
 ## **Video Demo**
 Please check [the video](https://www.youtube.com/watch?v=FKLqdKU-Z_0) below to see the Aspose Project Wizard plugin in action.
 

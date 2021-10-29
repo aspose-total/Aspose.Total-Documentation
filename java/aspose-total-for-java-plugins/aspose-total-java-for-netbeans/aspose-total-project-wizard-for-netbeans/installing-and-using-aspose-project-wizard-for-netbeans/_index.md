@@ -23,7 +23,7 @@ Aspose Project Wizard plugin can be easily installed from the Available Plugin t
 **Aspose Example** in New File wizard of NetBeans IDE.
 ## **Using**
 ### **Using Aspose Project Wizard**
-The desired [Aspose Java APIs](http://www.aspose.com/java/total-component.aspx) can be selected for inclusion into your Java application when creating a new project.
+The desired [Aspose Java APIs](https://products.aspose.com/total/java/) can be selected for inclusion into your Java application when creating a new project.
 
 1. Select **New Project**.
 1. Select **Aspose Application** in the **Java** category.
@@ -60,7 +60,7 @@ This adds Java and other required data files to the Aspose application.
 
 ![todo:image_alt_text](http://www.aspose.com/blogs/wp-content/uploads/2014/03/09.AsposeExampleCreatedSmall.png)
 
-1. You can now test other examples and start building your own application using [Aspose APIs (Aspose.Total forJava)](http://www.aspose.com/java/total-component.aspx).
+1. You can now test other examples and start building your own application using [Aspose APIs (Aspose.Total forJava)](https://products.aspose.com/total/java/).
 ### **Using Apache POI Examples**
 Aspose Examples allow you to try out many samples provided for every Aspose APIs. To use examples, just:
 
@@ -77,4 +77,4 @@ Aspose Examples allow you to try out many samples provided for every Aspose APIs
 This adds Aspose and Apache POI libraries and data files to the Aspose application.
 
 1. Review the example code, compile and run. 
-1. You can now test other examples and start building your own application using [Aspose APIs (Aspose.Total forJava)](http://www.aspose.com/java/total-component.aspx).
+1. You can now test other examples and start building your own application using [Aspose APIs (Aspose.Total forJava)](https://products.aspose.com/total/java/).

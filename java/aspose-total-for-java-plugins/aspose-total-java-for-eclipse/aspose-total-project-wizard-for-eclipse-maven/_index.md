@@ -11,15 +11,15 @@ Eclipse IDE is a famous Java Integrated Development Environment (IDE). The IDE i
 
 The Eclipse IDE can be extended with additional software components. Eclipse calls these software components Plug-ins. Several Open Source projects and companies have extended the Eclipse IDE or created standalone applications (Eclipse RCP) on top of the Eclipse framework.
 ### **Aspose.Total for Java**
-[Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the Aspose.Total for Java suite.
+[Aspose.Total for Java](https://products.aspose.com/total/java/) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the Aspose.Total for Java suite.
 ### **Aspose.Total Java for Eclipse IDE (Maven)**
 Aspose.Total Java for Eclipse (Maven) / **Aspose Maven for Eclipse** is a new Eclipse IDE Plugin released by Aspose Pty Ltd. which allows developers to create Aspose's Maven based projects for using [Aspose.Total Java for Maven](https://docs.aspose.com/total/java/aspose-total-java-for-maven/) within Eclipse IDE.
 
-This plugin helps you to explore [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) APIs inside your favorite Eclipse IDE.
+This plugin helps you to explore [Aspose.Total for Java](https://products.aspose.com/total/java/) APIs inside your favorite Eclipse IDE.
 
 - Plugin's **Aspose Maven Project Wizard** let developer to create Aspose Maven based project by selecting API(s) from Aspose Java product lines like Aspose.Cells for Java and Aspose.Words for Java etc.
 - Once specific API is selected, its Maven Dependency reference is automatically fetched from Aspose Cloud Maven Repository and added in pom.xml of the maven project.
-- With this plugin, you never need to check for new releases of [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) APIs. Whenever a new release is available and its maven dependency is published, the latest maven dependency will be referenced while creating the new maven project.
+- With this plugin, you never need to check for new releases of [Aspose.Total for Java](https://products.aspose.com/total/java/) APIs. Whenever a new release is available and its maven dependency is published, the latest maven dependency will be referenced while creating the new maven project.
 ## **System Requirements and Supported Platforms**
 ### **System Requirements**
 - **System Memory:** 2 GB or more (Recommended)
@@ -59,8 +59,8 @@ Please check [the video](https://youtu.be/qQqHOEhRTUM) below to see the plugin's
 ### **Extend and Contribute**
 Aspose.Total Java for Eclipse IDE (Maven) / **Aspose Maven for Eclipse** plugin is open source and its source code is available on the major social coding websites listed below. Developers can extend the functionality if they want or learn from it to make their own plugins.
 
-- [GitHub](http://goo.gl/Nc6n2X)
-- [CodePlex](http://goo.gl/2oNCL0)
+- [GitHub](https://github.com/asposemarketplace/Aspose_Maven_for_Eclipse)
+
 ### **How to configure source code of "Aspose.Total Java for Eclipse IDE (Maven) plugin"**
 Below simple steps will smoothly lead to successful configuration of **Aspose Maven Project Wizard** source code in Eclipse IDE
 

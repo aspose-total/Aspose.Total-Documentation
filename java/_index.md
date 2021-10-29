@@ -335,7 +335,7 @@ Aspose.HTML for Java is an advanced HTML manipulation API built to perform a wid
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.HTML for Java Online Documentation](/html/java/)
-- [Aspose.HTML for Java Features](/html/java/features-list/)
+- [Aspose.HTML for Java Features](/html/java/getting-started/features-list/)
 - [Aspose.HTML for Java Release Notes](/html/java/release-notes/)
 - [Aspose.HTML for Java Product Page](https://products.aspose.com/html/java/)
 - [Download Aspose.HTML for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-html)

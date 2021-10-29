@@ -14,7 +14,7 @@ But as this plugin is also available on the NetBeans Plugin Portal Update Center
 1. Use ‘**Tools** > **Plugins**‘ action from the NetBeans IDE main menu
 1. Click ‘**Available** **Plugins**‘ Tab and type ‘**Aspose**‘ in search box. As shown below: 
 
-![todo:image_alt_text](http://i.imgur.com/iBS2q3f.png)
+![todo:image_alt_text](https://i.imgur.com/iBS2q3f.png)
 
 1. Select ‘**Aspose Maven Project Wizard**‘ plugin and click **Install**
 1. Accept license agreement – MIT License for this plugin and Click **Install.**
@@ -26,10 +26,10 @@ The Plugin will introduce a new project type –
 
 **Aspose Maven Project** – inside ‘**Maven’** category on New Project (Wizards) dialog in NetBeans, which will allow you to create Aspose Maven based Java projects inside the IDE. 
 
-![todo:image_alt_text](http://i.imgur.com/Y7Kbw78.png)
+![todo:image_alt_text](https://i.imgur.com/Y7Kbw78.png)
 ## **Using**
 ### **Creating Aspose's Maven Project using plugin's - Aspose Maven Project Wizard**
-The Wizard allows developers to create Maven based project for using Aspose.Total for Java API inside NetBeans IDE. The desired [Aspose.Total for Java APIs](http://www.aspose.com/java/total-component.aspx) can be selected on wizards steps to include the maven dependencies in your creating maven based project
+The Wizard allows developers to create Maven based project for using Aspose.Total for Java API inside NetBeans IDE. The desired [Aspose.Total for Java APIs](https://products.aspose.com/total/java/) can be selected on wizards steps to include the maven dependencies in your creating maven based project
 
 1. Select **New Project** from NetBeans **File** menu
 1. Under **Maven** category of Wizards, select ‘**Aspose Maven Project’**
@@ -38,7 +38,7 @@ The Wizard allows developers to create Maven based project for using Aspose.Tota
 1. Also provide **Group Id, Artifact Id,** **Version** and **Package** (optional field) for your maven project and click **Next**. 
 1. Select **Aspose API(s)** from the list. 
 
-![todo:image_alt_text](http://i.imgur.com/v74ld9R.png)
+![todo:image_alt_text](https://i.imgur.com/v74ld9R.png)
 
 1. Click **Finish**.
    This will retrieve the selected Aspose APIs latest maven dependencies references from [Aspose Cloud Maven Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo). 
@@ -47,7 +47,7 @@ Congratulations! you have successfully created Aspose maven based project for yo
 
 One cool thing, every time you create Maven project using the wizard will create maven project containing latest maven dependencies for the selected Aspose APIs along with the **Aspose Cloud Maven Repository** configuration in the pom.xml. See the snapshot below:
 
-![todo:image_alt_text](http://i.imgur.com/ji1NDF0.png)
+![todo:image_alt_text](https://i.imgur.com/ji1NDF0.png)
 
 
 Thanks to [Aspose Maven Project wizard](http://plugins.netbeans.org/plugin/57279) Plugin !

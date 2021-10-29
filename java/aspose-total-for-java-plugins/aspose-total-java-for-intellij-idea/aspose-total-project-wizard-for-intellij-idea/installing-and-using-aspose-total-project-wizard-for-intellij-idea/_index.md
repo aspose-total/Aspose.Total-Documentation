@@ -15,7 +15,7 @@ Aspose.Total Java for IntelliJ IDEA plugin can be easily installed from within I
 1. Click **Plugins**, then browse the repositories in IntelliJ IDEA.
 1. Select **Aspose Project Wizard** plugin to install. 
 
-![todo:image_alt_text](http://i.imgur.com/8UXhv6z.png)
+![todo:image_alt_text](https://i.imgur.com/8UXhv6z.png)
 ### **Aspose Project Wizard**
 Installing this plugin will introduce a new project type – 
 
@@ -23,10 +23,10 @@ Installing this plugin will introduce a new project type –
 
 **Aspose Application** – into IntelliJ IDEA, which will enable you to create Aspose's Java Project for using Aspose Java APIs (Aspose.Total for Java).
 
-![todo:image_alt_text](http://i.imgur.com/RSnIUt1.png)
+![todo:image_alt_text](https://i.imgur.com/RSnIUt1.png)
 ## **Using**
 ### **Creating Aspose Java Project using plugin's Aspose project wizard: "Aspose Application"**
-The desired [Aspose APIs](http://www.aspose.com/java/total-component.aspx) (Aspose.Total for Java) can be selected to be included in your Java application when creating a new project.
+The desired [Aspose APIs](https://products.aspose.com/total/java/) (Aspose.Total for Java) can be selected to be included in your Java application when creating a new project.
 
 1. Goto **File** menu
 1. Select **New Project**.
@@ -34,7 +34,7 @@ The desired [Aspose APIs](http://www.aspose.com/java/total-component.aspx) (Aspo
 1. Click **Next**
 1. Select Aspose API(s) from the list and click **Next**. 
 
-![todo:image_alt_text](http://i.imgur.com/4c9qpOK.png)
+![todo:image_alt_text](https://i.imgur.com/4c9qpOK.png)
 
 1. Provide a Project Name and Location just like when creating any Java application.
 1. Click **Finish**.
@@ -42,7 +42,7 @@ The desired [Aspose APIs](http://www.aspose.com/java/total-component.aspx) (Aspo
 
 An Aspose's Java project is created and the downloaded Aspose Java APIs JARs are added to the classpath.
 
-You can now start building your own application with [Aspose Java APIs (Aspose.Total for Java)](http://www.aspose.com/java/total-component.aspx)
+You can now start building your own application with [Aspose Java APIs (Aspose.Total for Java)](https://products.aspose.com/total/java/)
 ### **Creating Aspose.Total for Java Example Code using plugin's "Aspose Example" wizard**
 {{% alert color="primary" %}} 
 
@@ -66,7 +66,7 @@ Follow the below steps to get the Aspose for Java API examples into the IntelliJ
 1. Select **New** from the **File** menu, OR right-click the new project and select **New**.
 1. Click **Aspose Example**. 
 
-![todo:image_alt_text](http://i.imgur.com/yk7rgRn.png)
+![todo:image_alt_text](https://i.imgur.com/yk7rgRn.png)
 
 
 The Aspose Example dialog appears.
@@ -75,12 +75,12 @@ The Aspose Example dialog appears.
    The selected Java API examples are shown in a tree format.
 1. Select the example code you want. 
 
-![todo:image_alt_text](http://i.imgur.com/CEHvdRz.png)
+![todo:image_alt_text](https://i.imgur.com/CEHvdRz.png)
 
 
 The selected example source code is inserted into the **src** folder within a newly created package in the project as shown below: 
 
-![todo:image_alt_text](http://i.imgur.com/MFJcfbQ.png)
+![todo:image_alt_text](https://i.imgur.com/MFJcfbQ.png)
 
 
 Congratulations! the newly created Aspose code example is ready to be evaluated or enhanced.

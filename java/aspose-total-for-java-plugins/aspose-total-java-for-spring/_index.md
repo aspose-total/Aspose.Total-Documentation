@@ -15,15 +15,15 @@ The Spring Framework is a collection of small, well-focused, loosely coupled Jav
 - Declarative Transaction Management using AOP
 - Data Validation that supports but is not dependent on the Presentation Layer
 
-[Learn more](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/overview.html)[       ](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/overview.html)
+[Learn more](https://docs.spring.io/spring-framework/docs/current/reference/html/overview.html)
 ### **Aspose.Total for Java**
-[Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the Aspose.Total for Java suite.
+[Aspose.Total for Java](https://products.aspose.com/total/java/) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the Aspose.Total for Java suite.
 ### **Aspose Java for Spring**
-Aspose Java for Spring is an extension of Spring's PetClinic Sample Web Application, Developed to show how [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) APIs can be used within the Spring Framework. 
+Aspose Java for Spring is an extension of Spring's PetClinic Sample Web Application, Developed to show how [Aspose.Total for Java](https://products.aspose.com/total/java/) APIs can be used within the Spring Framework. 
 
-This adapted application shows the Integration of [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) APIs with Spring MVC, JSP and Maven based project.
+This adapted application shows the Integration of [Aspose.Total for Java](https://products.aspose.com/total/java/) APIs with Spring MVC, JSP and Maven based project.
 
-Aspose Java for Spring adds use cases / new features to original Spring's PetClinic Web Application with sample code that demonstrates some useful [Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx)  (Aspose.PDF, Aspose.Cells, Aspose.Email, Apose.Words and Aspose.Barcode) features within the Spring environment.
+Aspose Java for Spring adds use cases / new features to original Spring's PetClinic Web Application with sample code that demonstrates some useful [Aspose.Total for Java](https://products.aspose.com/total/java/)  (Aspose.PDF, Aspose.Cells, Aspose.Email, Apose.Words and Aspose.Barcode) features within the Spring environment.
 
 1. On the Veterinarians Page, availability days and email addresses have been added. Clicking a veterinarian's email address opens a form where you can write an email and send it through your Outlook client. These features use the Aspose Aspose.Email API.
 1. On the Veterinarians Page, you can now export a list of vets to PDF, Microsoft Word and Microsoft Excel formats using Aspose APIs (specifically, Aspose.PDF, Aspose.Words, and Aspose.Cells).
@@ -55,10 +55,10 @@ Aspose Java for Spring adds use cases / new features to original Spring's PetCli
 ### **Extend and Contribute**
 Aspose for Spring Java (Extension of PetClinic Sample Web Application) is open source and its source code is available on the social coding websites listed below. Developers can extend the functionality if they want to, or use it to learn how to integrate their own Spring Java applications and projects.
 
-- [GitHub](http://goo.gl/LbNCfy)
-- [SourceForge](http://goo.gl/k9rEgC)
-- [Bitbucket](http://goo.gl/vJyN3o)
-- [Code**Plex**](http://goo.gl/PEyuIB)
+- [GitHub](https://github.com/asposemarketplace/Aspose_for_Spring.Java)
+- [SourceForge](https://sourceforge.net/projects/asposeforspringjava/)
+- [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-spring.java/src/master/)
+
 ### **How to configure source code of Aspose.Total Java for Spring**
 Below simple steps will smoothly lead to successful configuration of **Aspose.Total Java for Spring** source code in IntelliJ IDEA
 
@@ -67,6 +67,6 @@ Below simple steps will smoothly lead to successful configuration of **Aspose.T
 1. Browse to the latest project source that you have downloaded and open the project.
 1. **Aspose.Total Java for Spring** code is now ready to enhance.
 ## **Downloading, Installing & Using**
-﻿[Downloading, Installing and Using Aspose Java for Spring](/total/java/downloading-2c-installing-and-using-aspose-java-for-spring/)
+﻿[Downloading, Installing and Using Aspose Java for Spring](/total/java/downloading-installing-and-using-aspose-java-for-spring/)
 ## **Video Demo**
 Please check [the video](https://www.youtube.com/watch?v=GLujBd6gq_Y&feature=youtu.be) below to see the Aspose Java for Spring - Web app in action.

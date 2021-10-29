@@ -8,7 +8,7 @@ url: /java/installing-and-using-aspose-project-wizard-for-eclipse/
 ## **Installing Aspose Project Wizard for Eclipse**
 Any of the following methods can be adopted for the successful installation of Aspose.Total Java for Eclipse plugin:
 
-1. Drag and drop installation from [Eclipse Marketplace](http://marketplace.eclipse.org/content/aspose-project-wizard) to your Eclipse workspace.
+1. Drag and drop installation from [Eclipse Marketplace](https://marketplace.eclipse.org/search/site/aspose) to your Eclipse workspace.
 1. Install from Update Site 
    1. Go to **Help** > **Install New Software...**
    1. Enter following update site URL in **Work with**: <http://cdn.aspose.com/marketplace/eclipse/asposewizardrepo>
@@ -26,7 +26,7 @@ This plugin is set of two wizards. Description of each wizard follows.
 ### **Aspose Project Wizard**
 The new project wizard helps you setup project references properly.
 
-![todo:image_alt_text](http://i.imgur.com/I6IpS2T.png)
+![todo:image_alt_text](https://i.imgur.com/I6IpS2T.png)
 
 1. Select APIs from the Aspose Java product line, like Aspose.Cells for Java and Aspose.Words for Java etc.
 1. Click **Next** 
@@ -39,7 +39,7 @@ The Aspose new file / example wizard inserts the selected sample example into th
 1. After creating Aspose's java project using Aspose Project wizard, you can add Aspose samples using Aspose New File / Example wizard.
 1. The available samples are displayed in tree format from where you can select the desired one easily. 
 
-![todo:image_alt_text](http://i.imgur.com/2rtQgSr.png)
+![todo:image_alt_text](https://i.imgur.com/2rtQgSr.png)
 
 1. Click **Finish**
 1. The selected sample is added to the current project, including source files and required data files.

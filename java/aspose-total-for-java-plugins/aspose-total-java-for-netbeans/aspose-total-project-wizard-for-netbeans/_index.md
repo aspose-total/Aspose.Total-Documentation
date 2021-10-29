@@ -13,9 +13,9 @@ NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web a
 
 The NetBeans Team actively support the product and seek feature suggestions from the wider community. Every release is preceded by a time for Community testing and feedback.
 ### **Aspose.Total for Java**
-[Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the Aspose.Total for Java suite.
+[Aspose.Total for Java](https://products.aspose.com/total/java/) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the Aspose.Total for Java suite.
 ### **Aspose.Total Java for NetBeans**
-Aspose.Total Java for NetBeans plugin helps you to explore [Aspose Java APIs](http://www.aspose.com/java/total-component.aspx) (Aspose.Total for Java) inside your favorite NetBeans IDE.
+Aspose.Total Java for NetBeans plugin helps you to explore [Aspose Java APIs](https://products.aspose.com/total/java/) (Aspose.Total for Java) inside your favorite NetBeans IDE.
 
 - Aspose New Project creates a new project by downloading and referencing libraries of Aspose Java APIs.
 - Aspose New Project wizard allows you to select components from Aspose Java product lines like Aspose.Cells for Java and Aspose.Words for Java.
@@ -44,22 +44,21 @@ Aspose.Total Java for NetBeans plugin supports NetBeans IDE version 7.2, 7.3, 7.
 
 To download NetBeans IDE,
 
-1. Navigate to: <https://netbeans.org/downloads>
+1. Navigate to: <https://netbeans.apache.org/downloads>
 1. Click Download to download NetBeans IDE appropriate bundle. 
 
 Download only Java EE / SE supported NetBeans download bundle of the current latest release i.e. NetBeans IDE 8.1.
 ### **Download Aspose.Total Java for NetBeans**
-- The plugin can be directly downloaded from the [NetBeans Plugins Portal](http://plugins.netbeans.org/plugin/47954/aspose-project-wizard) and later can be installed using the IDE option: 
+- The plugin can be directly downloaded from the [NetBeans Plugins Portal](#) and later can be installed using the IDE option: 
   - Goto **Tools** > **Plugins** > **Downloaded**
   - Click "**Add Plugins..."** and browse for downloaded .nbm extension plugin file (Aspose.Total Java for NetBeans plugin).
   - Click **"Install"** to install the plugin
 - Latest Aspose Project Wizard is also available for download on following social coding websites: 
   - [GitHub](https://github.com/aspose-total/Aspose.Total-for-Java/releases)
-  - [CodePlex](https://asposenetbeans.codeplex.com/releases)
 ## **Installing**
-- [Installing Aspose Project Wizard for NetBeans](http://www.aspose.com/docs/display/totaljava/Installing+and+Using+Aspose+Project+Wizard+for+NetBeans#InstallingandUsingAsposeProjectWizardforNetBeans-InstallingAsposeProjectWizardforNetBeans)
+- [Installing Aspose Project Wizard for NetBeans](/total/java/installing-and-using-aspose-project-wizard-for-netbeans/#installing-aspose-project-wizard-for-netbeans)
 ## **Using**
-- [Using Aspose Project Wizard for NetBeans](http://www.aspose.com/docs/display/totaljava/Installing+and+Using+Aspose+Project+Wizard+for+NetBeans#InstallingandUsingAsposeProjectWizardforNetBeans-Using)
+- [Using Aspose Project Wizard for NetBeans](/total/java/installing-and-using-aspose-project-wizard-for-netbeans/#using-aspose-project-wizard)
 ## **Video Demo**
 Please check [the video](https://www.youtube.com/watch?v=5JZNFv6tDq0) below to see the Aspose Project Wizard plugin in action.
 ## **Support, Extend and Contribute**
@@ -73,7 +72,6 @@ Please follow [**GitHub Issues Tracker**](https://github.com/aspose-total/Aspose
 Aspose.Total Java for NetBeans is open source and its source code is available on the major social coding websites listed below. Developers are encouraged to download the source code and contribute by suggesting or adding new feature or improving the existing ones, so that others could also benefit from it. Developers can also learn from it to make their own plugins.
 
 - [GitHub](https://github.com/aspose-total/Aspose.Total-for-Java/tree/master/Plugins/Aspose_for_NetBeans)
-- [CodePlex](http://asposenetbeans.codeplex.com/)
 #### **How to configure source code of Aspose.Total Java for NetBeans**
 Below simple steps will smoothly lead to successful configuration of  **"Aspose.Total Java for NetBeans plugin"** source code in NetBeans IDE
 

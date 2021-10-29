@@ -47,7 +47,7 @@ Follow the below steps to get the Aspose for Java API examples into the IntelliJ
 1. Select **New** from the **File** menu, OR right-click the new project and select **New**.
 1. Click **Aspose Example**. 
 
-![todo:image_alt_text](http://i.imgur.com/yk7rgRn.png)
+![todo:image_alt_text](https://i.imgur.com/yk7rgRn.png)
 
 
 The Aspose Example dialog appears.
@@ -56,12 +56,12 @@ The Aspose Example dialog appears.
    The selected Java API examples are shows in a tree format.
 1. Select the example code you want. 
 
-![todo:image_alt_text](http://i.imgur.com/CjgYTmp.jpg)
+![todo:image_alt_text](https://i.imgur.com/CjgYTmp.jpg)
 
 
 The selected example source code is inserted into the **src** folder within a newly created package in the project as shown below: 
 
-![todo:image_alt_text](http://i.imgur.com/Sf140tR.jpg)
+![todo:image_alt_text](https://i.imgur.com/Sf140tR.jpg)
 
 
 Congratulations! the newly created Aspose code example is ready to be evaluated or enhanced.

@@ -11,7 +11,7 @@ url: /java/aspose-total-project-wizard-for-intellij-idea/
 
 In a 2010 **Infoworld** report, IntelliJ received the highest test center score out of the four top Java programming tools: Eclipse, IntelliJ IDEA, NetBeans and Oracle JDeveloper.
 ### **Aspose.Total for Java**
-[Aspose.Total for Java](http://www.aspose.com/java/total-component.aspx) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the spose.Total for Java suite.
+[Aspose.Total for Java](https://products.aspose.com/total/java/) is a compilation of every Java API offered by Aspose. Using Aspose.Total for Java developers can create a wide range of applications, each leveraging the combined power of all Aspose Java components that are included as part of the spose.Total for Java suite.
 ### **Aspose.Total Java for IntelliJ IDEA**
 Aspose.Total Java for IntelliJ IDEA (Aspose for JetBrains) allows developers to create Aspose's Java project for using Java APIs offered by Aspose (Aspose.Total for Java) through plugin provided "Aspose Project Wizard".
 
@@ -65,10 +65,10 @@ To download IntellliJ IDEA
 1. In Search Box type: "Aspose"
 1. Select "**Aspose Project Wizard**" plugin to install.
 ## **Installing**
-[Installing Aspose.Total Java for IntelliJ IDEA](http://www.aspose.com/docs/display/totaljava/Installing+and+Using+Aspose.Total+Project+Wizard+for+IntelliJ+IDEA#InstallingandUsingAspose.TotalProjectWizardforIntelliJIDEA-Installing)
+[Installing Aspose.Total Java for IntelliJ IDEA](/total/java/installing-and-using-aspose-total-project-wizard-for-intellij-idea/#installing-asposetotal-java-for-intellij-idea)
 ## **Using**
-- [Using Aspose.Total Java for IntelliJ IDEA](http://www.aspose.com/docs/display/totaljava/Installing+and+Using+Aspose.Total+Project+Wizard+for+IntelliJ+IDEA#InstallingandUsingAspose.TotalProjectWizardforIntelliJIDEA-Using)
-- [Using Aspose.Total Java for Apache POI in IntelliJ IDEA](http://www.aspose.com/docs/display/totaljava/Using+Aspose.Total+for+Apache+POI+in+IntelliJ+IDEA)
+- [Using Aspose.Total Java for IntelliJ IDEA](/total/java/installing-and-using-aspose-total-project-wizard-for-intellij-idea/#creating-aspose-java-project-using-plugins-aspose-project-wizard-aspose-application)
+- [Using Aspose.Total Java for Apache POI in IntelliJ IDEA](https://docs.aspose.com/total/java/using-aspose-total-for-apache-poi-in-intellij-idea/)
 ## **Video Demo**
 ### **Video Tutorial - How to use Aspose.Total Java Project Wizard for IntelliJ**
 ### **Video Tutorial - How to use Aspose Example Wizard in IntelliJ IDEA**
@@ -83,7 +83,6 @@ Please follow plugin's GitHub issues tracker:<https://github.com/aspose-total/As
 Aspose.Total Java for IntelliJ IDEA plugin is open source and its source code is available on the major social coding websites listed below. Developers are encouraged to download the source code and contribute by suggesting or adding new feature or improving the existing ones, so that others could also benefit from it. Developers can also learn from it to make their own plugins.
 
 - [GitHub](https://github.com/aspose-total/Aspose.Total-for-Java/tree/master/Plugins/Aspose_for_JetBrains)
-- [CodePlex](https://asposejetbrains.codeplex.com/)
 ### **How to configure source code of "Aspose.Total Java for IntelliJ IDEA plugin"**
 Below simple steps will smoothly lead to successful configuration of **Aspose Project Wizard** source code in IntelliJ IDEA
 
