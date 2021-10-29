@@ -48,11 +48,7 @@ Please feel free to contact us if you find any issues in installing or using thi
 ## **Downloading**
 You can download Aspose .NET Module Development Template for DNN from one of the following locations
 
-- [CodePlex ](https://asposetotaldnn.codeplex.com/releases/view/618650)
-- [DNN Store ](http://store.dnnsoftware.com/home/product-details/aspose-dnn-module-and-theme-development-template-for-visual-studio-with-support-for-aspose3d)
 - [Github ](https://github.com/aspose-total/Aspose.Total-for-.NET/releases/tag/asposednndevelopmenttemplatev2)
-- [Code.MSDN ](https://code.msdn.microsoft.com/Aspose-DNN-Module-and-6670752e)
-- [Visual Studio Gallery](https://visualstudiogallery.msdn.microsoft.com/7c64b7c7-cc7c-4dc1-8d4f-a12ec864a9ac)
 ## **Installing**
 It is very simple and easy to install Aspose for .NET DNN Module Development Template, please follow these simple steps
 
@@ -67,7 +63,7 @@ You will get a success dialog once the installation is completed.
 ## **Using**
 Once you’ve installed the templates, you can set up a project based on them. To do so you should follow the steps below. Before you can use them, you should have installed Visual Studio 2010, 2012 or 2013 and Aspose DotNetNuke Project Templates (described above).
 
-1. Set up the DotNetNuke Development environment following the steps in the Wiki (the templates assume you have your development environment set up at <http://dnndev.me/>). [Development Environment](http://www.dnnsoftware.com/Resources/Wiki/page/development-environment.aspx)
+1. Set up the DotNetNuke Development environment following the steps in the Wiki (the templates assume you have your development environment set up at `http://dnndev.me/`). [Development Environment](https://www.dnnsoftware.com/wiki/setting-up-your-module-development-environment)
 1. Run Visual Studio 2010, 2012 or 2013 as an Administrator (right-click the desk-top shortcut to do so)
 1. From the **File** menu, select **New Project**.
 1. Choose either C# or VB.Net from the Languages section of the new project dialog. 
@@ -114,11 +110,8 @@ This is why we offer free support. Anyone who uses our product, whether they hav
 
 You can log any issues or suggestions related to Aspose for .NET DNN Module Development Template using any of the following platforms
 
-- [CodePlex ](https://asposetotaldnn.codeplex.com/workitem/list/basic)
-- [DNN Store ](http://store.dnnsoftware.com/help-center/help-desk/ticket-entry/packageid/31787)
-- [Visual Studio Gallery - Q and A](https://visualstudiogallery.msdn.microsoft.com/7c64b7c7-cc7c-4dc1-8d4f-a12ec864a9ac)
+- [DNN Store ](https://store.dnnsoftware.com/help-center/help-desk/ticket-entry/packageid/31787)
 - [Github ](https://github.com/aspose-total/Aspose.Total-for-.NET/issues)
-- [Microsoft Developer Network - Q and A ](https://code.msdn.microsoft.com/Aspose-DNN-Module-and-6670752e/view/Discussions)
 - [Sourceforge ](https://sourceforge.net/p/asposednn/tickets/)
 - [Bitbucket ](https://bitbucket.org/asposemarketplace/aspose-for-dnn/issues?status=new&status=open)
 ### **Extend and Contribute**
@@ -126,7 +119,6 @@ Aspose.Total .NET for DNN is open source and its source code is available on the
 #### **Source Code**
 You can get the latest source code from one of the following locations
 
-- [CodePlex ](https://asposetotaldnn.codeplex.com/SourceControl/latest)
 - [Github ](https://github.com/aspose-total/Aspose.Total-for-.NET/tree/master/Plugins/DNN/DevelopementTemplate)
 - [Sourceforge ](https://sourceforge.net/p/asposednn/code/ci/master/tree/)
 - [Bitbucket ](https://bitbucket.org/asposemarketplace/aspose-for-dnn/src)

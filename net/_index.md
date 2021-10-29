@@ -350,7 +350,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Getting Started](/html/net/getting-started/)
 - [Supported Features](/html/net/getting-started/features-list/)
 - [Product Page](https://products.aspose.com/html/net/)
-- [Installing Product](/html/net/installation/)
+- [Installing Product](/html/net/getting-started/installation/)
 - [API Reference](https://apireference.aspose.com/html/net)
 - [Free Support Forum](https://forum.aspose.com/c/html/29)
 - [Paid Support Helpdesk](https://helpdesk.aspose.com/)

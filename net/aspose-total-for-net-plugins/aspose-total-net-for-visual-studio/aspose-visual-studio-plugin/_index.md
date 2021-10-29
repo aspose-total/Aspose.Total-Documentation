@@ -45,10 +45,6 @@ In order to install and use Aspose Visual Studio Plugin you need to have one of 
 Please feel free to contact us if you find any issues in installing or using this plugin.
 ## **Downloading**
 You can download Aspose Visual Studio Plugin from one of the following locations
-
-- [CodePlex ](https://asposetotalvs.codeplex.com/releases)
-- [Code.MSDN ](https://code.msdn.microsoft.com/Aspose3D-for-NET-API-2177d869)
-- [Visual Studio Gallery ](https://marketplace.visualstudio.com/)
 - [Github ](https://github.com/aspose-total/Aspose.Total-for-.NET/releases)
 ## **Installing**
 It is very simple and easy to install Aspose Visual Studio Plugin, please follow these simple steps
@@ -92,8 +88,7 @@ This is why we offer free support. Anyone who uses our product, whether they hav
 
 You can log any issues or suggestions related to Aspose Visual Studio Plugin using any of the following platforms
 
-- [CodePlex ](https://asposetotalvs.codeplex.com/workitem/list/basic)
-- [Visual Studio Gallery - Q and A](https://aka.ms/vsmfaq)
+- [Visual Studio Gallery - Q and A](https://docs.microsoft.com/en-us/azure/devops/marketplace/faq-extensions?view=azure-devops)
 - [Github ](https://github.com/aspose-total/Aspose.Total-for-.NET/issues)
 
 ### **Extend and Contribute**
@@ -101,7 +96,6 @@ Aspose.Total .NET for Visual Studio is open source and its source code is availa
 #### **Source Code**
 You can get the latest source code from one of the following locations
 
-- [CodePlex ](https://asposetotalvs.codeplex.com/SourceControl/latest)
 - [Github ](https://github.com/aspose-total/Aspose.Total-for-.NET)
 
 #### **How to configure the source code**

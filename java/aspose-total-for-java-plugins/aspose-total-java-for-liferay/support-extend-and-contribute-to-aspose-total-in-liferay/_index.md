@@ -16,14 +16,13 @@ url: /java/support-extend-and-contribute-to-aspose-total-in-liferay/
 ## **Extend and Contribute**
 Aspose.Total Java for Liferay is open source and its source code is available on the major social coding websites listed below. Developers are encouraged to download the source code and contribute by suggesting or adding new feature or improving the existing ones, so that others could also benefit from it. Developers can also learn from it to make their own Liferay plugins.
 
-- [GitHub](https://goo.gl/XS5VFP)
-- [Sourceforge](https://goo.gl/PJweOe)
-- [Bitbucket](https://goo.gl/ZXNTpF)
-- [CodePlex](http://asposeliferay.codeplex.com/)
+- [GitHub](https://github.com/asposemarketplace/Aspose_for_Liferay)
+- [Sourceforge](https://sourceforge.net/projects/asposejavaforliferay/)
+- [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-liferay)
 ## **How to configure source code of "Aspose.Total Java for Liferay plugin"**
 Below simple steps will smoothly lead to successful configuration of  **"Aspose.Total Java for Liferay plugin"** source code.
 
-1. Download and install Liferay IDE / Developers Studio from [here](https://www.liferay.com/downloads/liferay-projects/liferay-ide)
+1. Download and install Liferay IDE / Developers Studio from [here](https://liferay.dev/project/-/asset_publisher/TyF2HQPLV1b5/content/ide-installation-instructions)
 1. Download / Clone the source code of the Aspose Java for Liferay plugin
 1. Choose **File** > **Import > Liferay > Liferay Project from Existing Source...**
 1. Browse to the latest project source that you have downloaded

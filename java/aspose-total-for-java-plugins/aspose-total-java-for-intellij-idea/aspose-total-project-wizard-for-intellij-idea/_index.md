@@ -55,7 +55,7 @@ To download IntellliJ IDEA
 1. Select your running OS
 1. Click on UE or CE download.
 ### **Downloading Aspose.Total Java for IntelliJ IDEA plugin**
-- The plugin can be directly downloaded from the JetBrains plugin hosting URL:<https://plugins.jetbrains.com/plugin/7461?pr=idea_ce>
+- The plugin can be directly downloaded from the JetBrains plugin hosting URL:`https://plugins.jetbrains.com/plugin/7461-aspose-project-wizard/`
   and later can be installed using the IDE option:
 1. Goto **File** > **Settings**...>**Plugins**
 1. Select "**Install plugin from Disk"** 

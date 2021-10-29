@@ -11,7 +11,7 @@ Any of the following methods can be adopted for the successful installation of A
 1. Drag and drop installation from [Eclipse Marketplace](https://marketplace.eclipse.org/search/site/aspose) to your Eclipse workspace.
 1. Install from Update Site 
    1. Go to **Help** > **Install New Software...**
-   1. Enter following update site URL in **Work with**: <http://cdn.aspose.com/marketplace/eclipse/asposewizardrepo>
+   1. Enter following update site URL in **Work with**: `http://cdn.aspose.com/marketplace/eclipse/asposewizardrepo`
    1. Then select "Aspose Project Wizard" and **Finish**. Accept License Agreement and Install the plugin.
 1. Install via Eclipse Marketplace 
    1. Go to **Help -> Eclipse Marketplace...**
