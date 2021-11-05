@@ -102,7 +102,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 Aspose.Email for SharePoint is a flexible solution for converting email files and synchronizing emails from within Microsoft SharePoint applications.
 
-This manual describes Aspose.Email for SharePoint's [features](/email/sharepoint/features/), [installation](/email/sharepoint/installing-aspose-email-for-sharepoint/), [licensing](/email/sharepoint/license-aspose-email-for-sharepoint), settings and [common uses](/email/sharepoint/overview/).
+This manual describes Aspose.Email for SharePoint's [features](/email/sharepoint/features/), [installation](/email/sharepoint/installing-aspose-email-for-sharepoint/), [licensing](/email/sharepoint/license-aspose-email-for-sharepoint/), settings and [common uses](/email/sharepoint/overview/).
 
 {{% /alert %}} 
 
