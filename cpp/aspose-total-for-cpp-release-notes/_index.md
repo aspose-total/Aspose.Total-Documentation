@@ -15,7 +15,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 
 |**Product**|**Latest Version**|**Release Notes**|
 | :- | :- | :- |
-|Aspose.Words for C++|20.10|[Aspose.Words for C++ 20.10](/words/cpp/aspose-words-for-cpp-20-10-release-notes/)|
+|Aspose.Words for C++|21.11|[Aspose.Words for C++ 21.11](/words/cpp/aspose-words-for-cpp-21-11-release-notes/)|
 |Aspose.PDF for C++|20.9|[Aspose.PDF for C++ 20.9](/pdf/cpp/aspose-pdf-for-cpp-20-9-release-notes/)|
 |Aspose.Cells for C++|21.11|[Aspose.Cells for C++ 21.11 for Windows](/cells/cpp/aspose-cells-for-cpp-21-11-release-notes-windows/)|
 |Aspose.Cells for C++|21.11|[Aspose.Cells for C++ 21.11 for Linux](/cells/cpp/aspose-cells-for-cpp-21-11-release-notes-linux/)|
