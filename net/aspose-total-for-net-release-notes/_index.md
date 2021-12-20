@@ -18,7 +18,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Slides for .NET|21.12|[Aspose.Slides for .NET 21.12](/slides/net/aspose-slides-for-net-21-12-release-notes/)|
 |Aspose.Words for .NET|20.11|[Aspose.Words for .NET 20.11](/words/net/aspose-words-for-net-20-11-release-notes/)|
 |Aspose.PDF for .NET|20.9|[Aspose.PDF for .NET 20.9](/pdf/net/aspose-pdf-for-net-20-9-release-notes/)|
-|Aspose.Cells for .NET|21.11|[Aspose.Cells for .NET 21.11](/cells/net/aspose-cells-for-net-21-11-release-notes/)|
+|Aspose.Cells for .NET|21.12|[Aspose.Cells for .NET 21.12](/cells/net/aspose-cells-for-net-21-12-release-notes/)|
 |Aspose.Email for .NET|21.8|[Aspose.Email for .NET 21.8.1](/email/net/aspose-email-for-net-21-8-1-release-notes/)|
 |Aspose.Imaging for .NET|21.9|[Aspose.Imaging for .NET 21.9](/imaging/net/aspose-imaging-for-net-21-9-release-notes/)|
 |Aspose.BarCode for .NET|20.10|[Aspose.BarCode for .NET 20.10](/barcode/net/aspose-barcode-for-net-20-10-release-notes/)|
@@ -28,7 +28,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Note for .NET|20.11|[Aspose.Note for .NET 20.11](/note/net/aspose-note-for-net-20-11-release-notes/)|
 |Aspose.CAD for .NET|20.10|[Aspose.CAD for .NET 20.10](/cad/net/aspose-cad-for-net-20-10-release-notes/)|
 |Aspose.3D for .NET|20.9|[Aspose.3D for .NET 20.9](/3d/net/aspose-3d-for-net-20-9-release-notes/)|
-|Aspose.HTML for .NET|21.11|[Aspose.HTML for .NET 21.11](/html/net/aspose-html-for-net-21-11-release-notes/)|
+|Aspose.HTML for .NET|21.12|[Aspose.HTML for .NET 21.12](/html/net/aspose-html-for-net-21-12-release-notes/)|
 |Aspose.GIS for .NET|19.7|[Aspose.GIS for .NET 19.7](/gis/net/aspose-gis-for-net-19-7-release-notes/)|
 |Aspose.ZIP for .NET|20.9|[Aspose.ZIP for .NET 20.9](/zip/net/aspose-zip-for-net-20-9-release-notes/)|
 |Aspose.PSD for .NET|20.2|[Aspose.PSD for .NET 20.2](/psd/net/aspose-psd-for-net-20-2-release-notes/)|
