@@ -28,7 +28,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Note for .NET|20.11|[Aspose.Note for .NET 20.11](/note/net/aspose-note-for-net-20-11-release-notes/)|
 |Aspose.CAD for .NET|20.10|[Aspose.CAD for .NET 20.10](/cad/net/aspose-cad-for-net-20-10-release-notes/)|
 |Aspose.3D for .NET|20.9|[Aspose.3D for .NET 20.9](/3d/net/aspose-3d-for-net-20-9-release-notes/)|
-|Aspose.HTML for .NET|21.12|[Aspose.HTML for .NET 21.12](/html/net/aspose-html-for-net-21-12-release-notes/)|
+|Aspose.HTML for .NET|22.1|[Aspose.HTML for .NET 22.1](/html/net/aspose-html-for-net-22-1-release-notes/)|
 |Aspose.GIS for .NET|19.7|[Aspose.GIS for .NET 19.7](/gis/net/aspose-gis-for-net-19-7-release-notes/)|
 |Aspose.ZIP for .NET|20.9|[Aspose.ZIP for .NET 20.9](/zip/net/aspose-zip-for-net-20-9-release-notes/)|
 |Aspose.PSD for .NET|20.2|[Aspose.PSD for .NET 20.2](/psd/net/aspose-psd-for-net-20-2-release-notes/)|
