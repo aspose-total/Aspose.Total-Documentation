@@ -15,7 +15,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 
 |**Product**|**Latest Version**|**Release Notes**|
 | :- | :- | :- |
-|Aspose.Slides for .NET|21.12|[Aspose.Slides for .NET 21.12](/slides/net/aspose-slides-for-net-21-12-release-notes/)|
+|Aspose.Slides for .NET|22.1|[Aspose.Slides for .NET 22.1](/slides/net/aspose-slides-for-net-22-1-release-notes/)|
 |Aspose.Words for .NET|20.11|[Aspose.Words for .NET 20.11](/words/net/aspose-words-for-net-20-11-release-notes/)|
 |Aspose.PDF for .NET|20.9|[Aspose.PDF for .NET 20.9](/pdf/net/aspose-pdf-for-net-20-9-release-notes/)|
 |Aspose.Cells for .NET|22.1|[Aspose.Cells for .NET 22.1](/cells/net/aspose-cells-for-net-22-1-release-notes/)|
