@@ -18,14 +18,12 @@ Aspose.Email implements a number of network protocols, for example SMTP, MIME, P
 
 {{% /alert %}} 
 
-{{% alert color="primary" %}} 
+## **Aspose.Email for Python via .NET Resources**
 
-**![ Aspose.Words for .NET](home_1.png)**
+Following are the links to some useful resources you may need to accomplish your tasks.
 
-**Welcome to Aspose.Words for .NET** 
-
-Aspose.Words for .NET is a class library that enables your applications to perform a great range of document processing tasks. Aspose.Words supports DOC, DOCX, RTF, HTML, OpenDocument, PDF, XPS, EPUB and other formats. With Aspose.Words you can generate, modify, convert, render, and print documents without utilizing Microsoft Word®.
-
-{{% /alert %}} 
-
-## **Aspose.Words for .NET Resources**
+- [Aspose.Email for Python via .NET Features Overview](/email/python-net/features-overview/)
+- [Aspose.Email for Python via .NET Release Notes](/email/python-net/release-notes/)
+- [Aspose.Email for Python via .NET Product Page](https://products.aspose.com/email/python-net/)
+- [Aspose.Email for Python via .NET Free Support Forum](https://forum.aspose.com/)
+- [Aspose.Email for Python via .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
