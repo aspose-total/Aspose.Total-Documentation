@@ -1,8 +1,8 @@
 ---
-title: Aspose.Total for Python via .NET
+title: Aspose.Total for Python via Java
 type: docs
 weight: 10
-url: /pynet/
+url: /python-java/
 is_root: true
 ---
 
@@ -12,7 +12,7 @@ is_root: true
 
 **Welcome to Aspose.Words for .NET** 
 
-Aspose.Words for .NET is a class library that enables your applications to perform a great range of document processing tasks. Aspose.Words supports DOC, DOCX, RTF, HTML, OpenDocument, PDF, XPS, EPUB and other formats. With Aspose.Words you can generate, modify, convert, render, and print documents without utilizing Microsoft Word®.
+Aspose.Words for .NET is a class library that enables your applications to perform a great range of document processing tasks. Aspose.Words supports DOC, DOCX, RTF, HTML, OpenDocument, PDF, XPS, EPUB and other formats. With Aspose.Words you can generate, modify, convert, render, and print documents without utilizing Microsoft WordÂ®.
 
 {{% /alert %}} 
 
