@@ -23,6 +23,7 @@ With Aspose.Words for Python via .NET, you can generate, modify, convert, and re
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
+- [Aspose.Words for Python via .NET Online Documentation](/words/python-net/)
 - [Aspose.Words for Python via .NET Features Overview](/words/python-net/features/)
 - [Aspose.Words for Python via .NET Release Notes](/words/python-net/release-notes/)
 - [Aspose.Words for Python via .NET Product Page](https://products.aspose.com/words/python-net/)
@@ -45,8 +46,35 @@ Aspose.Email implements a number of network protocols, for example SMTP, MIME, P
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
+- [Aspose.Email for Python via .NET Online Documentation](/email/python-net/)
 - [Aspose.Email for Python via .NET Features Overview](/email/python-net/features-overview/)
 - [Aspose.Email for Python via .NET Release Notes](/email/python-net/release-notes/)
 - [Aspose.Email for Python via .NET Product Page](https://products.aspose.com/email/python-net/)
 - [Aspose.Email for Python via .NET Free Support Forum](https://forum.aspose.com/)
 - [Aspose.Email for Python via .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
+
+{{% alert color="primary" %}}
+
+**![Aspose.Slides for Python via .NET](home_slides_python.png)**
+
+**Welcome to Aspose.Slides for Python via .NET**
+
+Aspose.Slides for Python via .NET is a class library that enables your applications to read and write PowerPoint® documents without using Microsoft PowerPoint®.
+
+Aspose.Slides for Python via .NET is the first and only component that provides the functionality to manage PowerPoint® documents.
+
+Aspose.Slides for Python via .NET provides a lot of key features such as managing text, shapes, tables & animations, adding audio and video to slides, previewing slides, exporting slides to SVG, PDF format and more.
+
+{{% /alert %}} 
+
+## **Aspose.Slides for Python via .NET Resources**
+
+Following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.Slides for Python via .NET Online Documentation](/slides/python-net/)
+- [Aspose.Slides for Python via .NET Features Overview](/slides/python-net/features-overview/)
+- [Aspose.Slides for Python via .NET Release Notes](/slides/python-net/release-notes/)
+- [Aspose.Slides for Python via .NET Product Page](https://products.aspose.com/slides/python-net/)
+- [Aspose.Slides for Python via .NET Free Support Forum](https://forum.aspose.com/)
+- [Aspose.Slides for Python via .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
+
