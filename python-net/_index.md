@@ -7,6 +7,8 @@ is_root: true
 ---
 
 
+**![Aspose.Email for Python via .NET](home_email_python.png)**
+
 **Welcome to Aspose.Email for Python via .NET**
 
 Aspose.Email for Python via .NET is a suite of flexible and easy to use class libraries brought together to produce a most unique and powerful email programming component. Aspose.Email saves you time and effort by allowing you to code complex message file handling into your applications quickly and easily.
