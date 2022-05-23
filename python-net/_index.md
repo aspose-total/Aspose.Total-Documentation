@@ -7,6 +7,7 @@ is_root: true
 ---
 
 {{% alert color="primary" %}}
+
 Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
 Lorem ipsumLorem ipsumLorem ipsum
 Lorem ipsumLorem ipsumLorem ipsum
