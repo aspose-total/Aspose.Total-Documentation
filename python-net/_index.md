@@ -2,7 +2,7 @@
 title: Aspose.Total for Python via .NET
 type: docs
 weight: 10
-url: /pynet/
+url: /python-net/
 is_root: true
 ---
 {{% alert color="primary" %}}
