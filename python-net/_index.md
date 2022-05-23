@@ -11,6 +11,7 @@ is_root: true
 Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
 Lorem ipsumLorem ipsumLorem ipsum
 Lorem ipsumLorem ipsumLorem ipsum
+{{% /alert %}} 
 
 **![Aspose.Email for Python via .NET](home_email_python.png)**
 
