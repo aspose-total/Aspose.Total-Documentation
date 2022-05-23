@@ -8,11 +8,6 @@ is_root: true
 
 {{% alert color="primary" %}}
 
-Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
-Lorem ipsumLorem ipsumLorem ipsum
-Lorem ipsumLorem ipsumLorem ipsum
-{{% /alert %}} 
-
 **![Aspose.Email for Python via .NET](home_email_python.png)**
 
 **Welcome to Aspose.Email for Python via .NET**
@@ -21,9 +16,7 @@ Aspose.Email for Python via .NET is a suite of flexible and easy to use class li
 
 Aspose.Email implements a number of network protocols, for example SMTP, MIME, POP3, IMAP; message file formats, for example EML, MSG, MHT; mail storage formats such as PST and MBOX; to allow developers to create a wide variety of email processing applications. Aspose.Email helps developers program without getting lost in the complexities of message format detail.
 
-
-
-
+{{% /alert %}} 
 
 {{% alert color="primary" %}} 
 
