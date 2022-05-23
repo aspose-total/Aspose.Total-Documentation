@@ -6,6 +6,10 @@ url: /pynet/
 is_root: true
 ---
 
+{{% alert color="primary" %}}
+Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
+Lorem ipsumLorem ipsumLorem ipsum
+Lorem ipsumLorem ipsumLorem ipsum
 
 **![Aspose.Email for Python via .NET](home_email_python.png)**
 
