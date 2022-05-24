@@ -29,9 +29,6 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Cells for Python via Java Free Support Forum](https://forum.aspose.com/c/cells/9)
 - [Aspose.Cells for Python via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-
-=====================
-
 {{% alert color="primary" %}}
 
 **![Aspose.BarCode for Python via Java](aspose_barcode-for-python-java.png)**
