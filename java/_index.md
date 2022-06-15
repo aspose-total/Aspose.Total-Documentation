@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}}
 
-![Aspose.Words for Java](home_1)
+![Aspose.Words for Java](aspose_words-for-java.png)
 
 **Welcome to Aspose.Words for Java**
 
@@ -32,7 +32,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.Cells for Java](cells.png)
+![Aspose.Cells for Java](aspose_cells-for-java.png)
 
 **Welcome to Aspose.Cells for Java**
 
@@ -57,7 +57,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.PDF for Java](home_3)
+![Aspose.PDF for Java](aspose_pdf-for-java.png)
 
 **Welcome to Aspose.PDF for Java**
 
@@ -82,9 +82,9 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-<img src="home_4" alt="Aspose.Slides for Java" style="zoom:50%;" />
+![Aspose.Slides for Java](aspose_slides-for-java.png)
 
-**Welcome to Aspose.Slides for Java!**
+**Welcome to Aspose.Slides for Java**
 
 Aspose.Slides for Java is a Microsoft PowerPoint® management API that enables Java applications to read and write PowerPoint® documents without Microsoft PowerPoint®. Aspose.Slides for Java is the first and only component that provides the functionality to manage PowerPoint® documents. Aspose.Slides for Java provides a lot of key features such as managing text, shapes, tables & animations, adding audio & video to slides, previewing slides, exporting slides to SVG, PDF and other formats.
 
@@ -108,7 +108,9 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.Email for Java](home_5.png)
+![Aspose.Email for Java](aspose_email-for-java.png)
+
+**Welcome to Aspose.Email for Java**
 
 Aspose.Email for Java is a Java API that enables Java applications to read and write Microsoft Outlook® documents without using Microsoft Outlook®. Aspose.Email for Java provides a number of key features such as managing recipients, subject, body, attachments in Microsoft Outlook® MSG documents and reading contacts, messages and folder information from Microsoft Outlook® PST documents. It can also be used to create, modify and convert email messages in EML, MSG and MHT formats.
 
@@ -130,7 +132,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.BarCode for Java](home_6.png)
+![Aspose.BarCode for Java](aspose_barcode-for-java.png)
 
 **Welcome to Aspose.BarCode for Java**
 
@@ -156,9 +158,9 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.Imaging for Java](home_7.png)
+![Aspose.Imaging for Java](aspose_imaging-for-java.png)
 
-**Welcome to the Aspose.Imaging for Java documentation!**
+**Welcome to the Aspose.Imaging for Java**
 
 Aspose.Imaging for Java is an easy-to-use, high-performance and well-documented imaging library. It provides the most flexible group of routines to create, manipulate and save images in Java applications. Aspose.Imaging for Java supports maximum file formats from Raster based graphical Imaging and provides a wide range of compression algorithms along with numerous image processing operations.
 
@@ -184,9 +186,9 @@ The following are the links to some useful resources you may need to accomplish 
 ## **Aspose.Tasks for Java**
 {{% alert color="primary" %}}
 
-![Aspose.Tasks for Java](home_8.png)
+![Aspose.Tasks for Java](aspose_tasks-for-java.png)
 
-**Welcome to Aspose.Tasks for Java!**
+**Welcome to Aspose.Tasks for Java**
 
 Aspose.Tasks for Java is a class library that enables Java application developers to embed the functionality of processing Microsoft Project ® documents (MPP/MPT/XLS) without even using Microsoft Project®. The API, hence, eliminates the requirement of Microsoft Office Automation in such applications. Ported from its equivalent .NET product, Aspose.Tasks for Java is a mature product that offers stability and flexibility. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
@@ -208,7 +210,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.OCR for Java](home_9.png)
+![Aspose.OCR for Java](aspose_ocr-for-java.png)
 
 **Welcome to the Aspose.OCR for Java**
 
@@ -234,7 +236,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.Diagram for Java](home_10.png)
+![Aspose.Diagram for Java](aspose_diagram-for-java.png)
 
 **Welcome to Aspose.Diagram for Java**
 
@@ -263,9 +265,9 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.Note for Java](home_11.png)
+![Aspose.Note for Java](aspose_note-for-java.png)
 
-[Aspose.Note for Java](https://products.aspose.com/note/java/) is a class library that enables Java applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
+Aspose.Note for Java is a class library that enables Java applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
 
 With Aspose.Note for Java, it is possible to program with Microsoft OneNote files without Microsoft Office Automation. The API is easy to use and saves time and money compared to developing similar solutions from scratch.
 
@@ -289,7 +291,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 **Welcome to Aspose.CAD for Java**
 
-<img src="cad.png" alt="Aspose.CAD for Java" style="zoom:50%;" />
+![Aspose.CAD for Java](aspose_cad-for-java.png)
 
 Aspose.CAD for Java allows developers to convert AutoCAD DWG, DWF and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any software to be installed.
 
@@ -322,7 +324,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-<img src="home_12" alt="Aspose.HTML for Java" style="zoom:50%;" />
+![Aspose.HTML for Java](aspose_html-for-java.png)
 
 **Welcome to Aspose.HTML for Java**
 
@@ -347,9 +349,9 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.3D for Java API](home_13)
+![Aspose.3D for Java API](aspose_3d-for-java.png)
 
-**Welcome to Aspose.3D for Java API**
+**Welcome to Aspose.3D for Java**
 
 Aspose.3D for Java API is built to create, edit, manipulate and save 3D formats. It empowers Java applications to connect with 3D documents without installing any software package on the computer. Aspose.3D for Java API assist developers to model and create massive worlds in games, superb scenes for design visualization, and engage virtual reality experiences.
 
@@ -373,7 +375,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-**<img src="home_14" alt="Aspose.Page for Java" style="zoom:50%;" />**
+![Aspose.Page for Java API](aspose_page-for-java.png)
 
 **Welcome to the Aspose.Page for Java**
 
@@ -395,7 +397,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-**<img src="home_15" alt="Aspose.PSD for Java" style="zoom:50%;" />**
+![Aspose.PSD for Java API](aspose_psd-for-java.png)
 
 **Welcome to Aspose.PSD for Java**
 
@@ -423,7 +425,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![todo:image_alt_text](AsposePUBJava)
+![Aspose.PUB for Java API](aspose_pub-for-java.png)
 
 **Welcome to Aspose.PUB for Java**
 
@@ -444,7 +446,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-**<img src="home_16.png" alt="Aspose.Font for Java" style="zoom:50%;" />**
+![Aspose.Font for Java API](aspose_font-for-java.png)
 
 **Welcome to Aspose.Font for Java**
 
@@ -465,7 +467,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.TeX for Java logo](home_17.png)
+![Aspose.TeX for Java logo](aspose_tex-for-java.png)
 
 **Welcome to Aspose.TeX for Java**
 
