@@ -183,7 +183,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Download Examples at GitHub Repository](https://github.com/aspose-imaging/Aspose.Imaging-for-Java)
 - [Aspose.Imaging for Java Free Support Forum](https://forum.aspose.com/c/imaging/14)
 - [Aspose.Imaging for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
-## **Aspose.Tasks for Java**
+
 {{% alert color="primary" %}}
 
 ![Aspose.Tasks for Java](aspose_tasks-for-java.png)
@@ -267,6 +267,8 @@ The following are the links to some useful resources you may need to accomplish 
 
 ![Aspose.Note for Java](aspose_note-for-java.png)
 
+**Welcome to Aspose.Note for Java**
+
 Aspose.Note for Java is a class library that enables Java applications to interact with Microsoft Office OneNote programmatically without the software being installed on the server. The Aspose.Note API lets developers read, convert, create, edit and manipulate the content of the Microsoft OneNote file format.
 
 With Aspose.Note for Java, it is possible to program with Microsoft OneNote files without Microsoft Office Automation. The API is easy to use and saves time and money compared to developing similar solutions from scratch.
@@ -289,9 +291,9 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-**Welcome to Aspose.CAD for Java**
-
 ![Aspose.CAD for Java](aspose_cad-for-java.png)
+
+**Welcome to Aspose.CAD for Java**
 
 Aspose.CAD for Java allows developers to convert AutoCAD DWG, DWF and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any software to be installed.
 
