@@ -35,7 +35,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.OMR for .NET|20.6|[Aspose.OMR for .NET 20.6](/omr/net/aspose-omr-for-net-20-6-release-notes/)|
 |Aspose.Page for .NET|20.9|[Aspose.Page for .NET 20.9](/page/net/aspose-page-for-net-20-9-release-notes/)|
 |Aspose.PUB for .NET|20.4|[Aspose.PUB for .NET 20.4](/pub/net/aspose-pub-for-net-20-4-release-notes/)|
-|Aspose.SVG for .NET|22.5|[Aspose.SVG for .NET 22.5](/svg/net/aspose-svg-for-net-22-5-release-notes/)|
+|Aspose.SVG for .NET|22.6|[Aspose.SVG for .NET 22.6](/svg/net/aspose-svg-for-net-22-6-release-notes/)|
 |Aspose.Finance for .NET |20.8|[Aspose.Finance for .NET 20.8](/finance/net/aspose-finance-for-net-20-8-release-notes/)|
 |Aspose.Drawing for .NET|20.8|[Aspose.Drawing for .NET 20.9](/drawing/net/aspose-drawing-for-net-21-9-release-notes/)|
 |Aspose.Font for .NET|20.9|[Aspose.Font for .NET 20.9](/font/net/aspose-font-for-net-20-9-release-notes/)|
