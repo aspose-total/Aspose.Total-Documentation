@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}}
 
-**![Aspose.Words for C++](home_1)**
+**![Aspose.Words for C++](aspose_words-for-cpp.png)**
 
 **Welcome to the Aspose.Words for C++**
 
@@ -32,7 +32,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-**<img src="home_2" alt="Aspose.Cells for C++" style="zoom:50%;" />**
+**![Aspose.Cells for C++](aspose_cells-for-cpp.png)**
 
 **Welcome to the Aspose.Cells for C++**
 
@@ -58,7 +58,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.PDF for C++](home_3)
+**![Aspose.PDF for C++](aspose_pdf-for-cpp.png)**
 
 **Welcome to the Aspose.PDF for C++ Documentation Section**
 
@@ -82,7 +82,7 @@ The following links offer some useful resources you may need to accomplish your 
 
 {{% alert color="primary" %}}
 
-<img src="home_4" alt="Aspose.Slides for C++" style="zoom:50%;" />
+**![Aspose.Slides for C++](aspose_slides-for-cpp.png)**
 
 **Welcome to the Aspose.Slides for C++**
 
@@ -106,7 +106,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.Email for C++](home_5)
+**![Aspose.Email for C++](aspose_email-for-cpp.png)**
 
 **Welcome to Aspose.Email for C++**
 
@@ -132,7 +132,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.Tasks for C++](home_6)
+**![Aspose.Tasks for C++](aspose_tasks-for-cpp.png)**
 
 **Welcome to the Aspose.Tasks for C++**
 
@@ -156,7 +156,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-**<img src="home_7" alt="Aspose.BarCode for C++" style="zoom:50%;" />**
+**![Aspose.BarCode for C++](aspose_barcode-for-cpp.png)**
 
 **Welcome to Aspose.BarCode for C++**
 
@@ -179,7 +179,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-**<img src="home_8" alt="Aspose.Page for C++" style="zoom:50%;" />**
+**![Aspose.Page for C++](aspose_page-for-cpp.png)**
 
 **Welcome to the Aspose.Page for C++**
 
@@ -202,7 +202,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-**![Aspose.OCR for C++](OcrCppLogo.png)**
+**![Aspose.OCR for C++](aspose_ocr-for-cpp.png)**
 
 **Welcome to the Aspose.OCR for C++**
 
@@ -223,7 +223,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-**![Aspose.PUB for C++](home_10)**
+**![Aspose.PUB for C++](aspose_pub-for-cpp.png)**
 
 **Welcome to the Aspose.PUB for C++ Documentation Section**
 
@@ -247,7 +247,7 @@ The following links offer some useful resources you may need to accomplish your 
 
 {{% alert color="primary" %}}
 
-![Aspose.Font for C++ Product Logo](aspose_font_cpp.png)
+**![Aspose.Font for C++](aspose_font-for-cpp.png)**
 
 **Welcome to the Aspose.Font for C++**
 
@@ -270,7 +270,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.TeX for C++ Product Logo](aspose_tex_cpp.png)
+**![Aspose.TeX for C++](aspose_tex-for-cpp.png)**
 
 **Welcome to the Aspose.TeX for C++**
 
