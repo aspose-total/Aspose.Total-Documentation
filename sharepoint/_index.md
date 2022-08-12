@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}} 
 
-<img src="aspose_words-for-sharepoint.png" alt="Aspose.Words for SharePoint" style="zoom:50%;" />
+![Aspose.Words for SharePoint](aspose_words-for-sharepoint.png)
 
 **Welcome to Aspose.Words for SharePoint**
 
@@ -30,7 +30,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.Cells for SharePoint](aspose-Cells-for-SharePoint.png)
+![Aspose.Cells for SharePoint](aspose_cells-for-sharepoint.png)
 
 **Welcome to Aspose.Cells for SharePoint**
 
@@ -52,7 +52,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.PDF for SharePoint](aspose-Pdf-for-SharePoint.png)
+![Aspose.PDF for SharePoint](aspose_pdf-for-sharepoint.png)
 
 **Welcome to Aspose.PDF for SharePoint**
 
@@ -74,7 +74,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-<img src="home_2" alt="Aspose.Slides for SharePoint" style="zoom:50%;" />
+![Aspose.Slides for SharePoint](aspose_slides-for-sharepoint.png)
 
 **Welcome to Aspose.Slides for SharePoint**
 
@@ -96,7 +96,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.Email for SharePoint](aspose-Email-for-SharePoint.png)
+![Aspose.Email for SharePoint](aspose_email-for-sharepoint.png)
 
 **Welcome to Aspose.Email for SharePoint**
 
@@ -119,7 +119,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.BarCode for SharePoint](aspose-BarCode-for-SharePoint.png)
+![Aspose.BarCode for SharePoint](aspose_barcode-for-sharepoint.png)
 
 **Welcome to Aspose.BarCode for SharePoint**
 
@@ -142,7 +142,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-<img src="home_3" alt="Aspose.Imaging for SharePoint" style="zoom:50%;" />
+![Aspose.Imaging for SharePoint](aspose_imaging-for-sharepoint.png)
 
 **Welcome to the Aspose.Imaging for SharePoint**
 
