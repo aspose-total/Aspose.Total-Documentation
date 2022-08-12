@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Words for Android via Java](aspose_words-for-android-128x128.png)**
+**![Aspose.Words for Android via Java](aspose_words-for-android-java.png)**
 
 **Welcome to Aspose.Words for Android via Java**
 
@@ -33,7 +33,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Cells for Android via Java](home_1)**
+**![Aspose.Cells for Android via Java](aspose_cells-for-android-java.png)**
 
 **Welcome to the Aspose.Cells for Android via Java**
 
@@ -56,7 +56,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.PDF for Android via Java](home_2.png)
+**![Aspose.PDF for Android via Java](aspose_pdf-for-android-java.png)**
 
 **Welcome to Aspose.PDF for Android via Java**
 
@@ -80,7 +80,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.Slides for Android via Java](home_3)
+**![Aspose.Slides for Android via Java](aspose_slides-for-android-java.png)**
 
 **Welcome to Aspose.Slides for Android via Java**
 
@@ -104,7 +104,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-<img src="home_4" alt="Aspose.Email for Android via Java" style="zoom:50%;" />
+**![Aspose.Email for Android via Java](aspose_email-for-android-java.png)**
 
 **Welcome to Aspose.Email for Android via Java**
 
