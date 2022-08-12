@@ -7,7 +7,7 @@ is_root: true
 ---
 {{% alert color="primary" %}}
 
-**![Aspose.Words for Python via .NET](home_words_python.png)**
+**![Aspose.Words for Python via .NET](aspose_words-for-python-net.png)**
 
 **Welcome to Aspose.Words for Python via .NET**
 
@@ -32,7 +32,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}}
 
-**![Aspose.Email for Python via .NET](home_email_python.png)**
+**![Aspose.Email for Python via .NET](aspose_email-for-python-net.png)**
 
 **Welcome to Aspose.Email for Python via .NET**
 
@@ -55,7 +55,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}}
 
-**![Aspose.Slides for Python via .NET](home_slides_python.png)**
+**![Aspose.Slides for Python via .NET](aspose_slides-for-python-net.png)**
 
 **Welcome to Aspose.Slides for Python via .NET**
 
@@ -80,7 +80,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}}
 
-**![Aspose.3D for Python via .NET](home_3d_python.png)**
+**![Aspose.3D for Python via .NET](aspose_3d-for-python-net.png)**
 
 **Welcome to Aspose.3D for Python via .NET**
 
