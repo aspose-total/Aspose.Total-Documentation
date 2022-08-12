@@ -60,7 +60,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 **![Aspose.PDF for C++](aspose_pdf-for-cpp.png)**
 
-**Welcome to the Aspose.PDF for C++ Documentation Section**
+**Welcome to the Aspose.PDF for C++**
 
 Aspose.PDF for C++ is a native C++ library that enables developers to create, read and manipulate PDF documents without using Adobe Acrobat. Aspose.PDF for C++ allows developers to create forms, add/edit text, manipulate PDF pages, add annotations, handle custom fonts and much more. Here in the documentation section of Aspose.PDF for C++, you can explore all the features of the API along with the basic examples to demonstrate the implementation of those features in your C++ application.
 
@@ -225,7 +225,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 **![Aspose.PUB for C++](aspose_pub-for-cpp.png)**
 
-**Welcome to the Aspose.PUB for C++ Documentation Section**
+**Welcome to the Aspose.PUB for C++**
 
 Aspose.PUB for C++ is a native C++ library that allows developers to read Microsoft Public files (.pub). It also allows us to convert .pub files to PDF without the need of any other software. The API lets you work with publication files without understanding the underlying file format structure. C++ application developers can thus use the API to create rich publication files conversion applications for mass conversion of PUB files to PDF format.
 
