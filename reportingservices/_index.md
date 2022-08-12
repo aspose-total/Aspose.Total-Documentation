@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Words for Reporting Services](aspose-Words-for-SSRS.png)**
+**![Aspose.Words for Reporting Services](aspose_words-for-reporting-services.png)**
 
 **Welcome to Aspose.Words for Reporting Services**
 
@@ -30,7 +30,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.Cells for Reporting Services](aspose-Cells-for-SSRS.png)
+**![Aspose.Cells for Reporting Services](aspose_cells-for-reporting-services.png)**
 
 **Welcome to Aspose.Cells for Reporting Services**
 
@@ -52,7 +52,7 @@ The following are the links to some useful resources you may need to accomplish 
  
 {{% alert color="primary" %}}
 
-![Aspose.PDF for ReportingServices](aspose-Pdf-for-ReportingServices.png)
+**![Aspose.PDF for Reporting Services](aspose_pdf-for-reporting-services.png)**
 
 **Welcome to Aspose.PDF for Reporting Services!** 
 
@@ -74,7 +74,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.Slides for Reporting Services](home_2.png)
+**![Aspose.Slides for Reporting Services](aspose_slides-for-reporting-services.png)**
 
 **Welcome to the Aspose.Slides for Reporting Services**
 
@@ -96,7 +96,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.BarCode for Reporting Services](aspose-BarCode-for-ReportingSerices.png)
+**![Aspose.BarCode for Reporting Services](aspose_barcode-for-reporting-services.png)**
 
 **Welcome to the Aspose.BarCode for Reporting Services**
 
