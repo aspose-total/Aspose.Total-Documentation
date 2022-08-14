@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}} 
 
-**<img src="aspose_words-for-jasperreports.png" alt="Aspose.Words for JasperReports" style="zoom:50%;" />**
+![Aspose.Words for JasperReports](aspose_words-for-jasperreports.png)
 
 **Welcome to Aspose.Words for JasperReports**
 
@@ -31,7 +31,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Cells for JasperReports](aspose-Cells-for-JasperReports.png)**
+![Aspose.Cells for JasperReports](aspose_cells-for-jasperreports.png)
 
 **Welcome to Aspose.Cells for JasperReports**
 
@@ -53,7 +53,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-**![Aspose.PDF for JasperReports](aspose-Pdf-for-JasperReports.png)**
+![Aspose.PDF for JasperReports](aspose_pdf-for-jasperreports.png)
 
 **Welcome to Aspose.PDF for JasperReports**
 
@@ -75,7 +75,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![Aspose.Slides for JasperReports](home_2.png)
+![Aspose.Slides for JasperReports](aspose_slides-for-jasperreports.png)
 
 **Welcome to the Aspose.Slides for JasperReports**
 
@@ -97,7 +97,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}}
 
-![Aspose.BarCode for JasperReports](aspose_imaging-for-jasperreports-128.png)
+![Aspose.Imaging for JasperReports](aspose_imaging-for-jasperreports.png)
 
 **Welcome to Aspose.Imaging for JasperReports**
 
@@ -122,7 +122,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-![Aspose.BarCode for JasperReports](aspose-BarCode-for-JasperReports.png)
+![Aspose.BarCode for JasperReports](aspose_barcode-for-jasperreports.png)
 
 **Welcome to the Aspose.BarCode for JasperReports**
 
@@ -144,7 +144,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD for JasperReports](aspose_cad-for-jasperreports-128.png)
+![Aspose.CAD for JasperReports](aspose_cad-for-jasperreports.png)
 
 **Welcome to Aspose.CAD for JasperReports**
 
