@@ -20,7 +20,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Cells for C++|22.5|[Aspose.Cells for C++ 22.5 for Windows](/cells/cpp/aspose-cells-for-cpp-22-5-release-notes-windows/)|
 |Aspose.Cells for C++|22.5|[Aspose.Cells for C++ 22.5 for Linux](/cells/cpp/aspose-cells-for-cpp-22-5-release-notes-linux/)|
 |Aspose.Email for C++|22.4|[Aspose.Email for C++ 22.4](/email/cpp/aspose-email-for-cpp-22-4-release-notes/)|
-|Aspose.Slides for C++|22.7|[Aspose.Slides for C++ 22.7](/slides/cpp/aspose-slides-for-cpp-22-7-release-notes/)|
+|Aspose.Slides for C++|22.8|[Aspose.Slides for C++ 22.8](/slides/cpp/aspose-slides-for-cpp-22-8-release-notes/)|
 |Aspose.BarCode for C++|22.2|[Aspose.BarCode for C++ 22.2](/barcode/cpp/aspose-barcode-for-cpp-22-2-release-notes/)|
 |Aspose.Tasks for C++|22.4|[Aspose.Tasks for C++ 22.4](/tasks/cpp/aspose-tasks-for-cpp-22-4-release-notes/)|
 |Aspose.Page for C++|22.4|[Aspose.Page for C++ 22.4](/page/cpp/aspose-page-for-cpp-22-4-release-notes/)|
