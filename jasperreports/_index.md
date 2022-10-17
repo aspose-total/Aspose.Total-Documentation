@@ -1,7 +1,7 @@
 ---
 title: Aspose.Total for JasperReports
 type: docs
-weight: 70
+weight: 110
 url: /jasperreports/
 is_root: true
 ---

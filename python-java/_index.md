@@ -1,7 +1,7 @@
 ---
 title: Aspose.Total for Python via Java
 type: docs
-weight: 10
+weight: 60
 url: /python-java/
 is_root: true
 ---

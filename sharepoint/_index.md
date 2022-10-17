@@ -1,7 +1,7 @@
 ---
 title: Aspose.Total for SharePoint
 type: docs
-weight: 60
+weight: 90
 url: /sharepoint/
 is_root: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Aspose.Total for Reporting Services
 type: docs
-weight: 50
+weight: 100
 url: /reportingservices/
 is_root: true
 ---

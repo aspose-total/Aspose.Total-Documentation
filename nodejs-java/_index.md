@@ -1,7 +1,7 @@
 ---
 title: Aspose.Total for Node.js via Java
 type: docs
-weight: 107
+weight: 70
 url: /nodejs-java/
 is_root: true
 ---
