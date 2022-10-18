@@ -58,7 +58,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 **Welcome to Aspose.BarCode for PHP via Java**
 
-_Aspose.Slides for PHP via Java_ provides all the valuable features of Aspose.Slides for Java using JavaBridge. Aspose.Cells for PHP via Java is a class library that enables you to perform a great range of spreadsheet processing tasks. Aspose.Cells for PHP via Java is a scalable and feature rich API that offers spreadsheet format conversion, styling of worksheets to the most granular level, chart management & rendering, and our reliable Formula Calculation Engine. Aspose.Cells for PHP via Java supports XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, PDF, XPS and other formats. With Aspose.Cells for PHP via Java you can generate, modify, convert and render Excel documents.
+_Aspose.BarCode for PHP via Java_ is a set of barcode generation and recognition components using JavaBridge. Aspose.BarCode for PHP via Java allows developers to quickly and easily add barcode generation and recognition functionality to their PHP applications. Aspose.BarCode for PHP via Java supports most established barcode standards and barcode specifications. It has the ability to export to multiple image formats including: BMP, GIF, JPEG, PNG and TIFF.
 
 {{% /alert %}}
 
