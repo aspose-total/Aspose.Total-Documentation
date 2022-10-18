@@ -52,3 +52,24 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Slides for PHP via Java Free Support Forum](https://forum.aspose.com/)
 - [Aspose.Slides for PHP via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
+{{% alert color="primary" %}}
+
+![Aspose.BarCode for PHP via Java](aspose_barcode-for-php-via-java.png)
+
+**Welcome to Aspose.BarCode for PHP via Java**
+
+_Aspose.Slides for PHP via Java_ provides all the valuable features of Aspose.Slides for Java using JavaBridge. Aspose.Cells for PHP via Java is a class library that enables you to perform a great range of spreadsheet processing tasks. Aspose.Cells for PHP via Java is a scalable and feature rich API that offers spreadsheet format conversion, styling of worksheets to the most granular level, chart management & rendering, and our reliable Formula Calculation Engine. Aspose.Cells for PHP via Java supports XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, PDF, XPS and other formats. With Aspose.Cells for PHP via Java you can generate, modify, convert and render Excel documents.
+
+{{% /alert %}}
+
+## **Aspose.BarCode for PHP via Java Resources**
+
+The following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.BarCode for Java](https://docs.aspose.com/barcode/java/)- (**Aspose.BarCode for PHP via Java** is ported from **Aspose.BarCode for Java**. So, you can use the same documentation)
+- [Aspose.BarCode for PHP via Java Features](https://docs.aspose.com/barcode/java/aspose-barcode-for-php-via-java-features/)
+- [Aspose.BarCode for PHP via Java Product Page](https://products.aspose.com/barcode/php-java/)
+- [Download Aspose.BarCode for PHP via Java](https://releases.aspose.com/barcode/php/)
+- [Aspose.BarCode for PHP via Java API Reference Guide](https://reference.aspose.com/barcode/php/)
+- [Aspose.BarCode for PHP via Java Free Support Forum](https://forum.aspose.com/)
+- [Aspose.BarCode for PHP via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
