@@ -33,29 +33,6 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
-**![Aspose.Cells for Android via Java](aspose_cells-for-android-java.png)**
-
-**Welcome to the Aspose.Cells for Android via Java**
-
-Aspose.Cells for Android via Java is a flexible component that enables Android applications to create and manage Excel spreadsheets without requiring Microsoft Excel. Aspose.Cells for Android via Java's ultimate goal is to bring all stunning features of Aspose.Cells for Java to the Android platform that makes it possible to do native Android development in Java, with either Android Studio or any IDE that supports Android development. Aspose.Cells for Android via Java is a class library that enables your native Android applications to perform a great range of document processing tasks. Aspose.Cells for Android via Java supports XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS and other formats. With Aspose.Cells for Android via Java you can generate, modify, convert and render spreadsheets.
-
-{{% /alert %}}
-
-## **Aspose.Cells for Android via Java Resources**
-
-The following are the links to some useful resources you may need to accomplish your tasks.
-
-- [Aspose.Cells for Java Online Documentation](/cells/java/) (Aspose.Cells for Android via Java is very similar to Aspose.Cells for Java. So, you can use the same documentation)
-- [Aspose.Cells for Android via Java Features](/cells/java/aspose-cells-for-android-via-java-features/)
-- [Aspose.Cells for Android via Java Limitations and API Differences](/cells/java/aspose-cells-for-android-via-java-limitations-and-api-differences/)
-- [Aspose.Cells for Android via Java Release Notes](/cells/java/aspose-cells-for-android-via-java/)
-- [Aspose.Cells for Android via Java Product Page](https://products.aspose.com/cells/android-java/)
-- [Download Aspose.Cells for Android via Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)
-- [Install Aspose.Cells for Android via Java from Maven](/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository)
-- [Aspose.Cells for Android via Java API Reference Guide](https://reference.aspose.com/cells/java) (Aspose.Cells for Android via Java is very similar to Aspose.Cells for Java. So, you can use the same API Reference Guide)
-
-{{% alert color="primary" %}} 
-
 **![Aspose.PDF for Android via Java](aspose_pdf-for-android-java.png)**
 
 **Welcome to Aspose.PDF for Android via Java**
@@ -80,6 +57,49 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}} 
 
+**![Aspose.Cells for Android via Java](aspose_cells-for-android-java.png)**
+
+**Welcome to the Aspose.Cells for Android via Java**
+
+Aspose.Cells for Android via Java is a flexible component that enables Android applications to create and manage Excel spreadsheets without requiring Microsoft Excel. Aspose.Cells for Android via Java's ultimate goal is to bring all stunning features of Aspose.Cells for Java to the Android platform that makes it possible to do native Android development in Java, with either Android Studio or any IDE that supports Android development. Aspose.Cells for Android via Java is a class library that enables your native Android applications to perform a great range of document processing tasks. Aspose.Cells for Android via Java supports XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS and other formats. With Aspose.Cells for Android via Java you can generate, modify, convert and render spreadsheets.
+
+{{% /alert %}}
+
+## **Aspose.Cells for Android via Java Resources**
+
+The following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.Cells for Java Online Documentation](/cells/java/) (Aspose.Cells for Android via Java is very similar to Aspose.Cells for Java. So, you can use the same documentation)
+- [Aspose.Cells for Android via Java Features](/cells/java/aspose-cells-for-android-via-java-features/)
+- [Aspose.Cells for Android via Java Limitations and API Differences](/cells/java/aspose-cells-for-android-via-java-limitations-and-api-differences/)
+- [Aspose.Cells for Android via Java Release Notes](/cells/java/aspose-cells-for-android-via-java/)
+- [Aspose.Cells for Android via Java Product Page](https://products.aspose.com/cells/android-java/)
+- [Download Aspose.Cells for Android via Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)
+- [Install Aspose.Cells for Android via Java from Maven](/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository)
+- [Aspose.Cells for Android via Java API Reference Guide](https://reference.aspose.com/cells/java) (Aspose.Cells for Android via Java is very similar to Aspose.Cells for Java. So, you can use the same API Reference Guide)
+
+{{% alert color="primary" %}} 
+
+**![Aspose.Email for Android via Java](aspose_email-for-android-java.png)**
+
+**Welcome to Aspose.Email for Android via Java**
+
+Aspose.Email for Android via Java API gives you the tools you need to create, read and manipulate Outlook MSG, PST, EML, EMLX, and MHT files from within an Android application. You can not only change the message body, but also manipulate (add, extract and remove) attachments from a message object. You can customize message headers by adding or removing recipients or changing the subject and other properties.
+
+{{% /alert %}}
+
+## **Aspose.Email for Android via Java Resources**
+
+The following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.Email for Java Online Documentation](/email/java/) (Aspose.Email for Android via Java is very similar to Aspose.Email for Java. So, you can use the same documentation)
+- [Aspose.Email for Android via Java Features](/email/androidjava/features-overview/)
+- [Aspose.Email for Android via Java Limitations and API Differences](/email/androidjava/limitations-and-api-differences/)
+- [Aspose.Email for Android via Java Release Notes](/email/java/android-via-java-release-notes/)
+- [Aspose.Email for Android via Java Product Page](https://products.aspose.com/email/android-java/)
+- [Aspose.Email for Android via Java API Reference Guide](https://reference.aspose.com/email/java) 
+{{% alert color="primary" %}} 
+
 **![Aspose.Slides for Android via Java](aspose_slides-for-android-java.png)**
 
 **Welcome to Aspose.Slides for Android via Java**
@@ -102,23 +122,3 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Slides for Android via Java Free Support Forum](https://forum.aspose.com/c/slides/11)
 - [Aspose.Slides for Android via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-{{% alert color="primary" %}} 
-
-**![Aspose.Email for Android via Java](aspose_email-for-android-java.png)**
-
-**Welcome to Aspose.Email for Android via Java**
-
-Aspose.Email for Android via Java API gives you the tools you need to create, read and manipulate Outlook MSG, PST, EML, EMLX, and MHT files from within an Android application. You can not only change the message body, but also manipulate (add, extract and remove) attachments from a message object. You can customize message headers by adding or removing recipients or changing the subject and other properties.
-
-{{% /alert %}}
-
-## **Aspose.Email for Android via Java Resources**
-
-The following are the links to some useful resources you may need to accomplish your tasks.
-
-- [Aspose.Email for Java Online Documentation](/email/java/) (Aspose.Email for Android via Java is very similar to Aspose.Email for Java. So, you can use the same documentation)
-- [Aspose.Email for Android via Java Features](/email/androidjava/features-overview/)
-- [Aspose.Email for Android via Java Limitations and API Differences](/email/androidjava/limitations-and-api-differences/)
-- [Aspose.Email for Android via Java Release Notes](/email/java/android-via-java-release-notes/)
-- [Aspose.Email for Android via Java Product Page](https://products.aspose.com/email/android-java/)
-- [Aspose.Email for Android via Java API Reference Guide](https://reference.aspose.com/email/java) 
