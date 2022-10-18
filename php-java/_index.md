@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}}
 
-![Aspose.Cells for PHP via Java](aspose_cells-for-php-java.png)
+![Aspose.Cells for PHP via Java](aspose_cells-for-php-via-java.png)
 
 **Welcome to Aspose.Cells for PHP via Java**
 
@@ -31,7 +31,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.Slides for PHP via Java](aspose_slides-for-php-java.png)
+![Aspose.Slides for PHP via Java](aspose_slides-for-php-via-java.png)
 
 **Welcome to Aspose.Slides for PHP via Java**
 
