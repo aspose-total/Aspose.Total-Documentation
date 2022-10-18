@@ -2,7 +2,7 @@
 title: Aspose.Total for Android via Java
 type: docs
 weight: 40
-url: /android-java/
+url: /androids-java/
 is_root: true
 ---
 
