@@ -23,9 +23,9 @@ With Aspose.Words for Python via .NET, you can generate, modify, convert, and re
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Words for Python via .NET Online Documentation](/words/python-net/)
-- [Aspose.Words for Python via .NET Features Overview](/words/python-net/features/)
-- [Aspose.Words for Python via .NET Release Notes](/words/python-net/release-notes/)
+- [Aspose.Words for Python via .NET Online Documentation](https://docs.aspose.com/words/python-net/)
+- [Aspose.Words for Python via .NET Features Overview](https://docs.aspose.com/words/python-net/features/)
+- [Aspose.Words for Python via .NET Release Notes](https://docs.aspose.com/words/python-net/release-notes/)
 - [Aspose.Words for Python via .NET Product Page](https://products.aspose.com/words/python-net/)
 - [Aspose.Words for Python via .NET Free Support Forum](https://forum.aspose.com/)
 - [Aspose.Words for Python via .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
@@ -46,9 +46,9 @@ Aspose.Email implements a number of network protocols, for example SMTP, MIME, P
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Email for Python via .NET Online Documentation](/email/python-net/)
-- [Aspose.Email for Python via .NET Features Overview](/email/python-net/features-overview/)
-- [Aspose.Email for Python via .NET Release Notes](/email/python-net/release-notes/)
+- [Aspose.Email for Python via .NET Online Documentation](https://docs.aspose.com/email/python-net/)
+- [Aspose.Email for Python via .NET Features Overview](https://docs.aspose.com/email/python-net/features-overview/)
+- [Aspose.Email for Python via .NET Release Notes](https://docs.aspose.com/email/python-net/release-notes/)
 - [Aspose.Email for Python via .NET Product Page](https://products.aspose.com/email/python-net/)
 - [Aspose.Email for Python via .NET Free Support Forum](https://forum.aspose.com/)
 - [Aspose.Email for Python via .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
@@ -71,9 +71,9 @@ Aspose.Slides for Python via .NET provides a lot of key features such as managin
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Slides for Python via .NET Online Documentation](/slides/python-net/)
-- [Aspose.Slides for Python via .NET Features Overview](/slides/python-net/features-overview/)
-- [Aspose.Slides for Python via .NET Release Notes](/slides/python-net/release-notes/)
+- [Aspose.Slides for Python via .NET Online Documentation](https://docs.aspose.com/slides/python-net/)
+- [Aspose.Slides for Python via .NET Features Overview](https://docs.aspose.com/slides/python-net/features-overview/)
+- [Aspose.Slides for Python via .NET Release Notes](https://docs.aspose.com/slides/python-net/release-notes/)
 - [Aspose.Slides for Python via .NET Product Page](https://products.aspose.com/slides/python-net/)
 - [Aspose.Slides for Python via .NET Free Support Forum](https://forum.aspose.com/)
 - [Aspose.Slides for Python via .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
@@ -94,9 +94,9 @@ You can use the API to read a variety of Visio file types that can be saved as o
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Diagram for Python via .NET Online Documentation](/diagram/python-net/)
-- [Aspose.Diagram for Python via .NET Features Overview](/diagram/python-net/features/)
-- [Aspose.Diagram for Python via .NET Release Notes](/diagram/python-net/release-notes/)
+- [Aspose.Diagram for Python via .NET Online Documentation](https://docs.aspose.com/diagram/python-net/)
+- [Aspose.Diagram for Python via .NET Features Overview](https://docs.aspose.com/diagram/python-net/features/)
+- [Aspose.Diagram for Python via .NET Release Notes](https://docs.aspose.com/diagram/python-net/release-notes/)
 - [Aspose.Diagram for Python via .NET Product Page](https://products.aspose.com/diagram/python-net/)
 - [Aspose.Diagram for Python via .NET Free Support Forum](https://forum.aspose.com/)
 - [Aspose.Diagram for Python via .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
@@ -119,9 +119,31 @@ The API is user friendly and saves time and money than creating a similar soluti
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.3D for Python via .NET Online Documentation](/3d/python-net/)
-- [Aspose.3D for Python via .NET Features Overview](/3d/python-net/feature-list/)
-- [Aspose.3D for Python via .NET Release Notes](/3d/python-net/release-notes/)
+- [Aspose.3D for Python via .NET Online Documentation](https://docs.aspose.com/3d/python-net/)
+- [Aspose.3D for Python via .NET Features Overview](https://docs.aspose.com/3d/python-net/feature-list/)
+- [Aspose.3D for Python via .NET Release Notes](https://docs.aspose.com/3d/python-net/release-notes/)
 - [Aspose.3D for Python via .NET Product Page](https://products.aspose.com/3d/python-net/)
 - [Aspose.3D for Python via .NET Free Support Forum](https://forum.aspose.com/)
 - [Aspose.3D for Python via .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
+
+{{% alert color="primary" %}}
+
+**![Aspose.Finance for Python via .NET](aspose_finance-for-python-net.png)**
+
+**Welcome to Aspose.Finance for Python via .NET**
+
+Aspose.Finance, as a pure Python library provides much better performance and ease of use to manipulate finance-related formats, such as XBRL, iXBRL, OFX. The finance API is extensible, easy to use and compact and provides all common functionality so developers write less code to do common operations.
+
+{{% /alert %}} 
+
+## **Aspose.Finance for Python via .NET Resources**
+
+Following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.Finance for Python via .NET Online Documentation](https://docs.aspose.com/finance/python-net/)
+- [Aspose.Finance for Python via .NET Features Overview](https://docs.aspose.com/finance/python-net/feature-list/)
+- [Aspose.Finance for Python via .NET Release Notes](https://docs.aspose.com/finance/python-net/release-notes/)
+- [Aspose.Finance for Python via .NET Product Page](https://products.aspose.com/finance/python-net/)
+- [Aspose.Finance for Python via .NET Free Support Forum](https://forum.aspose.com/)
+- [Aspose.Finance for Python via .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
+- [Download Aspose.Finance for Python via .Net](https://releases.aspose.com/finance/python-net/)
