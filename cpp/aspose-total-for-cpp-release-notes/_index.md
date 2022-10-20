@@ -22,7 +22,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Email for C++|22.9|[Aspose.Email for C++ 22.9](https://docs.aspose.com/email/cpp/aspose-email-for-cpp-22-9-release-notes/)|
 |Aspose.Slides for C++|22.9|[Aspose.Slides for C++ 22.9](https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-22-9-release-notes/)|
 |Aspose.BarCode for C++|22.9|[Aspose.BarCode for C++ 22.9](https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-9-release-notes/)|
-|Aspose.Tasks for C++|22.9|[Aspose.Tasks for C++ 22.9](https://docs.aspose.com/tasks/cpp/aspose-tasks-for-net-22-9-release-notes/)|
+|Aspose.Tasks for C++|22.9|[Aspose.Tasks for C++ 22.9](https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-9-release-notes/)|
 |Aspose.OCR for C++|22.10|[Aspose.OCR for C++ 22.10](https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22-10-0-release-notes/)|
 |Aspose.Page for C++|22.9|[Aspose.Page for C++ 22.9](https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-9-release-notes/)|
 |Aspose.PUB for C++|22.9|[Aspose.PUB for C++ 22.9](https://docs.aspose.com/pub/cpp/aspose-pub-for-cpp-22-9-release-notes/)|
