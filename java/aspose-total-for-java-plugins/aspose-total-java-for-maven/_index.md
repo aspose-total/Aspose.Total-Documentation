@@ -15,7 +15,7 @@ The following are the key features of Maven in a nutshell:
 - Consistent usage across all projects means no ramp up time for new developers coming onto a project
 - Superior dependency management including automatic updating, dependency closures (also known as transitive dependencies)
 - A large and growing repository of libraries and metadata to use out of the box, and arrangements in place with the largest Open Source projects for real-time availability of their latest releases
-- Dependency management: Maven encourages the use of a central repository of JARs and other dependencies. Maven comes with a mechanism that your project's clients can use to download any JARs required for building your project from a central JAR repository / Third party repository like [Aspose Cloud Maven Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo) (provides Aspose.Total for Java APIs Maven Dependencies). This allows users of Maven to reuse JARs across projects and encourages communication between projects.
+- Dependency management: Maven encourages the use of a central repository of JARs and other dependencies. Maven comes with a mechanism that your project's clients can use to download any JARs required for building your project from a central JAR repository / Third party repository like [Aspose Cloud Maven Repository](https://releases.aspose.com/java/repo/) (provides Aspose.Total for Java APIs Maven Dependencies). This allows users of Maven to reuse JARs across projects and encourages communication between projects.
 ### **Introduction to Maven Repositories**
 A repository in Maven is used to hold build artifacts and dependencies of varying types.
 

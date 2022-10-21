@@ -20,7 +20,7 @@ Below are the steps will lead you to the successful configuration of Aspose Clou
 
     <name>Aspose Java API</name>
 
-    <url>http://repository.aspose.com/repo/</url>
+    <url>https://releases.aspose.com/java/repo/</url>
 
   </repository>
 
