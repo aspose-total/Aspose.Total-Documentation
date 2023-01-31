@@ -19,7 +19,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.PDF for .NET|22.9|[Aspose.PDF for .NET 22.9](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-9-release-notes/)|
 |Aspose.Cells for .NET|23.1|[Aspose.Cells for .NET 23.1](https://docs.aspose.com/cells/net/aspose-cells-for-net-23-1-release-notes/)|
 |Aspose.Email for .NET|22.9|[Aspose.Email for .NET 22.9](https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/)|
-|Aspose.Slides for .NET|22.11|[Aspose.Slides for .NET 22.11](https://docs.aspose.com/slides/net/aspose-slides-for-net-22-11-release-notes/)|
+|Aspose.Slides for .NET|23.1|[Aspose.Slides for .NET 23.1](https://docs.aspose.com/slides/net/aspose-slides-for-net-23-1-release-notes/)|
 |Aspose.Imaging for .NET|22.10|[Aspose.Imaging for .NET 22.10](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-10-release-notes/)|
 |Aspose.BarCode for .NET|22.1|[Aspose.BarCode for .NET 22.1](https://docs.aspose.com/barcode/net/aspose-barcode-for-net-22-1-release-notes/)|
 |Aspose.Diagram for .NET|23.1|[Aspose.Diagram for .NET 23.1](https://docs.aspose.com/diagram/net/aspose-diagram-for-net-23-1-release-notes/)|
