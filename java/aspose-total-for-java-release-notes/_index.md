@@ -17,12 +17,12 @@ This page contains the links to release notes for all APIs included in Aspose.To
 | :- | :- | :- |
 |Aspose.Words for Java|22.10|[Aspose.Words for Java 22.10](https://docs.aspose.com/words/java/aspose-words-for-java-22-10-release-notes/)|
 |Aspose.PDF for Java|22.9|[Aspose.PDF for Java 22.9](https://docs.aspose.com/pdf/java/aspose-pdf-for-java-22-9-release-notes/)|
-|Aspose.Cells for Java|23.1|[Aspose.Cells for Java 23.1](https://docs.aspose.com/cells/java/aspose-cells-for-java-23-1-release-notes/)|
+|Aspose.Cells for Java|23.3|[Aspose.Cells for Java 23.3](https://docs.aspose.com/cells/java/aspose-cells-for-java-23-3-release-notes/)|
 |Aspose.Email for Java|22.9|[Aspose.Email for Java 22.9](https://docs.aspose.com/email/java/aspose-email-for-java-22-9-release-notes/)|
 |Aspose.Slides for Java|23.1|[Aspose.Slides for Java 23.1](https://docs.aspose.com/slides/java/aspose-slides-for-java-23-1-release-notes/)|
 |Aspose.Imaging for Java|22.10|[Aspose.Imaging for Java 22.10](https://docs.aspose.com/imaging/java/aspose-imaging-for-java-22-10-release-notes/)|
 |Aspose.BarCode for Java|20.10|[Aspose.BarCode for Java 20.10](https://docs.aspose.com/barcode/java/aspose-barcode-for-java-22-10-release-notes/)|
-|Aspose.Diagram for Java|23.1|[Aspose.Diagram for Java 23.1](https://docs.aspose.com/diagram/java/aspose-diagram-for-java-23-1-release-notes/)|
+|Aspose.Diagram for Java|23.3|[Aspose.Diagram for Java 23.3](https://docs.aspose.com/diagram/java/aspose-diagram-for-java-23-3-release-notes/)|
 |Aspose.Tasks for Java|22.10|[Aspose.Tasks for Java 22.10](https://docs.aspose.com/tasks/java/aspose-tasks-for-java-22-10-release-notes/)|
 |Aspose.OCR for Java|22.9|[Aspose.OCR for Java 22.9](https://docs.aspose.com/ocr/java/aspose-ocr-for-java-22-9-release-notes/)|
 |Aspose.Note for Java|22.9|[Aspose.Note for Java 22.9](https://docs.aspose.com/note/java/aspose-note-for-java-22-9-release-notes/)|
