@@ -20,7 +20,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.Cells for C++|22.10|[Aspose.Cells for C++ 22.10 for Windows](https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-10-release-notes-windows/)|
 |Aspose.Cells for C++|22.10|[Aspose.Cells for C++ 22.10 for Linux](https://docs.aspose.com/cells/cpp/aspose-cells-for-cpp-22-10-release-notes-linux/)|
 |Aspose.Email for C++|22.9|[Aspose.Email for C++ 22.9](https://docs.aspose.com/email/cpp/aspose-email-for-cpp-22-9-release-notes/)|
-|Aspose.Slides for C++|23.1|[Aspose.Slides for C++ 23.1](https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-1-release-notes/)|
+|Aspose.Slides for C++|23.3|[Aspose.Slides for C++ 23.3](https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-23-3-release-notes/)|
 |Aspose.BarCode for C++|22.9|[Aspose.BarCode for C++ 22.9](https://docs.aspose.com/barcode/cpp/aspose-barcode-for-cpp-22-9-release-notes/)|
 |Aspose.Tasks for C++|22.9|[Aspose.Tasks for C++ 22.9](https://docs.aspose.com/tasks/cpp/aspose-tasks-for-cpp-22-9-release-notes/)|
 |Aspose.OCR for C++|22.10|[Aspose.OCR for C++ 22.10](https://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-22-10-0-release-notes/)|
