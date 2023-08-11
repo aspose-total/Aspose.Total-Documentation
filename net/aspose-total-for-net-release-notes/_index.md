@@ -17,7 +17,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 | :- | :- | :- |
 |Aspose.Words for .NET|22.10|[Aspose.Words for .NET 22.10](https://docs.aspose.com/words/net/aspose-words-for-net-22-10-release-notes/)|
 |Aspose.PDF for .NET|22.9|[Aspose.PDF for .NET 22.9](https://docs.aspose.com/pdf/net/aspose-pdf-for-net-22-9-release-notes/)|
-|Aspose.Cells for .NET|23.7|[Aspose.Cells for .NET 23.7](https://docs.aspose.com/cells/net/aspose-cells-for-net-23-7-release-notes/)|
+|Aspose.Cells for .NET|23.8|[Aspose.Cells for .NET 23.8](https://docs.aspose.com/cells/net/aspose-cells-for-net-23-8-release-notes/)|
 |Aspose.Email for .NET|22.9|[Aspose.Email for .NET 22.9](https://docs.aspose.com/email/net/aspose-email-for-net-22-9-release-notes/)|
 |Aspose.Slides for .NET|23.6|[Aspose.Slides for .NET 23.6](https://docs.aspose.com/slides/net/aspose-slides-for-net-23-6-release-notes/)|
 |Aspose.Imaging for .NET|22.10|[Aspose.Imaging for .NET 22.10](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-22-10-release-notes/)|
