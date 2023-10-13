@@ -19,7 +19,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.PDF for Java|22.9|[Aspose.PDF for Java 22.9](https://docs.aspose.com/pdf/java/aspose-pdf-for-java-22-9-release-notes/)|
 |Aspose.Cells for Java|23.8|[Aspose.Cells for Java 23.8](https://docs.aspose.com/cells/java/aspose-cells-for-java-23-8-release-notes/)|
 |Aspose.Email for Java|22.9|[Aspose.Email for Java 22.9](https://docs.aspose.com/email/java/aspose-email-for-java-22-9-release-notes/)|
-|Aspose.Slides for Java|23.6|[Aspose.Slides for Java 23.6](https://docs.aspose.com/slides/java/aspose-slides-for-java-23-6-release-notes/)|
+|Aspose.Slides for Java|23.9|[Aspose.Slides for Java 23.9](https://docs.aspose.com/slides/java/aspose-slides-for-java-23-9-release-notes/)|
 |Aspose.Imaging for Java|22.10|[Aspose.Imaging for Java 22.10](https://docs.aspose.com/imaging/java/aspose-imaging-for-java-22-10-release-notes/)|
 |Aspose.BarCode for Java|20.10|[Aspose.BarCode for Java 20.10](https://docs.aspose.com/barcode/java/aspose-barcode-for-java-22-10-release-notes/)|
 |Aspose.Diagram for Java|23.7|[Aspose.Diagram for Java 23.7](https://docs.aspose.com/diagram/java/aspose-diagram-for-java-23-7-release-notes/)|
