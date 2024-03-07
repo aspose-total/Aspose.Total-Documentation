@@ -35,7 +35,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.PSD for .NET|22.10|[Aspose.PSD for .NET 22.10](https://docs.aspose.com/psd/net/aspose-psd-for-net-22-10-release-notes/)|
 |Aspose.OMR for .NET|22.9|[Aspose.OMR for .NET 22.9](https://docs.aspose.com/omr/net/aspose-omr-for-net-22-9-release-notes/)|
 |Aspose.PUB for .NET|22.6|[Aspose.PUB for .NET 22.6](https://docs.aspose.com/pub/net/aspose-pub-for-net-22-6-release-notes/)|
-|Aspose.SVG for .NET|24.2|[Aspose.SVG for .NET 24.2](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-2-release-notes/)|
+|Aspose.SVG for .NET|24.3|[Aspose.SVG for .NET 24.3](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-3-release-notes/)|
 |Aspose.Finance for .NET |22.9|[Aspose.Finance for .NET 22.9](https://docs.aspose.com/finance/net/aspose-finance-for-net-22-9-release-notes/)|
 |Aspose.Drawing for .NET|22.10|[Aspose.Drawing for .NET 22.10](https://docs.aspose.com/drawing/net/aspose-drawing-for-net-22-10-release-notes/)|
 |Aspose.Font for .NET|22.9|[Aspose.Font for .NET 22.9](https://docs.aspose.com/font/net/aspose-font-for-net-22-9-release-notes/)|
