@@ -27,7 +27,7 @@ This page contains the links to release notes for all APIs included in Aspose.To
 |Aspose.OCR for Java|22.9|[Aspose.OCR for Java 22.9](https://docs.aspose.com/ocr/java/aspose-ocr-for-java-22-9-release-notes/)|
 |Aspose.Note for Java|22.9|[Aspose.Note for Java 22.9](https://docs.aspose.com/note/java/aspose-note-for-java-22-9-release-notes/)|
 |Aspose.CAD for Java|22.6|[Aspose.CAD for Java 22.6](https://docs.aspose.com/cad/java/aspose-cad-for-java-22-6-release-notes/)|
-|Aspose.3D for Java|22.10|[Aspose.3D for Java 22.10](https://docs.aspose.com/3d/java/aspose-3d-for-java-22-10-release-notes/)|
+|Aspose.3D for Java|24.9|[Aspose.3D for Java 24.9](https://releases.aspose.com/3d/java/release-notes/2024/aspose-3d-for-java-24-9-release-notes/)|
 |Aspose.HTML for Java|22.9|[Aspose.HTML for Java 22.9](https://docs.aspose.com/html/java/aspose-html-for-java-22-9-release-notes/)|
 |Aspose.Page for Java|22.9|[Aspose.Page for Java 22.9](https://docs.aspose.com/page/java/aspose-page-for-java-22-9-release-notes/)|
 |Aspose.PSD for Java|21.7|[Aspose.PSD for Java 21.7](https://docs.aspose.com/psd/java/aspose-psd-for-java-21-7-release-notes/)|
