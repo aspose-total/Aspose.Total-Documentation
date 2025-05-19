@@ -72,3 +72,49 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Diagram for Node.js via Java API Reference Guide](https://reference.aspose.com/diagram/nodejs/)
 - [Aspose.Diagram for Node.js via Java Free Support Forum](https://forum.aspose.com/)
 - [Aspose.Diagram for Node.js via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
+
+{{% alert color="primary" %}}
+
+![Aspose.Slides for Node.js via Java](aspose_slides-for-nodejs-java.png)
+
+**Welcome to Aspose.Slides for Node.js via Java**
+
+_Aspose.Slides for Node.js via Java_ offers all the powerful features of Aspose.Slides for Java using Node.js. This API enables you to manipulate PowerPoint and OpenOffice presentations within your Node.js applications without requiring Microsoft PowerPoint or any other external dependencies. With Aspose.Slides for Node.js via Java, you can work with presentation elements such as slides, shapes, text, charts, tables, images, and more. The API supports comprehensive presentation processing capabilities including creating, modifying, converting and rendering presentations in various formats like PPT, PPTX, POT, POTX, PPS, PPSX and many more.
+
+{{% /alert %}}
+
+## **Aspose.Slides for Node.js via Java Resources**
+
+The following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.Slides for Java Online Documentation](https://docs.aspose.com/slides/java/) - (**Aspose.Slides for Node.js via Java** is ported from **Aspose.Slides for Java**. So, you can use the same documentation)
+- [Aspose.Slides for Node.js via Java Features](https://docs.aspose.com/slides/nodejs-java/features-overview/)
+- [Aspose.Slides for Node.js via Java Release Notes](https://releases.aspose.com/slides/nodejs-java/release-notes/)
+- [Aspose.Slides for Node.js via Java Product Page](https://products.aspose.com/slides/nodejs-java/)
+- [Download Aspose.Slides for Node.js via Java](https://releases.aspose.com/slides/nodejs-java/)
+- [Aspose.Slides for Node.js via Java API Reference Guide](https://reference.aspose.com/slides/nodejs-java/)
+- [Aspose.Slides for Node.js via Java Free Support Forum](https://forum.aspose.com/)
+- [Aspose.Slides for Node.js via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
+
+{{% alert color="primary" %}}
+
+![Aspose.3D for Node.js via Java](aspose_3d-for-nodejs-java.png)
+
+**Welcome to Aspose.3D for Node.js via Java**
+
+_Aspose.3D for Node.js via Java_ API provides the powerful features of Aspose.3D for Java through Node.js. This API allows developers to work with 3D file formats directly within Node.js applications. With Aspose.3D for Node.js via Java, you can create, read, convert, modify and control the substance of 3D document formats including Discreet3DS, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY, DirectX, and Google Draco file formats. It's a standalone API that doesn't rely on any external modeling or rendering software, enabling developers to create robust 3D processing applications with ease.
+
+{{% /alert %}}
+
+## **Aspose.3D for Node.js via Java Resources**
+
+The following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.3D for Java Online Documentation](https://docs.aspose.com/3d/java/) - (**Aspose.3D for Node.js via Java** is ported from **Aspose.3D for Java**. So, you can use the same documentation)
+- [Aspose.3D for Node.js via Java Features](https://docs.aspose.com/3d/nodejs-java/product-overview/)
+- [Aspose.3D for Node.js via Java Release Notes](https://releases.aspose.com/3d/nodejs-java/release-notes/)
+- [Aspose.3D for Node.js via Java Product Page](https://products.aspose.com/3d/nodejs-java/)
+- [Download Aspose.3D for Node.js via Java](https://releases.aspose.com/3d/nodejs-java/)
+- [Aspose.3D for Node.js via Java API Reference Guide](https://reference.aspose.com/3d/nodejs-java/)
+- [Aspose.3D for Node.js via Java Free Support Forum](https://forum.aspose.com/)
+- [Aspose.3D for Node.js via Java Paid Support Helpdesk](https://helpdesk.aspose.com/)

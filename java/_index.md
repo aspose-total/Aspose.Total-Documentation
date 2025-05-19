@@ -510,3 +510,27 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.TeX for Java API Reference Guide](https://reference.aspose.com/tex/java)
 - [Aspose.TeX for Java Free Support Forum](https://forum.aspose.com/c/tex/47)
 - [Aspose.TeX for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
+
+{{% alert color="primary" %}}
+
+![Aspose.ZIP for Java](aspose_zip-for-java.png)
+
+**Welcome to Aspose.ZIP for Java**
+
+Aspose.ZIP for Java is a flexible and easy-to-use API that allows Java applications to work with file compression and archiving. It enables developers to create, extract, update, and manipulate archive files such as ZIP, RAR, TAR, GZIP, and more. With Aspose.ZIP for Java, you can compress files and folders, apply encryption with various algorithms, and perform operations like adding, removing, or extracting entries from existing archives without any external dependencies.
+
+The API supports popular compression techniques and provides features for password protection, split archives, and memory-efficient streaming operations. Aspose.ZIP for Java integrates seamlessly with other Aspose products, making it an ideal solution for comprehensive document processing workflows in Java applications.
+
+{{% /alert %}}
+
+## **Aspose.ZIP for Java Resources**
+
+The following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.ZIP for Java API Reference Guide](https://reference.aspose.com/zip/java/)
+- [Aspose.ZIP for Java Online Documentation](/zip/java/)
+- [Aspose.ZIP for Java Features](/zip/java/features/)
+- [Aspose.ZIP for Java Product Page](https://products.aspose.com/zip/java/)
+- [Download Aspose.ZIP for Java](https://releases.aspose.com/zip/java)
+- [Aspose.ZIP for Java Free Support Forum](https://forum.aspose.com/c/zip/37)
+- [Aspose.ZIP for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
