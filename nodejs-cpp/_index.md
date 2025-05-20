@@ -31,10 +31,8 @@ With Aspose.PDF for Node.js via C++, developers can programmatically generate PD
 Following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.PDF for Node.js via C++ Online Documentation](https://docs.aspose.com/pdf/nodejs-cpp/)
-- [Aspose.PDF for Node.js via C++ Features Overview](https://docs.aspose.com/pdf/nodejs-cpp/features-overview/)
-- [Aspose.PDF for Node.js via C++ Release Notes](https://docs.aspose.com/pdf/nodejs-cpp/release-notes/)
 - [Aspose.PDF for Node.js via C++ Product Page](https://products.aspose.com/pdf/nodejs-cpp/)
-- [Download Aspose.PDF for Node.js via C++](https://downloads.aspose.com/pdf/nodejs-cpp)
+- [Download Aspose.PDF for Node.js via C++](https://releases.aspose.com/pdf/nodejscpp)
 - [Aspose.PDF for Node.js via C++ API Reference](https://reference.aspose.com/pdf/nodejs-cpp/)
 - [Aspose.PDF for Node.js via C++ Free Support Forum](https://forum.aspose.com/c/pdf/10)
 - [Aspose.PDF for Node.js via C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
@@ -79,11 +77,8 @@ The library integrates seamlessly with Node.js server environments, making it id
 Following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.OCR for Node.js via C++ Online Documentation](https://docs.aspose.com/ocr/nodejs-cpp/)
-- [Aspose.OCR for Node.js via C++ Features Overview](https://docs.aspose.com/ocr/nodejs-cpp/features-overview/)
-- [Aspose.OCR for Node.js via C++ Release Notes](https://docs.aspose.com/ocr/nodejs-cpp/release-notes/)
 - [Aspose.OCR for Node.js via C++ Product Page](https://products.aspose.com/ocr/nodejs-cpp/)
 - [Download Aspose.OCR for Node.js via C++](https://releases.aspose.com/ocr/nodejs-cpp)
-- [Aspose.OCR for Node.js via C++ API Reference](https://reference.aspose.com/ocr/nodejs-cpp/)
 - [Aspose.OCR for Node.js via C++ Free Support Forum](https://forum.aspose.com/c/ocr/16)
 - [Aspose.OCR for Node.js via C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 

@@ -513,7 +513,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}}
 
-![Aspose.ZIP for Java](aspose_zip-for-java.png)
+![Aspose.ZIP for Java](aspose_words-for-zip.png)
 
 **Welcome to Aspose.ZIP for Java**
 

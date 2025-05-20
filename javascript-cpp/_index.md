@@ -32,7 +32,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [Aspose.PDF for JavaScript via C++ Online Documentation](https://docs.aspose.com/pdf/javascript-cpp/)
 - [Aspose.PDF for JavaScript via C++ Product Page](https://products.aspose.com/pdf/javascript-cpp/)
-- [Download Aspose.PDF for JavaScript via C++](https://downloads.aspose.com/pdf/javascript-cpp)
+- [Download Aspose.PDF for JavaScript via C++](https://releases.aspose.com/pdf/javascriptcpp)
 - [Aspose.PDF for JavaScript via C++ Free Support Forum](https://forum.aspose.com/c/pdf/10)
 - [Aspose.PDF for JavaScript via C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
@@ -76,6 +76,6 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [Aspose.Font for JavaScript via C++ Online Documentation](https://docs.aspose.com/font/javascript-cpp/)
 - [Aspose.Font for JavaScript via C++ Product Page](https://products.aspose.com/font/javascript-cpp/)
-- [Download Aspose.Font for JavaScript via C++](https://downloads.aspose.com/font/javascript-cpp)
+- [Download Aspose.Font for JavaScript via C++](https://releases.aspose.com/font/javascript-cpp)
 - [Aspose.Font for JavaScript via C++ Free Support Forum](https://forum.aspose.com/c/font/41)
 - [Aspose.Font for JavaScript via C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
